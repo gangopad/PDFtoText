@@ -1,0 +1,477 @@
+Sevinc et al. Journal of Medical Case Reports  (2015) 9:92 
+DOI 10.1186/s13256-015-0575-y
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Plasma resistant atypical hemolytic uremic
+syndrome associated with a CFH mutation treated
+with eculizumab: a case report
+Mustafa Sevinc1*, Taner Basturk1, Tuncay Sahutoglu1, Tamer Sakaci1, Yener Koc1, Elbis Ahbap1, Cuneyt Akgol1,
+Ekrem Kara1, Vicky Brocklebank2, Tim HJ Goodship2, David Kavanagh2 and Abdulkadir Unsal1
+
+Open Access
+
+Abstract
+
+Introduction: Thrombotic microangiopathies are a group of diseases presenting as microangiopathic hemolytic
+anemia, thrombocytopenia and end-organ dysfunction. As the role of the complement system was elucidated in
+atypical hemolytic uremic syndrome pathogenesis, eculizumab was successfully introduced into clinical practice. We
+present a large pedigree with multiple individuals carrying a functionally significant novel factor H mutation. We
+describe the proband’s presentation following a presumed infectious trigger requiring plasma exchange and
+hemodialysis.
+Case presentation: A 32-year-old Caucasian woman presented with pyrexia and headache lasting one week to our
+Emergency Department. She gave no history of diarrhea or other symptoms to account for her high temperature.
+She was not taking any medication. She was pyrexial (38°C), tachycardic (110bpm) and hypertensive (160/110mmHg).
+Her fundoscopy revealed grade IV hypertensive retinopathy. She had mild pretibial and periorbital edema, with
+oliguria (450mL/day). She had a pregnancy one year previously, during which she had hypertension, proteinuria
+and edema, with successful delivery at term. Her mother had died in her early 30s with a clinical picture consistent
+with thrombotic microangiopathy. Her laboratory evaluation showed microangiopathic hemolytic anemia. After 22
+sessions of plasma exchange, her lactate dehydrogenase levels started to climb. As a result, she was classified as
+plasma resistant and eculizumab therapy was instituted. Her lactate dehydrogenase level and platelet count
+normalized, and her renal function recovered after three months of dialysis.
+Conclusions: We demonstrate that, even in patients with atypical hemolytic uremic syndrome and prolonged
+dialysis dependence, recovery of renal function can be seen with eculizumab treatment. We suggest a treatment
+regime of at least three months prior to evaluation of efficacy.
+Keywords: Eculizumab, Factor H, Complement, Hemolytic uremic syndrome
+
+Introduction
+Thrombotic microangiopathies (TMAs) are a group of
+conditions characterized by microangiopathic hemolytic
+anemia, thrombocytopenia and microvascular occlusion.
+These include thrombotic thrombocytopenic purpura
+(TTP), Shiga toxin-associated hemolytic uremic syn-
+drome, disseminated intravascular coagulation, secondary
+
+* Correspondence: musevinc@hotmail.com
+1Department of Nephrology, Sisli Hamidiye Etfal Training and Education
+Hospital, Halaskargazi Cad. Etfal Sok, 34371 Şişli, Istanbul, Turkey
+Full list of author information is available at the end of the article
+
+TMAs (such as those caused by drugs and malignancy)
+and atypical hemolytic uremic syndrome (aHUS).
+
+The last 20 years has seen the elucidation of the
+pathogenesis of these conditions but, until recently, this
+had no bearing on the treatment of disease [1]. TTP, an
+acquired or congenital deficiency of ADAMTS13, and
+aHUS, an over-activation of the alternative complement
+pathway (most commonly inherited), were both treated
+with plasma exchange.
+
+More recently eculizumab, a recombinant monoclonal
+antibody directed against complement component C5,
+has been successfully used in the management of aHUS
+
+© 2015 Sevinc et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Sevinc et al. Journal of Medical Case Reports  (2015) 9:92 
+
+Page 2 of 5
+
+[2]. A non-randomized uncontrolled trial has suggested
+improved efficacy over plasma exchange [3]. Despite its
+expense, it has revolutionized the management of aHUS,
+but has necessitated the rapid differentiation of aHUS
+from ADAMTS13 deficiency to allow its use in a timely
+manner. Without plasma exchange TTP can be rapidly
+fatal, and the clinician needs to be certain that a defi-
+ciency of ADAMTS13 is not the cause of the TMA be-
+fore plasma exchange can be withdrawn and eculizumab
+is initiated.
+
+We demonstrate a functionally significant complement
+factor H (CFH) genetic mutation in the proband and
+demonstrate incomplete penetrance in her family. We
+describe the clinical course, with plasma resistance ne-
+cessitating the introduction of eculizumab. We show
+that even following prolonged dialysis dependence, eculi-
+zumab can prevent the TMA process, allowing renal re-
+covery and dialysis independence.
+
+Case presentation
+A 32-year-old Caucasian woman presented with pyrexia and
+headache lasting one week to our Emergency Department.
+She gave no history of diarrhea or other symptoms to ac-
+count for her high temperature. She was not taking any
+medication. She was pyrexial (38°C), tachycardic (110bpm)
+and hypertensive (160/110mmHg). Her fundoscopy revealed
+grade IV hypertensive retinopathy. She had mild pretibial
+and periorbital edema, with oliguria (450mL/day).
+
+An evaluation of her medical history revealed that she
+had hypertension, proteinuria and edema during a
+
+pregnancy one year previously, which she had success-
+fully completed to term. No laboratory investigations
+were undertaken at that time. Her mother had died in
+her early 30s with a clinical picture consistent with a
+TMA (Figure 1).
+
+Her laboratory evaluation showed microangiopathic
+hemolytic anemia (hemoglobin: 6.6g/dL; unconjugated
+bilirubinemia: 2.1mg/dL; lactate dehydrogenase: 1610U/L
+(<480U/L); haptoglobin: 10mg/dL (41 to 165mg/dL);
+schistocytosis: 5%; negative Coombs test; reticulocytes:
+3.68%), thrombocytopenia (120×109/L), albumin 3g/dL
+and elevated serum creatinine (12.65mg/dL). Her urinary
+examination showed +++ proteinuria and the presence
+of eight to ten erythrocytes and two to three leucocytes;
+2.4g protein excretion in a 24-hour urine sample. Viral
+serologic markers for hepatitis B, hepatitis C and HIV
+were negative.
+
+A stool culture was negative for Shiga toxin-producing
+Escherichia coli. Her ADAMTS13 activity was within
+the normal range (73%), and she was negative for
+ADAMTS13 auto-antibodies (13UI/L). Antinuclear anti-
+bodies (ANA), anti-extractable nuclear antigens and anti-
+double stranded DNA antibodies were negative. Her C4
+level was normal (280mg/L) but her C3 level was low
+(80mg/dL (85 to 200mg/dL)). An ultrasonography of her
+abdomen revealed a normal right kidney but left kidney
+agenesis precluded a renal biopsy.
+
+Microangiopathic hemolytic anemia, thrombocytopenia,
+renal failure and a likely family history in the setting of
+normal ADAMTS13 activity led us to the diagnosis of
+
+Figure 1 Family pedigree. Family pedigree demonstrating affected individuals and unaffected carriers. Current age or age at presentation of
+atypical hemolytic uremic syndrome are given in years (y) or months (m). Arrow indicates current patient.
+
+Sevinc et al. Journal of Medical Case Reports  (2015) 9:92 
+
+Page 3 of 5
+
+aHUS, and plasma exchange (40mL/kg fresh frozen plasma
+per exchange) was immediately instituted. Hemodialysis
+was also required because of hypervolemia as evidenced by
+tachypnea, dyspnea, jugular venous distention and intract-
+able hypertension, and pulmonary congestion on her chest
+X-ray.
+
+Plasma exchange initially improved the biochemical and
+hematological markers of disease and treatment contin-
+ued. After 22 sessions of plasma exchange, her LDH level
+increased to 869U/L and her platelet count fell to 85×109/L,
+and it was decided to institute eculizumab therapy
+(Figure 2).
+
+Following vaccination against Neisseria meningitides,
+eculizumab was introduced at 900mg weekly for the first
+four weeks, followed by 1200mg for the fifth dose one
+week later and then 1200mg every two weeks thereafter.
+Her LDH level normalized and no further plasma ex-
+change was required. She had remained dialysis-dependent
+throughout her treatment, but following two months of
+eculizumab treatment her renal function improved to the
+extent that renal replacement therapy was not required. At
+20 months into eculizumab treatment her creatinine level
+was 1.50mg/dL, with no evidence of microangiopathic
+
+hemolytic anemia. The drug was well tolerated, with no
+significant adverse effects.
+
+While management proceeded, genetic analysis was
+undertaken to screen for predisposing aHUS risk factors
+as previously described. A heterozygous CFH rare genetic
+variant in exon 21 was found (c.3454T>A; p.C1152S), with
+no other genetic risk factors identified. This resulted in
+low levels of circulating CFH 0.32g/L (0.35 to 0.59g/L).
+She was negative for factor H autoantibodies.
+
+A factor H analysis of her father (I:1) and sister (II:5)
+revealed that they did not carry the variant, but her
+three brothers (II:2, II:3, II:4) carried the same mutation.
+The brothers’ renal function was normal and their urine
+analysis was unremarkable. It is therefore probable that
+the CFH mutation was inherited from her mother, and
+that the clinical syndrome which led to her death was
+aHUS; DNA was not available to confirm this hypothesis.
+
+Discussion
+Over the past 15 years, the pathogenesis of aHUS has been
+demonstrated to be a disease caused by hyper-activation of
+the alternative complement pathway [1]. Mutations in the
+complement regulators, CFH [4], complement factor I
+
+Figure 2 Disease course and treatment response. The timeline from presentation detailing platelet and lactate dehydrogenase (LDH) response to
+plasma exchange (PE) and eculizumab (Ecu).
+
+Sevinc et al. Journal of Medical Case Reports  (2015) 9:92 
+
+Page 4 of 5
+
+(CFI) [5], and membrane cofactor protein (CD46) [6], the
+complement components (C3) [7] and complement factor
+B (CFB) [8] have been shown to create a predisposition to
+aHUS. This ultimately led to the successful introduction of
+the complement inhibitor eculizumab in aHUS manage-
+ment [3].
+
+In our case report, our patient carried a mutation in
+CFH. Mutations in CFH are the most common mutation
+found in aHUS, accounting for around 25% of cases [1].
+The majority of mutations in CFH are heterozygous and
+usually do not result in a quantitative deficiency of factor
+H. Instead they result in a secreted protein which is un-
+able to bind to, and regulate, complement on endothelial
+cells, including glomerular endothelium [9]. In our case
+report, however, the mutation of the invariant cysteine
+C1152 prevented the formation of the CysI-CysIII disul-
+fide bond with C1109, and thus prevented the formation
+of a stable protein. These predicted structural effects are
+in keeping with the low plasma factor H levels of our
+patient.
+
+As is frequently seen, carriers of CFH mutations may re-
+main well for many years before presenting with aHUS fol-
+lowing an initiating trigger, such as upper respiratory tract
+fevers, pregnancy, drugs and non E. coli
+infections,
+diarrheal illnesses [1]. Infectious events, mainly upper re-
+spiratory tract infections or gastroenteritis, trigger onset of
+aHUS in at least half of patients [10,11]. Likewise,
+in
+pregnancy-associated aHUS, Fakhouri et al. [12] showed
+that 86% of patients for whom this was a trigger carried a
+complement gene mutation. In our case report it appears
+likely that, given our patient’s pyrexia on admission, an un-
+identified infection was the trigger. It is also of interest that
+during a previous pregnancy she developed hypertension,
+proteinuria and edema. Mutations in the complement sys-
+tem have also been described in pre-eclampsia [13].
+
+The inheritance pattern in aHUS is most commonly
+autosomal dominant, with incomplete penetrance [1].
+The proband’s brothers all carry the CFH mutation and
+are at risk of aHUS. They have been counselled to attend
+for routine hematological and biochemical tests at times
+of known triggers, such as infection. The proband has
+elected not to screen her children (III:1, III:2, III:3) and
+as such, they must be considered to be at risk for aHUS,
+with similar advice given.
+
+function.
+
+It has been suggested that
+
+Early treatment of aHUS is essential
+
+in preserving
+renal
+retinal
+changes, such as the cotton wool spots, flame hemor-
+rhages and papilledema seen in our patient, are rare in
+HUS and TTP [14]. Retinal examination has been shown
+to be non-discriminatory for TMAs and should not lead
+to a diagnosis of malignant hypertension, with a conse-
+quent delay in appropriate treatment [15].
+
+Our patient presented with a platelet count (136×109/L)
+and creatinine level (12.65mg/dL) not suggestive of severe
+
+ADAMTS13 deficiency [16]. Her low C3 level, however,
+was suggestive of complement alternative pathway activity,
+in keeping with aHUS. Eculizumab is now considered to be
+the gold standard for management of aHUS. It should not,
+however, be used until an ADAMTS13 assay excludes TTP.
+Plasma exchange was therefore initiated immediately, but
+after an initial response there appeared to be signs of
+plasma resistance, and eculizumab was introduced. Bio-
+chemical markers of microangiopathic hemolytic anemia
+improved and renal function subsequently recovered des-
+pite three months of hemodialysis, as has been reported in
+other cases [17].
+
+Due to the cost of eculizumab, plasma exchange re-
+mains the only treatment available in some parts of the
+world. In one study from the Italian Registry, 63% of pa-
+tients with a CFH mutation who received some form of
+plasmatherapy (plasma infusion or plasma exchange)
+had a response to plasma therapy, either complete or
+partial (hematological remission with renal sequel) [11].
+However, the percentage of complete recovery under
+plasmatherapy was only 5%, and evolution to death or
+end-stage renal disease was 77%.
+
+Our patient continues on eculizumab; however, a re-
+cent report has suggested that eculizumab may be safely
+discontinued in some patients, given adequate monitor-
+ing [18]. A trial of continuous versus disease-driven ecu-
+lizumab therapy is required to elucidate the optimal
+length of treatment.
+
+Conclusions
+In conclusion, we report a case of familial aHUS associ-
+ated with a CFH mutation precipitated most likely by an
+infectious trigger. We demonstrate grade IV hypertensive
+retinal changes and severe hypertension as a consequence
+of aHUS, confirming this as a non-discriminatory sign for
+malignant hypertension. Although our patient was dialysis-
+dependent, initial treatment with plasma exchange, and
+subsequently eculizumab, controlled the disease. After
+three months on eculizumab therapy, she became dialysis
+independent. This suggests that, in individuals treated
+with eculizumab, a minimum duration of three months
+should be given prior to cessation in the absence of
+renal recovery.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying im-
+ages. A copy of the written consent is available for re-
+view by the Editor-in-Chief of this journal.
+
+Abbreviations
+aHUS: Atypical hemolytic uremic syndrome; CFH: Complement factor H;
+CFI: Complement factor I; LDH: Lactate dehydrogenase; TMA: Thrombotic
+microangiopathy; TTP: Thrombotic thrombocytopenic purpura.
+
+Sevinc et al. Journal of Medical Case Reports  (2015) 9:92 
+
+Page 5 of 5
+
+15.
+
+van den Born BJ, van der Hoeven NV, Groot E, Lenting PJ, Meijers JC, Levi M,
+et al. Association between thrombotic microangiopathy and reduced ADAMTS13
+activity in malignant hypertension. Hypertension. 2008;51(4):862–6.
+
+16. Coppo P, Schwarzinger M, Buffet M, Wynckel A, Clabault K, Presne C, et al.
+Predictive features of severe acquired ADAMTS13 deficiency in idiopathic
+thrombotic microangiopathies: the French TMA reference center experience.
+PLoS One. 2010;5(4), e10208.
+
+17. Povey H, Vundru R, Junglee N, Jibani M. Renal recovery with eculizumab in
+
+atypical hemolytic uremic syndrome following prolonged dialysis. Clin
+Nephrol. 2014;82(5):326–31.
+
+18. Ardissino G, Testa S, Possenti I, Tel F, Paglialonga F, Salardi S, et al.
+Discontinuation of eculizumab maintenance treatment for atypical
+hemolytic uremic syndrome: a report of 10 cases. Am J Kidney Dis.
+2014;64(4):633–7.
+
+Competing interests
+Two of the authors, Tim Goodship and David Kavanagh, have received fees
+from Alexion Pharmaceuticals for their invited lectures, whereas other
+authors declare that they have no competing interests.
+
+Authors’ contributions
+DK and VB carried out the molecular genetic studies, participated in the
+sequence alignment and reviewed the manuscript. DK carried out the
+immunoassays. MS participated in the design of the study and performed
+the statistical analysis. MS conceived of the study, participated in its design
+and coordination and wrote the manuscript. All authors read and approved
+the final manuscript.
+
+Acknowledgements
+DK is a Wellcome Trust intermediate clinical fellow.
+
+Author details
+1Department of Nephrology, Sisli Hamidiye Etfal Training and Education
+Hospital, Halaskargazi Cad. Etfal Sok, 34371 Şişli, Istanbul, Turkey. 2Institute of
+Genetic Medicine, Newcastle University, Newcastle upon Tyne, UK.
+
+Received: 16 December 2014 Accepted: 18 March 2015
+
+References
+1.
+
+Kavanagh D, Goodship TH, Richards A. Atypical hemolytic uremic syndrome.
+Semin Nephrol. 2013;33(6):508–30.
+
+2. Wong EK, Goodship TH, Kavanagh D. Complement therapy in atypical
+
+haemolytic uraemic syndrome (aHUS). Mol Immunol. 2013;56(3):199–212.
+Legendre CM, Licht C, Muus P, Greenbaum LA, Babu S, Bedrosian C, et al.
+Terminal complement inhibitor eculizumab in atypical hemolytic-uremic
+syndrome. N Engl J Med. 2013;368(23):2169–81.
+
+3.
+
+4. Warwicker P, Goodship TH, Donne RL, Pirson Y, Nicholls A, Ward RM, et al.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+Genetic studies into inherited and sporadic hemolytic uremic syndrome.
+Kidney Int. 1998;53(4):836–44.
+Kavanagh D, Kemp EJ, Mayland E, Winney RJ, Duffield JS, Warwick G, et al.
+Mutations in complement factor I predispose to development of atypical
+hemolytic uremic syndrome. J Am Soc Nephrol. 2005;16(7):2150–5.
+Caprioli J, Noris M, Brioschi S, Pianetti G, Castelletti F, Bettinaglio P, et al.
+Genetics of HUS: the impact of MCP, CFH, and IF mutations on clinical
+presentation, response to treatment, and outcome. Blood.
+2006;108(4):1267–79.
+Fremeaux-Bacchi V, Miller EC, Liszewski MK, Strain L, Blouin J, Brown AL,
+et al. Mutations in complement C3 predispose to development of atypical
+hemolytic uremic syndrome. Blood. 2008;112(13):4948–52.
+Goicoechea De Jorge E, Harris CL, Esparza-Gordillo J, Carreras L, Arranz EA,
+Garrido CA, et al. Gain-of-function mutations in complement factor B are
+associated with atypical hemolytic uremic syndrome. Proc Natl Acad Sci
+U S A. 2007;104(1):240–5.
+Ferreira VP, Herbert AP, Cortes C, McKee KA, Blaum BS, Esswein ST, et al. The
+binding of factor H to a complex of physiological polyanions and C3b on
+cells is impaired in atypical hemolytic uremic syndrome. J Immunol.
+2009;182(11):7009–18.
+Fremeaux-Bacchi V, Fakhouri F, Garnier A, Bienaime F, Dragon-Durey MA,
+Ngo S, et al. Genetics and outcome of atypical hemolytic uremic syndrome:
+a nationwide French series comparing children and adults. Clin J Am Soc
+Nephrol. 2013;8(4):554–62.
+
+11. Noris M, Caprioli J, Bresin E, Mossali C, Pianetti G, Gamba S, et al.
+
+Relative role of genetic complement abnormalities in sporadic and
+familial aHUS and their impact on clinical phenotype. Clin J Am Soc
+Nephrol. 2010;5(10):1844–59.
+Fakhouri F, Roumenina L, Provot F, Sallee M, Caillard S, Couzi L, et al.
+Pregnancy-associated hemolytic uremic syndrome revisited in the era of
+complement gene mutations. J Am Soc Nephrol. 2010;21(5):859–67.
+Salmon JE, Heuser C, Triebwasser M, Liszewski MK, Kavanagh D, Roumenina L,
+et al. Mutations in complement regulatory proteins predispose to preeclampsia:
+a genetic analysis of the PROMISSE cohort. PLoS Med. 2011;8(3), e1001013.
+Eberhard OK, Labjuhn SO, Olbricht CJ. Ocular involvement in haemolytic
+uraemic syndrome–case report and review of the literature. Nephrol Dial
+Transplant. 1995;10(2):266–9.
+
+12.
+
+13.
+
+14.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

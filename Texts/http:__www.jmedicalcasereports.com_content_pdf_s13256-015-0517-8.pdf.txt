@@ -1,0 +1,375 @@
+Mohammed et al. Journal of Medical Case Reports  (2015) 9:45 
+DOI 10.1186/s13256-015-0517-8
+
+CA SE R EP O R T
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+Open Access
+
+Castleman’s disease and sarcoidosis, a rare
+association resulting in a “mixed” response:
+a case report
+Anwarullah Mohammed1, Filip Janku2, Ming Qi3 and Razelle Kurzrock4*
+
+Abstract
+Introduction: Multicentric Castleman’s disease is a rare lymphoproliferative disorder whose hallmark is atypical
+lymph node hyperplasia. Symptoms can include fever, splenomegaly, and abnormal blood cell counts. High levels
+of interleukin 6 (IL-6) are observed frequently in this disorder and are believed to drive the disease. Recently,
+therapies that target interleukin-6 or its receptor have been shown to be effective in Castleman’s disease.
+Case presentation: We report the case of a 76-year-old Caucasian man with aggressive biopsy-proven Castleman’s
+disease who experienced pulmonary and lymph node involvement, as well as fever and weight loss. He was treated
+with siltuximab, a chimeric anti-interleukin-6 antibody. After 5 months, fluorodeoxyglucose positron emission
+tomography computed tomography scans showed marked improvement in his lungs, but worsening mediastinal
+disease, consistent with a mixed response. Biopsy of the mediastinal disease revealed lymphoplasmacytic infiltrate with
+non-caseating, ill-defined granulomas and scarring consistent with sarcoidosis. Prednisone 50mg by mouth daily was
+started, which was tapered to 2.0-5.0mg daily. Siltuximab was continued. A subsequent fluorodeoxyglucose positron
+emission tomography computed tomography scan showed near-complete resolution of lung and mediastinal disease,
+now ongoing for 3.5+ years without serious adverse events.
+Conclusions: Lymphomas have previously been reported to coexist with sarcoidosis, albeit rarely, but there has been
+only a single previous case of this type with Castleman’s disease. Of importance, early recognition of the presence of
+sarcoidosis in our patient prevented discontinuation of siltuximab therapy due to “progression”. Our experience may
+also have broader implications in that it suggests that etiology of “mixed responses” should be confirmed by
+performing biopsies on the progressive tumor.
+Keywords: Interleukin 6, Mixed response, Multicentric Castleman’s disease, Siltuximab
+
+Introduction
+Castleman’s disease is a rare lymphoproliferative dis-
+order characterized by atypical lymph node hyperplasia
+that can involve any group of lymph nodes [1]. The eti-
+ology of the disease remains unclear, but recently it has
+been found to be increasingly associated with infection
+with human immunodeficiency virus (HIV) and human
+herpesvirus 8 (HHV-8), the causative agent for Kaposi’s
+sarcoma [2]. Other disease associations include non-
+Hodgkin’s lymphoma, epithelial neoplasia, and renal cell
+carcinoma. There has been only one reported case of
+
+* Correspondence: rkurzrock@ucsd.edu
+4UC San Diego Moores Cancer Center, 3855 Health Sciences Drive, MC
+#0658, La Jolla, CA 92093-0658, USA
+Full list of author information is available at the end of the article
+
+Castleman’s disease that coexisted with sarcoidosis [3].
+Here, we present another case where coincidental sarcoid-
+osis was found after the patient demonstrated a radiologic
+mixed response to an anti-interleukin-6 (anti-IL-6) mono-
+clonal antibody (CNTO 328; siltuximab) that was recently
+approved for the treatment of HIV-negative and HHV-8-
+negative multicentric Castleman’s disease [4].
+
+Case presentation
+A 76-year-old Caucasian man presented to his physician
+with a history of dry cough of a few months’ duration as-
+sociated with fatigue, loss of appetite, and weight loss of
+more than 18kg (40lb). On further workup, multiple lung
+lesions were found on fluorodeoxyglucose positron emis-
+sion tomography computed tomography (FDG-PET/CT)
+
+© 2015 Mohammed et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Mohammed et al. Journal of Medical Case Reports  (2015) 9:45 
+
+Page 2 of 4
+
+scan (Figure 1A), which on biopsy and pathologic review
+were due to Castleman’s disease. He was negative for HIV
+and HHV-8. He was referred to the Clinical Center for
+Targeted Therapy (Phase I Clinic) at MD Anderson Cancer
+Center for further treatment. His medical history included
+hypertension, hyperlipidemia, gastroesophageal reflux dis-
+ease, diverticulosis, chronic obstructive pulmonary dis-
+ease, and benign prostatic hypertrophy, for which he had
+
+recently undergone transurethral resection of his prostate.
+His family history was significant for lymphoma and pros-
+tate cancer in his brother, breast cancer in his sister, and
+small bowel cancer in his mother. He had last smoked cig-
+arettes when he was in college and drank socially. He was
+living with his wife and had four children, all in good
+health. His medications included tamsulosin, simvastatin,
+omeprazole, and a multivitamin.
+
+Figure 1 Fluorodeoxyglucose positron emission tomography computed tomography scans. (A) Baseline images show lung and mediastinal
+disease. (B) Images after 5 months of treatment with siltuximab show a mixed response with improvement in lungs and worsening in
+mediastinum. (C) After 3.5 years of siltuximab combined with low maintenance doses of prednisone (2.5mg orally daily).
+
+Mohammed et al. Journal of Medical Case Reports  (2015) 9:45 
+
+Page 3 of 4
+
+He was started on siltuximab, previously known as
+CNTO 328, a chimeric, human–murine anti-IL-6 anti-
+body that binds and neutralizes IL-6 with high affinity
+(dose = 11mg/kg intravenously every 3 weeks). This treat-
+ment was given as part of a trial previously reported, and
+all procedures including consent were performed in ac-
+cordance with the guidelines of the MD Anderson Cancer
+Center Internal Review Board [5]. He tolerated the treat-
+ment well and although he complained of intermittent
+fatigue, he was able to ride his bicycle up to 16km (10
+miles) in a day. FDG-PET/CT scans showed significant
+improvement in his lungs, but worsening mediastinal dis-
+ease after approximately 5 months, consistent with a
+mixed response (Figure 1B). In order to elucidate the rea-
+son for mixed response, a needle biopsy was performed
+that showed a lymphoplasmacytic infiltrate with non-
+caseating, ill-defined granulomas and scarring consistent
+with sarcoidosis. Prednisone 50mg by mouth daily was
+started, which was tapered to 5mg daily. This was inter-
+mittently restarted at least two more times, but he was
+maintained on a dose of 2.5 to 5mg daily for most of
+his subsequent course. Siltuximab was continued. A
+subsequent FDG-PET/CT scan (Figure 1C) showed
+near-complete resolution of lung and mediastinal disease,
+and he has continued to receive treatment for 3.5 years
+without serious adverse events. He has regained the 18kg
+(40lb) lost before treatment and is actively bicycling about
+48 to 64km (30 to 40 miles) per week.
+
+Discussion
+Castleman’s disease is a rare lymphoproliferative disorder
+that was first described as localized lymphoid hyperplasia
+involving mainly the mediastinal group of lymph nodes
+[1]. Two forms of the disease exist: a localized or uni-
+centric form involving only a group of lymph nodes and a
+multicentric form that involves different groups of lymph
+nodes in different areas of the body. The multicentric
+form of Castleman’s disease recently has been found to be
+at times associated with HIV and HHV-8 infections. On
+histological examination, it is usually divided into the hya-
+linized vascular type and the plasma cell variant type, the
+latter being more common in the multicentric type of the
+disease. There also exists a mixed variant [6,7]. Unicentric
+Castleman’s disease usually presents in early adulthood
+with localized masses in the mediastinum, rarely causing
+systemic symptoms. In contrast, the multicentric form
+of Castleman’s disease has been found to occur in the
+fifth or sixth decade of life, presenting with vague consti-
+tutional symptoms such as fever, night sweats, fatigue,
+and weight loss. Various laboratory abnormalities have
+also been found,
+thrombocytosis,
+thrombocytopenia, hypoalbuminemia, hypergammaglo-
+bulinemia, and increased C-reactive protein and erythro-
+cyte sedimentation rate [8,9].
+
+including anemia,
+
+Treatment of
+
+Lymphoproliferation in Castleman’s disease is thought
+to be driven by IL-6, a cytokine produced by various
+cells including T cells and B cells in response to various
+inflammatory disease processes [9-14]. It stimulates the
+production and differentiation of cells, including B cells.
+Elevated levels of IL-6 have been demonstrated in murine
+models of Castleman’s disease-like syndrome [9]. Various
+other mediators have also been identified that could be in-
+volved in the progression of the disease.
+localized forms of
+
+the disease with
+complete surgical excision of the affected lymph node
+has been found to be curative [12]. Radiation therapy is
+effective when surgery is not possible. However, the mul-
+ticentric form of the disease requires systemic treatment.
+Medications that have been used include corticosteroids,
+antibody against CD20 (rituximab), and, more recently,
+there has been considerable success with antibodies tar-
+geting IL-6. Tocilizumab, an anti-IL-6 receptor antibody,
+has been found to be effective and is approved in Japan
+for treatment of Castleman’s disease [9]. It has been re-
+ported earlier that siltuximab showed a clinical benefit
+response in 78% of patients with Castleman’s disease in
+an interim analysis of a phase 1 study [5], and this mol-
+ecule was subsequently approved following a registration
+study [4].
+
+Our patient had the multicentric type of Castleman’s
+disease, for which he received siltuximab, an anti-IL-6
+antibody. He had an initial remarkable response in his
+lung, but his mediastinal disease worsened. On further in-
+vestigation, by performing a fine-needle biopsy, the mixed
+response was found to be due to sarcoidosis. There has
+been only one previously reported case of Castleman’s dis-
+ease that was shown to coexist with sarcoidosis, although
+lymphomas have also been associated with sarcoidosis
+[3,13,14]. Thus, this association is very rare. Of interest,
+IL-6 levels in the supernatants of cultured monocytes and
+alveolar macrophages have been reported to be signifi-
+cantly higher in patients with sarcoidosis than in controls
+[15]. Since IL-6 drives Castleman’s disease, these observa-
+tions may provide a mechanistic link between the two
+disorders.
+
+Conclusions
+This case represents only the second report of coexisting
+Castleman’s disease and sarcoidosis. Of
+importance,
+early recognition of the presence of sarcoidosis in our
+patient prevented discontinuation of siltuximab therapy
+[4,5,16], as progression was due to the sarcoidosis, rather
+than Castleman’s disease. Our experience also suggests
+that “mixed responses” should be confirmed by perform-
+ing biopsies on progressive tumors. Once sarcoidosis
+was recognized to be the cause of worsening of symp-
+toms and disease on imaging, steroid therapy was
+started, and the patient is doing well with near-complete
+
+Mohammed et al. Journal of Medical Case Reports  (2015) 9:45 
+
+Page 4 of 4
+
+7.
+
+8.
+
+9.
+
+Regal MA, Aljehani YM, Bousbait H. Primary mediastinal Castleman’s disease.
+Rare Tumors. 2010;2:e11.
+Tal Y, Haber G, Cohen MJ, Phillips M, Amir G, Ben-Yehuda D, et al. Autologous
+stem cell transplantation in a rare multicentric Castleman disease of the plasma
+cell variant. Int J Hematol. 2011;93:677–80.
+El-Osta HE, Kurzrock R. Castleman’s disease: from basic mechanisms to
+molecular therapeutics. Oncologist. 2011;16:497–511.
+
+10. Beck JT, Hsu SM, Wijdenes J, Bataille R, Klein B, Vesole D, et al. Brief report:
+
+alleviation of systemic manifestations of Castleman’s disease by monoclonal
+anti-interleukin-6 antibody. N Engl J Med. 1994;330:602–5.
+Toita N, Kawamura N, Hatano N, Takezaki S, Ohkura Y, Yamada M, et al. A
+5-year-old boy with unicentric Castleman disease affecting the mesentery:
+utility of serum IL-6 level and (18)F-FDG PET for diagnosis. J Pediatr Hematol
+Oncol. 2009;31:693–5.
+
+11.
+
+12. Han SL, Chen XX, Zheng XF, Yan JY, Shen X, Zhu GB. The clinicopathological
+
+behaviour and surgical treatment of abdominal Castleman’s disease. Singapore
+Med J. 2010;51:813–6.
+
+13. Cohen PR, Kurzrock R. Sarcoidosis and malignancy. Clin Dermatol.
+
+2007;25:326–33.
+
+14. Oliwiecki S, Kotecha B, Kingston T, Rothera MP. Sarcoidosis-lymphoma
+
+syndrome. J R Soc Med. 1992;85:176–7.
+Sahashi K, Ina Y, Takada K, Sato T, Yamamoto M, Morishita M. Significance of
+interleukin 6 in patients with sarcoidosis. Chest. 1994;106:156–60.
+Kurzrock R, Voorhees PM, Casper C, Furman RR, Fayad L, Lonial S, et al. A phase
+I, open-label study of siltuximab, an anti-IL-6 monoclonal antibody, in patients
+with B-cell non-Hodgkin lymphoma, multiple myeloma, or Castleman Disease.
+Clin Cancer Res. 2013;19(36):3659-70.
+
+resolution of the disease after more than 3 years of sil-
+tuximab combined with very low-dose steroids.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this Case report and any accompany-
+ing images. A copy of the written consent is available for
+review by the Editor-in-Chief of this journal.
+
+Abbreviations
+FDG-PET/CT: Fluorodeoxyglucose positron emission tomography computed
+tomography; HHV-8: Human herpesvirus 8; HIV: Human immunodeficiency
+virus; IL-6: Interleukin-6.
+
+Competing interests
+Ming Qi is an employee of Janssen R&D LLC.
+Razelle Kurzrock, MD received research funding from Janssen R&D LLC.
+
+Authors’ contributions
+All authors contributed to analysis of the data, writing and editing the
+manuscript and approving the final copy.
+
+15.
+
+16.
+
+Authors’ information
+Razelle Kurzrock, MD, joined University of California San Diego Moores
+Cancer Center in November 2012 as Senior Deputy Center Director for
+Clinical Science. She is also the Murray Professor of Medicine, Director of the
+Clinical Trials Office, and Chief of the Division of Hematology-Oncology
+Division in the UC San Diego School of Medicine. Anwarullah Mohammed,
+MD, served as Resident in Family Practice at North Central Texas Medical
+Foundation and as a Research Fellow in Atherosclerosis at Texas Heart
+Institute. Filip Janku, MD, is Assistant Professor for Investigational Cancer
+Therapeutics (Phase I Clinical Trials Program) at UT M. D. Anderson Cancer
+Center. Ming Qi, MD, PhD currently holds the position of Director at Janssen
+Research and Development LLC.
+
+Acknowledgements
+Editorial assistance was provided by Shannon O’Sullivan of MedErgy and
+funded by Janssen R&D LLC.
+
+Author details
+1Department of Cardiology, Texas Heart Institute at St. Luke’s Episcopal
+Hospital, 6720 Bertner Avenue, Houston, TX 77030, USA. 2Department of
+Investigational Cancer Therapeutics, The University of Texas MD Anderson
+Cancer Center, 1515 Holcombe Boulevard, Unit Number: 0455, Houston, TX
+77030, USA. 3Janssen R&D LLC, 1400 McKean Rd, Spring House (Ambler), PA
+19002, USA. 4UC San Diego Moores Cancer Center, 3855 Health Sciences
+Drive, MC #0658, La Jolla, CA 92093-0658, USA.
+
+Received: 15 August 2014 Accepted: 8 January 2015
+
+References
+1.
+
+Castleman B, Towne VW. Case records of the Massachusetts General
+Hospital; weekly clinicopathological exercises; founded by Richard C. Cabot.
+N Engl J Med. 1954;251:396–400.
+
+2. Waterston A, Bower M. Fifty years of multicentric Castleman’s disease. Acta
+
+3.
+
+4.
+
+5.
+
+6.
+
+Oncol. 2004;43:698–704.
+Rice BL, Farver CF, Pohlman B, Burkey BB, Parambil JG. Concomitant
+Castleman’s disease and sarcoidosis. Am J Med Sci. 2011;341:257–9.
+van Rhee F, Wong RS, Munshi N, Rossi JF, Ke XY, Fossa A, et al. Siltuximab
+for multicentric Castleman’s disease: a randomised, double-blind,
+placebo-controlled trial. Lancet Oncol. 2014;15:966–74.
+Van Rhee F, Fayad L, Voorhees P, Furman R, Lonial S, Borghaei H, et al.
+Siltuximab, a novel anti-interleukin-6 monoclonal antibody, for
+Castleman’s disease. J Clin Oncol. 2010;28:3701–8.
+Bhatti MA, Ferrante JW, Gielchinsky I, Norman JC. Giant lymph node
+hyperplasia of the mediastinum (Castleman’s disease). Tex Heart Inst J.
+1984;11:378–84.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

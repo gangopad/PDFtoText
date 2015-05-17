@@ -1,0 +1,360 @@
+Best et al. Journal of Medical Case Reports  (2015) 9:73 
+DOI 10.1186/s13256-015-0520-0
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Ketamine and transcranial magnetic stimulation
+treatment for bipolar II disorder: a case report
+Steven RD Best1*, Brian P Griffin2 and Dan G Pavel3
+
+Open Access
+
+Abstract
+
+Introduction: To the best of our knowledge, this is the first case report of successful treatment for bipolar II
+disorder using a combined ketamine and transcranial magnetic stimulation treatment.
+Case presentation: A 43-year-old Caucasian unemployed man presented to us with treatment-resistant bipolar II
+disorder, currently in a mixed state. A psychometric assessment and brain single-photon emission computer tomography
+scan were conducted at baseline. His psychometric assessment revealed severe depressive and manic symptoms that
+were consistent with bipolar II disorder. Findings from a brain single-photon emission computer tomography scan
+converged with those from his psychometric assessment. The combined ketamine and transcranial magnetic
+stimulation treatment was administered a total of 24 times over five months, with his ketamine dosage increased
+from 50mg at the first treatment to 600mg by the last. Starting after the second treatment, he reported substantial
+improvements in his symptoms. A follow-up psychometric assessment and brain single-photon emission computer
+tomography scan five months later revealed substantial blood flow increases in the previously deficient areas.
+Conclusions: We provide preliminary evidence for a treatment method that magnifies the therapeutic benefits of
+infused ketamine along with transcranial magnetic stimulation. We postulate that this may be based on an interaction
+at the level of the relevant cortico-thalamo-cortical circuit(s).
+Keywords: Ketamine, Transcranial magnetic stimulation, TMS, Bipolar II
+
+Introduction
+intravenous ketamine, an N-
+Evidence indicates that
+is effective in reducing
+methyl-D-aspartate antagonist,
+depressive symptoms, including those associated with bi-
+polar depression [1-3]. By offering rapid relief that takes
+effect within two hours, ketamine provides an important
+benefit over typical antidepressant medications [4]. In a
+separate body of work, there is evidence that transcranial
+magnetic stimulation (TMS), a noninvasive technique
+for stimulation of the brain, can induce antidepressant
+and anti-manic effects. A small study suggested that the
+administration of ketamine prior to TMS might interfere
+with treatment efficacy [5]. However, another study found
+that abnormal
+function in a frontal cortico-thalamo-
+cortical circuit was a decisive factor in treatment resist-
+ance [6]. It was hypothesized that a way to improve the
+likelihood of response to ketamine infusion would be to
+
+* Correspondence: srdbest@neuroscience.md
+1The Neuroscience Center, 440 Lake Cook Road, Building 2, Deerfield, IL
+60015, USA
+Full list of author information is available at the end of the article
+
+modulate the relevant circuit during the infusion, through
+TMS of the medial prefrontal area that overlays the anter-
+ior cingulate cortex. It was postulated that an improve-
+ment in symptoms would occur when the combined effect
+entrained the electrophysiologic abnormality (abnormally
+slow and relatively non-responsive brain rhythms) and re-
+stored this network to a more responsive state [7,8].
+
+Case presentation
+A 43-year-old Caucasian unemployed man presented
+with lifelong symptoms of depression, anxiety, and im-
+pulsive behavior. He reported struggling with intense de-
+pressed mood, substantial life stress including a divorce
+in progress, and the inability to hold a job due to the im-
+pairment and distress associated with his symptoms. He
+had received psychopharmacological and psychothera-
+peutic treatment for the previous six years, but reported
+that he had not experienced any clinically meaningful
+gains as a result of those treatments. His medication
+
+© 2015 Best et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Best et al. Journal of Medical Case Reports  (2015) 9:73 
+
+Page 2 of 4
+
+acid,
+
+ezogabine,
+
+oxcarbazepine,
+
+history included fluoxetine, sertraline, paroxetine, escita-
+levetiracetam, val-
+lopram, desvenlafaxine, duloxetine,
+proic
+aripiprazole,
+quetiapine fumarate, chlorpromazine, mesoridazine, and
+lithium. At his initial assessment, his medications in-
+cluded sertraline, valproic acid, and lisdexamfetamine
+dimesylate (this medication was not approved by our
+team, but rather was prescribed by his previous phys-
+ician who believed his diagnosis to be attention deficit
+hyperactivity disorder). On the Thase and Rush Staging
+Model, he was at Stage III of treatment resistance, indi-
+cating failure of more than two adequate trials of distinct
+classes of antidepressants, as well as failure of an ad-
+equate trial with a tricyclic antidepressant.
+
+He was given a primary diagnosis of bipolar II dis-
+order, currently in a mixed state, based on a psychomet-
+ric assessment conducted by an independent licensed
+clinical psychologist prior to the beginning of treatment.
+His assessment included the administration of a valid
+Personality Assessment Inventory (PAI) and the Beck
+Depression Inventory (BDI)-II. These measures showed
+severe depressive (PAI Depression (DEP) T score=79,
+BDI-II=36) and manic (PAI Mania (MAN) T score=74,
+PAI Aggression (AGG) T score=72) symptoms. Eleva-
+tions in his life stress were also apparent (PAI Stress
+(STR) T score=86).
+
+He was also assessed at baseline using brain single-
+photon emission computer tomography (SPECT) with
+99mTechnetium-hexamethylpropyleneamineoxime (HM
+PAO). SPECT is a neuroimaging technique that shows
+the functional status of gray mater areas via the meas-
+urement of relative perfusion [9-12]. Results from this
+assessment revealed significant relative underperfusion
+bilaterally in multiple hemispheric areas, more accentu-
+ated in his frontal lobes, anterior cingulate and extensive
+underperfusion in his orbitofrontal and apico-mesial
+temporal areas. Marked hyperperfusion was seen in his
+right caudate head, cerebellar vermis, and retro-splenial
+posterior cingulate. Moderate hyperperfusion was appar-
+ent in his left caudate head, dorsal aspect of his posterior
+cingulate, and in an asymmetric thalamus. This combin-
+ation of underperfused areas is compatible with multiple
+dysfunctions related to attention, memory, executive
+function, impulse control, and social interaction, while
+the hyperperfused areas are often found in anxiety and
+depression [13,14].
+
+After informing him of the possible risks and benefits
+of the combined ketamine and TMS treatment, the new
+technique was used to treat his bipolar II disorder. He
+was first given two days of TMS pretreatment, which
+consisted of four treatments of 30 minutes each day,
+with 45-minute resting intervals between each treat-
+ment. Based on 14 years of observational evidence from
+our clinic, the TMS consisted of 40 minutes of 1 hertz
+
+continuous TMS administered at 115% of the motor
+threshold. The combined protocol treatment added the
+intravenous ketamine infusion (Ketalar®, manufactured by
+Par Sterile Products LLC, Parsippany, NJ, USA), which
+was administered concurrent to, and bracketed within, the
+middle 30 minutes of TMS; there were five minutes of
+TMS pre- and post-infusion. The TMS head coil (manu-
+factured by Neotonus, Inc., Marietta, GA, USA) was posi-
+tioned at the midline of his scalp to maximally stimulate
+the medial prefrontal area that overlays the anterior cingu-
+late region. This area was targeted based on evidence that
+it is implicated in depression [15].
+
+The protocol described above was repeated a total of 24
+times over five months, at approximately one-week inter-
+vals. All stimulation levels were within published safety
+guidelines, and a certified registered nurse anesthetist per-
+sonally managed the anesthesia aspects of this treatment at
+all times. The dosage of infused ketamine was gradually in-
+creased from 50mg at the first treatment (approximately
+0.5mg/kg) to 600mg by the last treatment. The dose in-
+creases were based on his tolerance to higher doses and to
+symptom reduction, as well as on the clinical evaluation
+that was performed a few days after each treatment. The
+ketamine dose adjustment was previously described [16].
+Institutional review board exemption was obtained for this
+report from an independent accredited agency (Sterling
+IRB) because the ketamine dose adjustment used in our
+current study has been previously described and approved.
+Beginning after the second combined treatment, he re-
+ported substantial improvements in his symptoms and
+related functioning, eventually including the ability to
+maintain a full-time job. Five and a half months after his
+initial assessment, he again underwent a psychometric
+assessment. Results from a valid PAI and BDI-II showed
+substantial decreases in his symptoms related to both
+depression (PAI DEP T score=65, BDI-II=13) and mania
+(PAI MAN T score=61, PAI AGG T score=56). Remark-
+ably, these improvements occurred even though he contin-
+ued to experience elevated life stress over the duration of
+the treatment (PAI STR T score=82). Moreover, his follow-
+up brain SPECT scan showed increased relative perfusion
+in all previously underperfused areas (see Figure 1), thus
+documenting a specific functional substrate for the treat-
+ment effect.
+
+Conclusions
+To the best of our knowledge, this is the first report of a
+successful treatment for bipolar II disorder using com-
+bined ketamine and TMS. Our patient reported ever-
+increased cognitive ability (including improved executive
+function) and improved affective regulation, which per-
+sisted even after the active treatment phase ended. In
+the future, a randomized controlled trial should be
+conducted to examine the efficacy of this combined
+
+Best et al. Journal of Medical Case Reports  (2015) 9:73 
+
+Page 3 of 4
+
+Figure 1 Representative images from the various types of displays used in our protocol. The first three images are part of the orthogonal
+displays and the last three are part of the stereotactic surface projections obtained with the Neurostat software (manufactured by Neurostat/
+3D-SSP, University of Washington, Seattle, WA, USA) [9]. Upper row: Baseline brain single-photon emission computer tomography (SPECT) shows
+multiple areas of hemispheric underperfusion, more accentuated in his frontal lobes, orbitofrontal areas and apico-mesial temporal areas. Marked
+hyperperfusion in his right putamen and in parts of his posterior cingulate and right cerebellum is also visible. Lower row: Follow-up SPECT scan
+at five and a half months post-treatment shows that practically all previously underperfused areas have significantly improved relative perfusion.
+Previously hyperperfused areas are either unchanged or increasingly hyperperfused.
+
+treatment for the acute emotional and chronic cognitive
+consequences of bipolar disorders. Future work needs to
+further elucidate the possible mechanisms underlying
+combined ketamine and TMS treatment.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying
+images. A copy of the written consent is available for
+review by the Editor-in-Chief of this journal.
+
+Abbreviations
+AGG: Aggression; BDI-II: Beck Depression Inventory-II; DEP: Depression;
+MAN: Mania; PAI: Personality Assessment Inventory; SPECT: Single-photon
+emission computer tomography; STR: Stress; TMS: Transcranial magnetic
+stimulation.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+SRDB provided the combined ketamine and TMS treatment, as well as
+integrated the psychiatric and SPECT data. BPG conducted the pre- and
+post-treatment psychometric assessments, as well as analyzed and interpreted
+the psychometric data. DGP performed the SPECT, as well as analyzed and
+interpreted the SPECT data. All authors read and approved the final manuscript.
+
+Author details
+1The Neuroscience Center, 440 Lake Cook Road, Building 2, Deerfield, IL
+60015, USA. 2Independent Practice, 333 East Ontario Suite 1203B, Chicago, IL,
+USA. 3PathFinder Brain SPECT, 440 Lake Cook Road, Suite 3, Deerfield, IL
+60015, USA.
+
+Received: 16 August 2014 Accepted: 8 January 2015
+
+References
+1.
+
+2.
+
+3.
+
+Ghasemi M, Phillips C, Trillo L, De Miguel Z, Das D, Salehi A. The role of
+NMDA receptors in the pathophysiology and treatment of mood disorders.
+Neurosci Biobehav Rev. 2014;47:336–58.
+Naughton M, Clark G, O’Leary OF, Cryan JF, Dinan TG. A review of ketamine
+in affective disorders: current evidence of clinical efficacy, limitations of use
+and pre-clinical evidence on proposed mechanisms of action. J Affect
+Disord. 2014;156:24–35.
+Zarate CA, Brutsche NE, Ibrahim L, Franco-Chaves J, Diazgranados N,
+Cravchik A, et al. Replication of ketamine’s antidepressant efficacy in bipolar
+depression: a randomized controlled add-on trial. Biol Psychiatry.
+2012;71:939–46.
+
+4. Murrough JW, Perez AM, Pillemer S, Stern J, Parides MK, Aan HR, et al. Rapid
+
+and longer-term antidepressant effects of repeated ketamine infusions in
+treatment-resistant major depression. Biol Psychiatry. 2012;74:250–6.
+Lazzaro VD, Oliviero A, Profice P, Pennisi MA, Pilato F, Zito G, et al. Ketamine
+increases human motor cortex excitability to transcranial magnetic
+stimulation. J Physiology. 2003;547:485–96.
+Llinas RR, Ribary U, Jeanmonod D, Kronberg E, Mitras PP. Thalamocortical
+dysrhythmia: a neurological and neuropsychiatric syndrome characterized
+by magnetoencephalography. Proc Natl Acad Sci. 1999;96:15222–7.
+Thut G, Veniero D, Romei V, Miniussi C, Schyns P, Gross J. Rhythmic TMS
+causes local entrainment of natural oscillatory signatures. Curr Biol.
+2011;21:1176–85.
+Johnson JS, Hamidi M, Postle BR. Using EEG to explore how rTMS produces
+its effects on behavior. Brain Topogr. 2010;22:281–93.
+Catafau AM. Brain SPECT in clinical practice. Part I: perfusion. J Nucl Med.
+2001;42:259–71.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10. Holman BL, Devous MD. Functional brain SPECT: the emergence of a
+
+powerful clinical method. J Nucl Med. 1992;33:1888–904.
+
+11. Minoshima S, Koepe RA, Frey KA, Kuhl DE. Anatomical standardization: linear
+
+12.
+
+scaling and nonlinear warping of functional brain images. J Nucl Med.
+1994;35:1528–37.
+Juni JE, Waxman AD, Devous MD, Tikofsky RS, Ichise M, Van Heertum RL,
+et al. Procedure guidelines for brain perfusion SPECT using 99mTc
+radiopharmaceuticals 3.0. J Nucl Med Technol. 2009;37:191–5.
+
+13. Pliszka SR, Glahn DC, Semrud-Clikeman M, Franklin C, Perez R, Xiong J, et al.
+
+Neuroimaging of inhibitory control areas in children with attention deficit
+
+Best et al. Journal of Medical Case Reports  (2015) 9:73 
+
+Page 4 of 4
+
+14.
+
+hyperactivity disorder who were treatment naïve or in long-term treatment.
+Am J Psychiatry. 2006;163:1052–60.
+Sheehan W, Thurber S. Review of two years of experiences with SPECT
+among psychiatric patients in a rural hospital setting. J Psychiatr Pract.
+2008;14:318–23.
+
+15. Mayberg HS, Lozano AM, Voon V, McNeely HE, Seminowicz D, Hamani C,
+et al. Deep brain stimulation for treatment-resistant depression. Neuron.
+2005;45:651–60.
+
+16. Best S. Rapid relief of treatment resistant depression by facilitated ketamine
+
+infusion: a preliminary report. Activ Nerv Super. 2014;56:28–36.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

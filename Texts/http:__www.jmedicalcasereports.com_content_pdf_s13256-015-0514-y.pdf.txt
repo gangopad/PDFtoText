@@ -1,0 +1,250 @@
+Anaizi et al. Journal of Medical Case Reports  (2015) 9:56 
+DOI 10.1186/s13256-015-0514-y
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Open Access
+Large cell neuroendocrine carcinoma of the lung
+presenting as pseudoachalasia: a case report
+Ahmad Anaizi1, Amna Rizvi-Toner1, Jessica Valestin1 and Ron Schey1,2*
+
+Abstract
+
+Introduction: Pseudoachalasia is a rare disease that accounts for only a small percentage of patients with
+dysphagia. Neuroendocrine tumors are rare malignancies that most commonly originate within the gastrointestinal
+tract, with the next most common site being the lungs. Esophageal neuroendocrine tumors are the least common
+site within the gastrointestinal tract. Pseudoachalasia can be secondary to a malignant process within the body. Its
+typical characteristic in elderly patients is a short duration of symptoms with substantial weight loss.
+Case presentation: A 68-year-old woman presented with worsening dysphagia that had started six months after
+the resection of a large cell neuroendocrine carcinoma of the lung in 2011. An extensive work-up in 2012, including
+esophagogastroduodenoscopy, chest computed tomography and positron emission tomography, was unremarkable.
+Esophageal manometries revealed findings characteristic of achalasia. A repeat esophagogastroduodenoscopy in
+January of 2014 revealed a nearly circumferential ulcerated, fungating mass in her distal esophagus. Biopsy results
+confirming a recurrence of her large cell neuroendocrine carcinoma.
+Conclusion: We report a case of pseudoachalasia due to metastatic large cell neuroendocrine carcinoma of the lung.
+Our patient had an exceptionally prolonged duration of symptoms preceding the local esophageal recurrence, which
+was eventually revealed via endoscopy.
+
+Introduction
+Neuroendocrine neoplasms may arise in a number of or-
+gans and come from cells containing vasoactive sub-
+stances within secretory granules located in the cytoplasm
+[1]. Neuroendocrine tumors can be classified further into
+large cell neuroendocrine carcinoma (LCNEC), small cell
+lung carcinoma (SCLC), and typical and atypical carcinoid
+tumors [2]. The majority of these tumors arise from the
+gastrointestinal tract and are known as gastropancreatic
+neuroendocrine tumors. The next most common site for
+neuroendocrine tumors is in the lungs. LCNEC was not
+introduced as a distinct entity until 1991; these tumors
+have a similarly grim prognosis to SCLC but have a cell
+size of at least three times that of SCLC, as well as an
+organoid growth pattern [3].
+
+Achalasia is a condition in which there is a loss of in-
+hibitory neurons of the myenteric plexus within the wall
+
+* Correspondence: ron.schey@tuhs.temple.edu
+1Division of Gastroenterology and Hepatology, Department of Internal
+Medicine, University of Iowa Carver College of Medicine, 200 Hawkins Drive,
+52240 Iowa City, IA, USA
+2Department of Medicine, Section of Gastroenterology, Temple University
+School of Medicine, 3401 n Broad street, 19140 Philadelphia, PA, USA
+
+of the esophagus. In pseudoachalasia, the patient presents
+with clinical and manometric findings consistent with
+achalasia, but the symptoms are caused by a secondary
+organic entity. Pseudoachalasia needs to be excluded in
+older patients (>60 years) who have a short duration of
+symptoms (<one year) and substantial weight loss [4].
+Malignancy-associated pseudoachalasia can occur via
+one of three ways: the cancer can be located at the gas-
+troesophageal junction and inhibit swallowing by mass
+effect; esophageal neuronal invasion by the malignancy
+can lead to a disruption of neuronal
+transmission,
+resulting in dysmotility of the esophagus and conse-
+quent dysphagia; or a pseudoachalasia can be associated
+with a paraneoplastic process [5]. The latter process is sec-
+ondary to an autoimmune reaction whereby host T cells
+recognize antigens expressed by the tumor and cross-react
+with various parts of the central and peripheral immune
+system. The most common autoantibody seen with this
+phenomenon is type 1 antineuronal nuclear autoantibody,
+also referred to as Anti-Hu antibody [6].
+
+© 2015 Anaizi et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Anaizi et al. Journal of Medical Case Reports  (2015) 9:56 
+
+Page 2 of 3
+
+We present the case of a patient with pseudoachalsia
+due to metastatic LCNEC, who had a negative exten-
+sive workup preceding luminal manifestation for over
+two years.
+
+Case presentation
+Our patient was a 68-year-old woman with chronic ob-
+structive pulmonary disease. She had no history of gas-
+troesophageal reflux disease or esophageal disorders but
+was found to have a progressive solitary pulmonary nod-
+ule (1×1.3cm). A right lower wedge resection was per-
+formed in December 2011 and the University of Iowa
+pathology department identified the tumor as a LCNEC.
+Approximately six months after her operation, our
+patient started having slowly progressing dysphagia for
+both solids and liquids. A positron emission tomography
+(PET) scan performed in 2012, one year post surgery,
+was unremarkable for recurrence or metastasis. Repeat
+computed tomography (CT) in June 2013 (18 months
+post surgery) did not show any recurrence (Figure 1).
+Our patient had an esophagogastroduodenoscopy (EGD)
+and barium swallow that revealed no stricture of her
+esophagus but failure of primary and secondary peristaltic
+waves and reflux. In July 2013, esophageal manometry
+found failure of the lower esophageal sphincter to relax,
+with a residual pressure of 32mmHg. Our patient was
+treated with calcium channel blockers with partial relief.
+
+levels. However,
+
+Thus far, up to 18 months post resection, our patient
+had been able to maintain her weight and her basic labora-
+tory parameters, including hemoglobin, albumin and chol-
+esterol
+in January 2014, she reported
+worsening dysphagia and weight loss of 10lbs over a
+period of one month. She was referred to our center for
+further treatment of her achalasia. A repeat esophageal
+manometry showed an elevated lower esophageal sphinc-
+ter pressure of 50mmHg as well non-propagative, non-
+
+peristaltic contractions throughout her esophageal muscu-
+lature (Figure 2). A repeat EGD with an intention to per-
+form therapeutic pneumatic dilation showed a nearly
+circumferential ulcerated, fungating mass from approxi-
+mately 36cm that extended to her gastroesophageal junc-
+tion at 39cm. Biopsies revealed a LCNEC with similar
+features to the primary tumor resected in 2011, and was
+concluded to be a metastasis. Subsequently, a repeat CT
+scan revealed progressive diffuse metastatic disease. Our
+patient underwent two courses of chemotherapy but died
+from the disease after six months.
+
+Conclusion
+Pseudoachalasia is rare, and approximately 5% of pa-
+tients with manometric findings of achalasia have a ma-
+lignant disorder. The primary malignancies are mainly of
+the esophagus or gastroesophageal junction (over 50%),
+followed by metastases (mainly to the lung and breast)
+of paraneoplastic syndromes in the context of small-cell
+carcinoma, bronchial carcinoma, gastric carcinoma and
+pleural mesothelioma [7].
+
+We report a case of pseudoachalasia due to metastatic
+LCNEC of the lung in a 68 year-old woman, with mild
+onset of symptoms for two years prior to substantial
+weight loss. Over one year after her surgery, our patient
+had normal findings on an EGD, chest CT and PET scan.
+Her manometric and radiological findings were consist-
+ent with progressive achalasia. Although it might be dif-
+ficult to diagnose in an early phase, it is very uncommon
+for a patient with metastatic pseudoachalasia to maintain
+weight and clinical stability for a period as long as over
+two years before establishment of luminal findings.
+
+Figure 1 Coronal view of a computed tomography scan of
+the chest.
+
+Figure 2 Esophageal manometry demonstrating the patients
+type 1 achalasia.
+
+Anaizi et al. Journal of Medical Case Reports  (2015) 9:56 
+
+Page 3 of 3
+
+We would like to suggest here that in an older patient
+newly diagnosed with achalasia, regardless of normal CT
+and PET scan results over one year after tumor resec-
+tion, persistence or worsening of symptoms with exten-
+sive weight loss should indicate thorough and repeat
+work-up until a diagnosis of metastatic pseudoachalasia
+can be ruled out.
+
+Consent
+Written informed consent was obtained from the patient
+for the publication of this report and any accompanying
+images.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+AA- Acquisition of data, literature search and drafting the manuscript.
+ART- Acquisition of data, Administrative and material support. JV- Acquisition of
+data, administrative and material support. RS- Initiator of manuscript, critical
+revision and drafting of manuscript. All authors read and approved the
+final manuscript.
+
+Received: 11 July 2014 Accepted: 6 January 2015
+
+References
+1.
+
+Estrozi B, Bacchi CE. Neuroendocrine tumors involving the
+gastroenteropancreatic tract: a clinicopathological evaluation of 773 cases.
+Clinics (Sao Paulo). 2011;66(10):1671–5.
+Fernandez FG, Battafarano RJ. Large-cell neuroendocrine carcinoma of the
+lung: an aggressive neuroendocrine lung cancer. Semin Thorac Cardiovasc
+Surg. 2006;18(3):206–10.
+
+2.
+
+4.
+
+5.
+
+6.
+
+3. Modlin IM, Lye KD, Kidd M. A 5-decade analysis of 13,715 carcinoid tumors.
+
+Cancer. 2003;97(4):934–59.
+Campo SM, Zullo A, Scandavini CM, Frezza B, Cerro P, Balducci G.
+Pseudoachalasia: a peculiar case report and review of the literature. World J
+Gastrointest Endosc. 2013;5(9):450–4.
+Brown WR, Dee E. Dysphagia in a patient with recurrent small-cell lung
+cancer. Gastroenterology. 2013;144(1):34. 252–3.
+Hirano I. Pathophysiology of achalasia and diffuse esophageal spasm.
+GI Motility Online. 2006. doi:10.1038/gimo22
+
+7. Martínez C, Targarona EM, Sainz S, Cerdán G, Novell J, Trias M.
+
+Pseudoachalasia: a diagnosis to consider in the assessment of dysphagia.
+Gastroenterol Hepatol. 2000;23:14–5.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

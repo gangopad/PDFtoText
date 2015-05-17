@@ -1,0 +1,893 @@
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+DOI 10.1186/s13256-015-0544-5
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+Open Access
+
+CA SE R EP O R T
+A fatal case of acute progression of generalized
+edema and simultaneous flash pulmonary edema
+in a patient with idiopathic systemic capillary leak
+syndrome: a case report
+Yuri Hirosaki1, Shunji Hayashidani1, Sayako Ouchi2, Tukasa Ohshima1, Ryuji Nakano2 and Hideo Yamamoto1*
+
+Abstract
+
+Introduction: Idiopathic systemic capillary leak syndrome is a rare and fatal disease due to the unexplained
+episodic attacks of capillary leakage of plasma from the intravascular into the interstitial space. The attack consists of
+three phases, a prodromal phase, peripheral leak phase and recruitment phase. During the peripheral leak phase,
+generalized edema, mainly in the trunk and extremities, with hemoconcentration and hypoalbuminemia occurs,
+while usually the visceral organs like lungs, brain, heart and kidneys seem not to be involved. Treatment of the
+acute phase is supportive, focusing on adequate but not overzealous fluid resuscitation, because pulmonary edema
+usually occurs in the recruitment phase.
+Case presentation: A 65-year-old Japanese woman was admitted to our hospital because of severe hypovolemic
+shock with metabolic acidosis and hemoconcentration and hypoalbuminemia. Although she was considered to be
+in the peripheral leak phase of idiopathic systemic capillary leak syndrome, which could not be diagnosed during
+the treatment, the generalized edema worsened further, severe flash pulmonary edema progressed rapidly after
+fluid resuscitation and she died. The autopsy showed generalized edema, especially alveolar pulmonary edema
+without endothelial apoptosis.
+Conclusions: Because hypovolemic shock and fatal pulmonary edema may progress rapidly together even in the
+peripheral leak phase of idiopathic systemic capillary leak syndrome, we should keep in mind this rare and fatal
+disease and recognize the pathophysiology to treat it effectively when the patient has hypovolemia with metabolic
+acidosis.
+Keyword: Systemic capillary leak syndrome, Hypovolemic shock, Pulmonary edema, Autopsy findings
+
+Introduction
+Idiopathic systemic capillary leak syndrome (SCLS) is a
+very rare disease with a high mortality rate. SCLS was first
+described by Clarkson in 1960 [1]. Since then about 160
+cases have been described [2-5]. The syndrome is charac-
+terized by unexplained increased capillary permeability
+resulting in generalized edema and hypovolemia with the
+SCLS trio of hypotension, hemoconcentration and hypoal-
+buminemia due to the marked shift of intravascular fluid
+
+* Correspondence: dr.hide4118@gmail.com
+1Department of Internal Medicine, Japan Community Health Care
+Organization (JCHO) Kyushu Hospital, 1-8-1 Kishinoura Yahata-Nishiku,
+Kitakyushu City, Fukuoka Prefecture 806-8501, Japan
+Full list of author information is available at the end of the article
+
+(up to 70%) and macromolecules like albumin from the
+intravascular to the extravascular space [3]. The diagnosis
+of SCLS is performed clinically by the exclusion of other
+diseases that cause systemic capillary leakage. The mortal-
+ity rate among SCLS patients has been reported to be as
+high as 18 to 36% [5-8]. In one report, 75% of the deaths
+were directly related to SCLS attacks [5]. We describe a
+hypovolemic shock patient who was hospitalized without
+a definitive diagnosis and died from the first severe attack
+of SCLS. SCLS is a very rare and fatal disease, and so it is
+very important to frequently emphasize the necessity of
+recognizing the pathophysiology of SCLS [9].
+
+© 2015 Hirosaki et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+
+Page 2 of 7
+
+Case presentation
+A 65-year-old Japanese woman was admitted to our hos-
+pital because of face and limb edema, back pain and se-
+vere general fatigue. She had complained of the symptoms
+of a cold with fever one week before admission. Her con-
+sciousness was mildly disturbed, her blood pressure was
+80/40mmHg, heart rate was 130/min, respiratory rate was
+32 breaths/min and her body temperature was 35.6°C.
+Lymphadenopathy was not detected. Skin flush, urticaria,
+focal angioedema and stridor were not observed. Her
+breath sounds and heart sounds were normal. An abdom-
+inal examination showed cyanotic skin and slight tender-
+ness on the right lower quadrant. Her extremities were
+cold and markedly edematous. Laboratory data obtained
+on admission showed the following values: white blood
+cells 30,600/μL with a normal fraction, red blood cells
+688×104/μL, hematocrit 67.2%, hemoglobin 22.1g/dL,
+C-reactive protein 4.6mg/dL, blood urea nitrogen
+43mg/dL, creatinine 2.2mg/dL, total protein 5.5g/dL, al-
+bumin 3.1g/dL, aspartate aminotransferase (AST) 34IU/L,
+alanine transaminase (ALT) 25IU/L, alkaline phosphatase
+(ALP) 220IU/L,
+lactate dehydrogenase (LDH) 363IU/L,
+creatine phosphokinase (CPK) 243IU/L, creatine kinase
+MB (CK-MB) 27.0IU/L, D-dimer 0.8μg/mL, blood glucose
+428mg/dL, sodium 130mEq/L, potassium 5.1mEq/L, and
+HbA1c 6.2%. The laboratory test performed later showed
+that monoclonal immunoglobulin G (IgG), rheumatoid fac-
+tor, antinuclear antibody, and vascular endothelial growth
+factor (VEGF) (<20pg/ml) were undetectable. Her arterial
+blood gas analysis showed metabolic acidosis (pH: 6.95,
+−: 4.4mmol/L,
+PO2: 102mmHg, PCO2: 21.3mmHg, HCO3
+BE: −35.9mmol/L). A chest X-ray film was normal and a
+
+plain computed tomography (CT) scan revealed no pleural
+effusion, pulmonary congestion nor cardiomegaly but mild
+pericardial effusion (Figure 1A, C). An electrocardiogram
+(ECG, Figure 2B) showed the low voltage of the limb
+leads, QS pattern in I and aVL, poor R wave progression
+in V1 to 4 and ST elevation in V4 to 6, which were not
+found in the electrocardiogram recorded one month pre-
+viously (Figure 2A). A portable echocardiography examin-
+ation was normal except for mild pericardial effusion and
+the decreased diameter of the inferior vena cava. At this
+time, we thought the severe hemoconcentration indicated
+intravascular hypovolemia, which had caused the periph-
+eral circulatory disturbances and the metabolic acidosis.
+We started infusing extracellular fluids from a central vein
+with intravenous administration of insulin according to
+the sliding scale to correct the intravascular volume deficit
+and to restore hemodynamic stability (Figure 3).
+
+In spite of continuous intravenous infusion (total about
+2000mL), her blood pressure dropped gradually and about
+two hours later dropped suddenly to be undetectable, but
+she could respond to our call. The more rapid infusion of
+the extracellular fluid (about 1500mL) from a central vein
+with use of the catecholamine (dopamine 5 to 10mcg/kg/
+min) restored her blood pressure 30 minutes later and
+then the contrast CT scan was taken. It did not show any
+findings of pulmonary embolism and acute abdomen such
+as acute pancreatitis, abscess, and mesentelic arterial oc-
+clusion, but it showed pulmonary congestion and massive
+edema of the whole body (Figure 1B, D), which were not
+found by the first plain CT scan. At this time, the portable
+echocardiography showed normal left ventricular wall mo-
+tion. One hour after that, hemodynamic deterioration and
+
+Figure 1 Computed tomography scans. (A, C) The plain computed tomography scan on admission. (B, D) The contrast computed tomography
+scan at hemodynamic deterioration. A and B were the same level of the body. C and D were the same level of the body.
+
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+
+Page 3 of 7
+
+Figure 2 Electrocardiograms. (A) Electrocardiogram, one month before admission. (B) Electrocardiogram on admission.
+
+respiratory failure due to severe pulmonary edema pro-
+gressed rapidly. Intratracheal intubation was done but the
+water blew out from the tube and she died about one hour
+later in spite of the aggressive treatment (Figure 3). The
+laboratory test result on this hemodynamic deterioration
+was reported after her death and showed the significant
+progression of the hypoalbuminemia on the following la-
+boratory data: white blood cells 38,000/μL with a normal
+fraction, red blood cells 507×104/μL, hematocrit 45.6%,
+hemoglobin 15.7g/dL, blood urea nitrogen 38mg/dL, cre-
+atinine 2.3mg/dL, total protein 1.2g/dL, albumin 0.6g/dL,
+AST 49IU/L, ALT 35IU/L, ALP 100IU/L, LDH 328IU/L,
+
+CPK 543IU/L, blood glucose 226mg/dL, sodium 154mEq/L,
+potassium 3.9mEq/L. Blood cultures were negative.
+
+The autopsy showed generalized edema, especially alveo-
+lar pulmonary edema without endothelial apoptosis. The
+pulmonary alveolar spaces were filled with fluids, which
+were not stained so much by hematoxylin and eosin. The
+coronary arteries did not have any atherosclerotic stenosis.
+Inflammatory cells were not found in the edematous tissues.
+The bone marrow showed no evidence of multiple mye-
+loma. There were no signs of infection.
+
+She had a medical history of two previous episodes of
+generalized edema and fatigue after antecedent flu-like
+
+Figure 3 Clinical course and treatment. Black circle, systolic blood pressure (mmHg); black square, diastolic blood pressure (mmHg); black triangle, heart
+rate (beats/min); Blood 1, first collecting blood for laboratory tests; Blood 2, second collecting blood for laboratory tests; BP, blood pressure; CT, computed
+tomography; DOP, dopamine (mcg/kg/min); Epi, 1mg bolus intravenous administration of epinephrine; HR, heart rate; O2, oxygen supply (3 to 8L/min).
+
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+
+Page 4 of 7
+
+illness. She recovered without any medication. One month
+before admission, the laboratory data of her regular medical
+check was normal as per the following values: hemoglobin
+12.7g/dL, protein 6.9g/dL, creatinine 0.78mg/dL, and blood
+urea nitrogen 14.8mg/dL. After her death, we diagnosed
+that our patient had had SCLS in consideration of all these
+medical histories.
+
+Discussion
+We describe a 65-year-old woman who was hospitalized
+because of severe hypovolemic shock with hemoconcen-
+tration and hypoalbuminemia. Our case was similar to
+other reports describing patients with SCLS and was diag-
+nosed as severe SCLS according to the report by Gousseff
+et al. [5]. SCLS is diagnosed clinically after exclusion of
+other diseases that cause systemic capillary leakage, in-
+cluding severe sepsis, toxic shock syndrome and anaphyl-
+axis. In our patient, blood cultures were negative and
+there were no findings of infection by autopsy, which indi-
+cated she had not had sepsis. Her cutaneous and respira-
+tory findings, and laboratory examinations, showed that
+she had not had toxic shock syndrome and anaphylaxis.
+
+SCLS attack consists of three phases, a prodromal phase,
+peripheral leak phase and recruitment phase [3]. About
+30% of SCLS patients show an antecedent upper respira-
+tory tract infection or a flu-like illness with fever in the
+prodromal phase, like our patient. One to four days after
+the prodromal phase, the capillary leakage develops and re-
+sults in generalized edema, mainly in the trunk and ex-
+tremities, while the visceral organs like lungs, brain, heart
+and kidneys usually seem not to be involved [3,5]. Some
+
+patients have hypovolemic shock and ischemic end-organ
+damage, which include acute kidney injury, ischemic brain
+injury and ischemic hepatic dysfunction. The peripheral
+leak phase continues for several days and the recruitment
+phase begins quickly, in which massive fluid and macro-
+molecules are recruited back from the third space into the
+circulation. The patient is at high risk for intravascular vol-
+ume overload and pulmonary edema during this recruit-
+ment phase. The reported cases of the acute phase of
+SCLS in the literature (from 1990 to 2011, [2,7,8,10-16])
+are summarized in Table 1. Five out of 13 patients had pul-
+monary edema, which occurred in the recruitment phase
+in four of them and the other one patient had it in the per-
+ipheral leak phase because of the iatrogenic effect of the
+large amount of transfusion (case 10). Kapoor et al. evalu-
+ated 25 patients with SCLS to determine clinical features,
+natural history and outcome [4] Pulmonary edema devel-
+oped in 10 out of 25 patients (40%) during the recovery
+phase in the face of ongoing vigorous fluid resuscitation.
+Therefore, in the peripheral leak phase, adequate organ
+perfusion has to be obtained by sequential rapid and large
+infusion of intravascular fluids if hypoperfusion exists. In
+the recruitment phase, control of the fluid overload must
+be performed with the use of diuretics and sometimes by
+mechanical ventilation [3].
+
+In SCLS, the endothelial barrier dysfunction leads to
+leakage of the intravascular fluid and macromolecules like
+albumin into the interstitial space. Although crystalloids
+are used commonly as intravascular fluids, colloid (albu-
+min) also should be used for the intravascular fluid resus-
+citation in SCLS, because colloid increases intravascular
+
+Table 1 Reported cases of the acute phase of idiopathic systemic capillary leak syndrome
+Case
+(reference)
+1 [2]
+
+edema
++ (day 2, R.P.) +(day 3)
+
+HR
+(beats/min)
+96
+
+Age (yrs) Sex SBP
+
+46
+
+M 56
+
+4.3/2.5
+
+61.7% / 21.9
+
+(mmHg)
+
+TP / Alb (g/dL) Ht / Hb (g/dL) Pulmonary
+
+Intubation Treatment
+
+Outcome
+
+Saline: 10L/12hr, Alb A
+
+Saline
+
+Saline: 4.5L+Alb
+
+None
+
+A
+
+A
+
+A
+
+Saline: 1L+0.5L/hr+C A
+
+Plasma expander:
+1500mL/24hrs
+
+Saline: 2L+3L/48hr
+
+Saline: 4.5L+Alb+C
+
+Saline:9L+10% P
++S0.5L/hr+C
+
+10% P+S
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+2 [7]
+
+3 [7]
+
+4 [7]
+
+5 [8]
+
+6 [10]
+
+7 [11]
+
+8 [12]
+
+9 [13]
+
+10 [13]
+
+11 [14]
+
+12 [15]
+
+13 [16]
+
+49
+
+54
+
+44
+
+24
+
+52
+
+53
+
+38
+
+37
+
+36
+
+41
+
+41
+
+62
+
+F
+
+Shock
+
+M Shock
+
+F
+
+Shock
+
+M 80
+
+Shock
+
+Shock
+
+Shock
+
+130
+
+F
+
+Shock
+
+Shock
+
+M Shock
+
+100
+
+F
+
+F
+
+F
+
+80
+
+40
+
+40
+
+M 70
+
+M 65
+
+F
+
+97
+
+None
+
+110
+
+130
+
+40
+
+102
+
+None
+
+5.5 / 3.0
+
+None
+
+None / 1.3
+
+4.4 / None
+
+None
+
+4.4 / None
+
+None / 1.8
+
+2.3 / none
+
+None
+
+None
+
+3.7 / None
+
+56% / None
+
+-
+
+-
+
+-
+
+-
+
+None
+
+None / 12
+
+67% / None
+
++(R.P.)
+
+67% / None
+
+49.9% / 16.8
+
+-
+
+-
+
+53% / 19.2
+
++(day 1)
+
+49.9% / 16.8
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
+-
+
+SBP, systolic blood pressure; HR, heart rate; TP, total protein; Alb, albumin; Ht, hematocrit; Hb, hemoglobin; F, female; M, male; None, data not described;
+R.P., recruitment phase; C, catecholamine; P, pentastarch; S, steroid; Nad, noradrenaline; IMG, immunoglobulins; A, alive; D, death.
+
+None
+
+None
+
+None / 19.7
+
++ (day 5)
+
++ (day 5)
+
+Saline+C+IMG+S
+
+D (day 9)
+
+None / 22.5
+
++(day 3, R.P.) +
+
+Saline: 15L, Alb+C
+
+60.4% / 22.3
+
+-
+
++
+
+Saline: 15L+Nad
+
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+
+Page 5 of 7
+
+oncotic pressure and keeps the fluid in the intravascular
+space for a longer period than crystalloid alone [3]. How-
+ever, proteins like albumin, with a molecular weight less
+than 200 kilodaltons, leak from the vessels in SCLS and
+the effectiveness of colloid may not be enough. Recently, it
+was reported that the infusion of 10% pentastarch, a larger
+molecule than albumin, had the effect to stabilize the
+hemodynamics in two SCLS patients with refractory
+hypotension during the peripheral leak phase, who did not
+respond to aggressive crystalloid replacement and ino-
+tropic agents [13]. The pharmacologic therapies to im-
+prove the capillary leakage were tried in the acute phase
+of SCLS. Terbutaline, by inducing adenyl cyclase, and
+theophylline, by inhibiting phosphodiesterase, increase the
+cyclic adenosine monophosphate (cAMP) levels of the
+endothelium. The increase in cAMP is known to decrease
+endothelial cell permeability [17], and so both are sup-
+posed to interfere with capillary permeability. Beta-2
+stimulators like terbutaline can also inhibit macromolecu-
+lar leakage in response to histamine and bradikynin [18].
+Theophylline also is known to antagonize cytokine-
+mediated endothelial damage and capillary permeability
+[19]. Through these pharmacologic activities, both terbu-
+taline and theophylline are used as a first-line prophylactic
+therapy against chronic SCLS [20]. In three patients with
+acute phase SCLS, Dowden et al. showed that the com-
+bination of terbutaline and theophylline had beneficial ef-
+fects by decreasing capillary permeability if the serum
+theophylline level was high enough (20 to 25mcg/mL),
+and that if it did not work, the additional administration
+of tumor necrosis factor alpha (TNF-alpha) antagonist
+(infliximab) seemed to improve the patient refractory to
+terbutaline and theophylline [21]. Lambert et al. reported
+high-dose intravenous immunoglobulins were effective
+against the acute phase of SCLS [22]. VEGF was reported
+in 1983 to induce rapid leakage from blood vessels [23].
+Recently, VEGF was reported to increase in the episodic
+SCLS active phase but not in the remission phase [24,25].
+Yabe et al. reported that anti-VEGF antibody (bevacizu-
+mab) improved the life-threatening acute phase of SCLC
+[26]. However, we need to be aware of SCLS and to diag-
+nose it before using them, because these acute pharmaco-
+logic challenges are not established and a TNF-alpha
+antagonist is dangerous if patients have sepsis.
+
+Our patient was hospitalized in the peripheral
+
+leak
+phase of SCLS with prolonged hypoperfusion, because she
+had distributive shock with metabolic acidosis. Although
+we did not have a definitive diagnosis, we started infusing
+extracellular fluid (crystalloid) without colloid, and her
+hemodynamics improved transiently. Usually, the lungs
+may not be involved in the peripheral leak phase [3]. But
+during the extracellular fluid infusion, the generalized
+edema progressed and the severe flash pulmonary edema
+also progressed rapidly, and she died (Figure 3). There
+
+might be several possible explanations. The rapid decrease
+in oncotic pressure due to severely progressing hypoalbu-
+minemia and the increase in the pulmonary artery resist-
+ance due to metabolic acidosis [27,28] and the aggressive
+extravascular fluid resuscitation without colloid, all of
+them might induce flash pulmonary edema. Although we
+thought the serum albumin level of 3.1g/dL on admission
+was mild, its level had to have been actually very low in
+consideration of her severe hemoconcentration. The de-
+gree of hypovolemia and systemic tissue hypoperfusion on
+admission were also severe in consideration of her meta-
+bolic acidosis and hemoconcentration, and so the pul-
+monary capillary hydrostatic pressure was low enough not
+to induce pulmonary edema in spite of her hypoalbumin-
+emia on admission. Therefore, we should have understood
+the pathogenesis of the SCLS and have transfused the ap-
+propriate dose of colloids with crystalloids while moni-
+toring the central venous pressure on admission and
+performed mechanical ventilation with positive end-
+expiratory pressure (PEEP) at the latest at the occurrence
+of the first hemodynamic deterioration. The myocardial
+involvement associated with the SCLS might be another
+possibility [11,29,30]. Claessens et al. showed the revers-
+ible biventricular wall thickening, while systolic function
+remained normal by echocardiography. The ECG re-
+vealed cardiac axial rotation of −30° with nonspecific re-
+polarization abnormalities in the attacks of SCLS, as in
+our patient [11]. Juthier et al. observed both myocardial
+thickening and severe systolic dysfunction by echocardi-
+ography, and diffuse myocardial interstitial edema with-
+out inflammatory infiltrates and myocyte necrosis by
+endomyocardial biopsies in the shock stage in one pa-
+tient with SCLS [29]. In our patient, the autopsy findings
+did not show myocardial interstitial edema.
+
+The pathogenesis of SCLS is unknown. Some hypoth-
+eses have been proposed, but hypotheses have incomplete
+evidence [3]. About 80% of patients with SCLS have a
+monoclonal
+immunoglobulin in their serum and these
+paraproteins might be related to the endothelial damage
+and vascular leakage [5,8,31]. But our patient did not have
+a monoclonal immunoglobulin. Some reports proposed
+the role of the cytokines, because interleukin 2 (IL-2)-re-
+ceptor positive cells and cluster of differentiation 8 (CD8)-
+positive lymphocytes were found surrounding damaged
+endothelial cells during attacks in one patient [32]. How-
+ever, in our patient, we could not find the lymphocytes
+around the capillaries of the autopsy tissues. VEGF is con-
+sidered to be related to the pathogenesis of SCLS [23-25].
+In our patient, VEGF was within normal limit. Therefore,
+the etiology of our patient remains unknown.
+
+Conclusions
+It is important to keep in mind this rare and fatal disease
+of SCLS and recognize the pathophysiology to treat it
+
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+
+Page 6 of 7
+
+effectively because severe hypovolemic shock and severe
+flash pulmonary edema may progress rapidly together
+during fluid resuscitation even in the peripheral
+leak
+phase of SCLS. To prevent these situations, intubation
+and mechanical ventilation with PEEP and fluid resusci-
+tation by appropriate dose of crystalloids with colloids
+should be done while monitoring the central venous
+pressure when hypoalbuminemia and systemic tissue hy-
+poperfusion are considered to be severe from the grade
+of hemoconcentration and metabolic acidosis.
+
+7.
+
+8.
+
+9.
+
+Amoura Z, Papo T, Ninet J, Hatron PY, Guillaumie J, Piette AM, et al.
+Systemic capillary leak syndrome: report on 13 patients with special
+focus on course and treatment. Am J Med. 1997;103:514–9.
+Dhir V, Arya V, Malav IC, Suryanarayanan BS, Gupta R, Dey AB.
+Idiopathic systemic capillary leak syndrome (SCLS): case report and
+systematic review of cases reported in the last 16 years. Intern Med.
+2007;46:899–904.
+Ansari A, Birendra KC, Marvin M, Kubat A, FritzT. An unusual case of
+swelling-Clarkson’s syndrome. BMJ Case Rep. 2011 doi:10.1136/
+bcr.06.2011.4405.
+
+10. Cicardi M, Gardinali M, Bisiani G, Rosti A, Allavena P, Agostoni A. The
+
+systemic capillary leak syndrome: appearance of interleukin-2-receptor-
+positive cells during attacks. Ann Intern Med. 1990;113:475–7.
+
+Consent
+Written informed consent was obtained from the pa-
+tient’s family for publication of this case report and any
+accompanying images. A copy of the written consent
+is available for review by the Editor-in-Chief of this
+journal.
+
+Abbreviations
+ALP: alkaline phosphatase; ALT: alanine transaminase; AST: aspartate
+aminotransferase; cAMP: cyclic adenosine monophosphate; CD8: cluster
+of differentiation 8; CK-MB: creatine kinase MB; CPK: creatine phosphokinase;
+CT: computed tomography; ECG: electrocardiogram; IgG: immunoglobulin
+G; IL-2: interleukin 2; LDH: lactate dehydrogenase; PEEP: positive end-
+expiratory pressure; SCLS: idiopathic systemic capillary leak syndrome;
+TNF-alpha: tumor necrosis factor alpha; VEGF: vascular endothelial
+growth factor.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+YH, SH, SO, TO, RN and HY wrote the manuscript. All authors read and
+approved the final manuscript.
+
+Acknowledgements
+No funds were received in support of this study.
+
+Author details
+1Department of Internal Medicine, Japan Community Health Care
+Organization (JCHO) Kyushu Hospital, 1-8-1 Kishinoura Yahata-Nishiku,
+Kitakyushu City, Fukuoka Prefecture 806-8501, Japan. 2Department of
+Pathology, Japan Community Health Care Organization (JCHO) Kyushu
+Hospital, 1-8-1 Kishinoura Yahata-Nishiku, Kitakyushu City, Fukuoka Prefecture
+806-8501, Japan.
+
+Received: 14 October 2014 Accepted: 13 February 2015
+
+References
+1.
+
+Clarkson B, Thompson D, Horwith M, Luckey EH. Cyclical edema and shock
+due to increased capillary permeability. Am J Med. 1960;29:193–216.
+Chihara R, Nakamoto H, Arima H, Moriwaki K, Kanno Y, Sugahara S, et al.
+Systemic capillary leak syndrome. Intern Med. 2002;41:953–6.
+Druey KM, Grepp PR. Narrative review: the systemic capillary leak syndrome.
+Ann Intern Med. 2010;153:90–8.
+Kapoor P, Greipp PT, Schaefer EW, Mandrekar SJ, Kamal AH, Gonzalez-Paz
+NC, et al. Idiopathic systemic capillary leak syndrome (Clarkson`s disease):
+the Mayo Clinic experience. Mayo Clin Proc. 2010;85:905–12.
+Gousseff M, Arnaud L, Lambert M, Hot A, Hamidou M, Duhaut P, et al. The
+systemic capillary leak syndrome: acase series of 28 patients from a
+European registry. Ann Intern Med. 2011;154:464–71.
+Teelucksingh S, Padfield PL, Edwards CR. Systemic capillary leak syndrome.
+Q J Med. 1990;75:515–24.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+12.
+
+11. Claessens YE, Joly LM, Cariou A, Oksenhendler E. Acute reversible cardiac
+involvement associated with systemic capillary leak syndrome. Intensive
+Care Med. 1999;25:334–5.
+Kawabe S, Saeki T, Yamazaki H, Nagai M, Aoyagi R, Miyamura S. Systemic
+capillary leak syndrome. Intern Med. 2002;41:211–5.
+Lee YS, Kim SY, Kwon CW, Song HG, Lee YK, Kim HJ, et al. Two cases of
+systemic capillary leak syndrome that were treated with pentastarch.
+Korean J Intern Med. 2007;22:130–2.
+
+13.
+
+14. Hollenberg J, Frykman J, Lundberg LG, Forsberg S. A case report of systemic
+
+capillary leak syndrome (Clarkson’s disease). Acta Anaesthesiol Scand.
+2010;54:649–52.
+Saugel B, Umgelter A, Martin F, Phillip V, Schmid RM, Huber W. Systemic
+capillary leak syndrome associated with hypovolemic shock and compartment
+syndrome. Use of transpulmonary thermodilution technique for volume
+management. Scand J Trauma Resusc Emerg Med. 2010;18:38.
+
+15.
+
+16. Nagao Y, Harada H, Yamanaka H, Fukuda K. Possible mediators for systemic
+
+17.
+
+capillary leak syndrome. Am J Med. 2011;124:e7–9.
+Fischmeister R. Is cAMP good or bad? Depends on where it’s made.
+Circ Res. 2006;98:582–4.
+Svensjö E, Persson CG, Rutili G. Inhibition of bradykinin induced
+macromolecular leakage from post-capillary venules by a beta2-
+adrenoreceptor stimulant, terbutaline. Acta Physiol Scand. 1977;101:504–6.
+19. Vassallo R, Lipsky JJ. Theophylline: recent advances in the understanding
+
+18.
+
+of its mode of action and uses in clinical practice. Mayo Clin Proc.
+1998;73:346–54.
+
+20. Droder RM, Kyle RA, Greipp PR. Control of systemic capillary leak syndrome
+
+with aminophylline and terbutaline. Am J Med. 1992;92:523–6.
+
+21. Dowden AM, Rullo OJ, Aziz N, Fasano MB, Chatila T, Ballas ZK. Idiopathic
+
+22.
+
+23.
+
+24.
+
+25.
+
+systemic capillary leak syndrome: novel therapy for acute attacks. J Allergy
+Clin Immunol. 2009;124:1111–3.
+Lambert M, Launay D, Hachulla E, Morell-Dubois S, Soland V, Queyrel V,
+et al. High-dose intravenous immunoglobulins dramatically reverse systemic
+capillary leak syndrome. Crit Care Med. 2008;36:2184–7.
+Senger DR, Galli SJ, Dvorak AM, Perruzzi CA, Harvey VS, Dvorak HF. Tumor
+cells secrete vascular permeability factor that promotes accumulation of
+ascites fluid. Science. 1983;219:983–5.
+Lesterhuis WJ, Rennings AJ, Leenders WP, Nooteboom A, Punt CJ, Sweep
+FC, et al. Vascular endothelial growth factor in systemic capillary leak
+syndrome. Am J Med. 2009;122:e5–7.
+Kinoshita Y, Kasaoka S, Fujita M, Oshima C, Kawamura Y, Tsuruta R, et al.
+Synchronized changes in serum vascular endothelial growth factor during
+the clinical course of chronic systemic capillary leak syndrome. Intern Med.
+2010;49:791–4.
+
+26. Yabe H, Yabe M, Koike T, Shimizu T, Morimoto T, Kato S. Rapid
+
+improvement of life-threatening capillary leak syndrome after stem cell
+transplantation by bevacizumab. Blood. 2010;115:2723–4.
+
+27. Downing SE, Talner NS, Gardner TH. Cardiovascular responses to metabolic
+
+acidosis. Am J Physiol. 1965;208:237–42.
+
+28. Cingolani HE, Faulkner SL, Mattiazzi AR, Bender HW, Graham Jr TP.
+
+29.
+
+Depression of human myocardial contractility with “respiratory” and
+“metabolic” acidosis. Surgery. 1975;77:427–32.
+Juthier F, Ennezat PV, Fornes P, Hachulla E, Hatron PY, Robin E, et al.
+Myocardial involvement in systemic capillary leak syndrome: first
+demonstration by pathologic findings. Eur Heart J Acute Cardiovasc
+Care. 2012;1:248–52.
+
+30. Guillaume M, Tolsma V, Colombe B, Bosseray A, Massot C. Idiopathic
+
+systemic capillary leak syndrome: a case report with cardiac involvement.
+RevMed Interne. 2011;32:e69–71.
+
+Hirosaki et al. Journal of Medical Case Reports  (2015) 9:90 
+
+Page 7 of 7
+
+31. Atkinson JP, Waldmann TA, Stein SF, Gelfand JA, Macdonald WJ, Heck LW,
+et al. Systemic capillary leak syndrome and monoclonal IgG gammopathy;
+studies in a sixth patient and a review of the literature. Medicine
+(Baltimore). 1977;56:225–39.
+
+32. Cicardi M, Berti E, Capto V, Radice F, Gardinali M, Agostoni A. Idiopathic
+
+capillary leak syndrome: evidence of CD8-positive lymphocytes surrounding
+damaged endothelial cells. J Allergy Clin Immunol. 1997;99:417–9.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

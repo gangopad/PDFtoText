@@ -1,0 +1,786 @@
+Toyoshima et al. Journal of Medical Case Reports  (2015) 9:84 
+DOI 10.1186/s13256-015-0553-4
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Open Access
+Spontaneous retroperitoneal hemorrhage caused
+by rupture of an ovarian artery aneurysm: a case
+report and review of the literature
+Masafumi Toyoshima1*, Takako Kudo1, Saori Igeta1, Hiromitsu Makino1, Yuta Momono1, Takashi Shima1,
+Rui Matsuura1, Nobuko Ishigaki1, Kozo Akagi1, Yoichi Takeyama1, Hideki Iwahashi1,3, Hiroya Rikimaru2,
+Akihiro Sato2 and Kosuke Yoshinaga1
+
+Abstract
+
+Introduction: Spontaneous rupture of an ovarian artery aneurysm is extremely rare. Although a majority of these
+cases have been associated with pregnancy, there have been recent reports and reviews of rare cases that were not
+directly associated with pregnancy. Transcatheter arterial embolization is considered to be an alternative therapy to
+surgery.
+Case presentation: A 44-year-old Japanese woman, gravida 3 para 3, presented to our emergency room complaining
+of intermittent right flank pain. She had undergone a cesarean section 2 years previously, and had no history of abdominal
+trauma. On admission, her blood pressure was 115/78 mmHg, pulse 70 beats per minute, and hemoglobin concentration
+9.8 g/dL. Abdominal ultrasonography and contrast-enhanced dynamic computed tomography revealed a large retroperitoneal
+hematoma. Findings on three-dimensional computed tomography angiography suggested ruptured aneurysm of her
+right ovarian artery. A selective right ovarian artery angiogram revealed a tortuous aneurysm. Transcatheter arterial
+embolization using N-butyl-2-cyanoacrylate was performed. The aneurysm was successfully embolized, and her course
+after embolization was uneventful. She has remained symptom-free during 3 months of follow-up.
+Conclusions: This was a very rare case of a patient who had a retroperitoneal hemorrhage originating from an ovarian
+artery aneurysm. A review of published case reports found that contrast-enhanced computed tomography with
+reconstruction images is an excellent imaging tool. Diagnostic angiography and subsequent transcatheter arterial
+embolization are thought to be very effective for this condition.
+Keywords: Aneurysm, Multigravida, N-butyl-2-cyanoacrylate, Ovarian artery, Retroperitoneal hematoma,
+Spontaneous rupture, Transcatheter arterial embolization
+
+Introduction
+Spontaneous rupture of an ovarian artery aneurysm is
+extremely rare; only 25 cases have been reported in the
+English literature [1-24]. Although a majority of these
+cases were related to pregnancy and occurred during the
+peripartum or postpartum period, there have been recent
+reports and reviews of rare cases that were not directly as-
+sociated with pregnancy [7,14,16,18-20,22]. Rupture of
+an ovarian artery aneurysm leads to retroperitoneal
+
+* Correspondence: m-toyo@med.tohoku.ac.jp
+1Department of Obstetrics and Gynecology, Sendai Medical Center, National
+Hospital Organization, 2-8-8, Miyagino, Miyagino-ku, Sendai, Miyagi 983-8520,
+Japan
+Full list of author information is available at the end of the article
+
+hemorrhage and can be a life-threatening event. Accord-
+ing to previously reported cases, life-saving treatment of a
+ruptured ovarian artery consists of surgery that includes
+ligation of the artery proximal and distal to the site of rup-
+ture. However, since the first report by King [9], transcath-
+eter arterial embolization (TAE) has emerged as an
+alternative therapy for patients who are hemodynamically
+stable. Here, we report the case of a patient with spontan-
+eous retroperitoneal hemorrhage associated with rupture
+of an ovarian artery aneurysm who was successfully
+treated using TAE only. We also review the published case
+reports on this rarely occurring condition.
+
+© 2015 Toyoshima et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Toyoshima et al. Journal of Medical Case Reports  (2015) 9:84 
+
+Page 2 of 6
+
+Case presentation
+A 44-year-old Japanese woman, gravida 3 para 3, who had
+undergone cesarean section 2 years previously, presented
+to our emergency room with a 2-day history of intermit-
+tent right flank pain. She had no fever, nausea, vomiting,
+diarrhea, or cough. She had no history of abdominal
+trauma, and her past medical history and family history
+were not significant. She did not have hypertension or car-
+diovascular disease, and had not taken any anticoagulants.
+Her bowel and urinary habits were normal, and her men-
+strual periods were regular. Her last menstrual period had
+begun 2 days before the onset of right flank pain. On ad-
+mission, her blood pressure was 115/78 mmHg, pulse 70
+beats per minute, body temperature 36°C, and blood oxy-
+gen saturation 100%. She was found to be somewhat
+anemic, with a hemoglobin concentration of 9.8 g/dL and
+hematocrit of 28.2%. Her white blood cell count was ele-
+vated (13,900/mm3), and a urine pregnancy test was
+negative.
+
+computed tomography
+
+On physical examination, her abdomen was diffusely
+tender without muscle guarding. A pelvic examination re-
+vealed a small amount of menstrual discharge and a normal
+uterus and bilateral adnexae. Abdominal ultrasonography
+demonstrated a large retroperitoneal hematoma surround-
+ing her right kidney (Figure 1A). Emergent abdominal and
+pelvic
+(CT) was performed.
+Contrast-enhanced dynamic CT revealed a large retroperi-
+toneal hematoma surrounding her right kidney with an en-
+hancing round structure in the center of the hematoma in
+the arterial phase (Figure 1B). Although extravasation in
+the venous phase was not clear,
+findings on three-
+dimensional CT angiography were suggestive of a retroperi-
+toneal hematoma due to rupture of an aneurysm of her
+right ovarian artery (Figure 1C), and no other responsible
+lesion was seen. A transfemoral angiography was per-
+formed for arterial embolization under a clinical diagnosis
+of bleeding from a right ovarian artery aneurysm. A select-
+ive angiogram of her right ovarian artery revealed a tortu-
+ous aneurysm near its origin from the aorta without
+obvious active extravasation (Figure 2A). A 2.1-Fr micro-
+catheter (Tangent™; Boston Scientific, USA) was advanced
+into the orifice of the aneurysm, and 1mL of 16.7%
+N-butyl-2-cyanoacrylate (NBCA) diluted in iodized oil
+(Lipiodol®; Guerbet Japan, Tokyo, Japan) was manually
+injected beyond the distal site of the aneurysm. A postem-
+bolization angiogram showed complete occlusion of the
+vessel (Figure 2B). No other aneurysm was found on
+three-dimensional CT and angiography.
+
+One day after TAE, CT was performed, which showed
+that the hematoma had decreased in size, and there was
+no sign of extravasation. In addition, her hemoglobin
+and hematocrit were found to have dropped to 7.9 g/dL
+and 24.1%, respectively. She was administered iron for 4
+days, with a subsequent increase in hemoglobin and
+
+(A)
+
+(B)
+
+(C)
+
+Figure 1 Imaging tests for retroperitoneal hematoma. (A) Abdominal
+ultrasonography demonstrated a normal right kidney (left side, arrow)
+and a large hematoma in the retroperitoneum. A high-echoic lesion can
+be seen surrounding the right kidney (right side, arrowhead). (B) Arterial
+phase contrast-enhanced computed tomography image. A bright
+round structure (arrow) can be seen in the right retroperitoneal
+hematoma. (C) Three-dimensional computed tomography angiogram of
+the abdomen revealed a right ovarian artery aneurysm (arrow) overriding
+the right renal artery. Abbreviations: L, left; R, right; Rt., right; H, head,
+F, foot.
+
+Toyoshima et al. Journal of Medical Case Reports  (2015) 9:84 
+
+Page 3 of 6
+
+(A)
+
+(B)
+
+Figure 2 Angiograms before and after transcatheter arterial embolization.
+(A) Selective angiogram of the right ovarian artery showing several
+aneurysms (arrow) located near the origin from the aorta. (B) Angiogram
+obtained after N-butyl-2-cyanoacrylate embolization showing successful
+embolization of the aneurysm. Note that the distal tortuous section of
+the right ovarian artery disappear (arrows).
+
+hematocrit to 8.9g/dL and 25.6%, respectively. No other
+surgical intervention was needed, and her course after
+embolization was uneventful. She was discharged on the
+
+fifth hospital day, and has remained symptom-free dur-
+ing 3 months of follow-up.
+
+Discussion
+A retroperitoneal hematoma can be a life-threatening
+event, as well as a surgical emergency. Abdominal
+trauma, including iatrogenic injuries from surgical inter-
+ventions such as inferior vena cava filter placement and
+arterial puncture, is the most common cause of retro-
+peritoneal hemorrhage. In addition, a ruptured aortic or
+renal artery aneurysm, retroperitoneal tumors, and clot-
+ting disorders have been mentioned as the main causes
+of retroperitoneal hematoma [25].
+
+The most common presenting symptom of retroperi-
+toneal hematoma is acute abdominal or flank pain ac-
+companied by clinical signs associated with bleeding.
+However, the clinical picture is often nonspecific, and
+the ruling out of acute abdomen, ureteral calculus, and
+pyelonephritis is needed. In addition, pregnant patients
+in the third trimester can be misdiagnosed with placen-
+tal abruption or uterine rupture if they do not undergo
+an adequate imaging examination such as contrast-
+enhanced CT, although pregnancy is a relative contra-
+indication to this procedure. The most common arterial
+sites for ruptured aneurysm in order of frequency during
+pregnancy are the aorta, cerebral arteries, splenic artery,
+renal artery, coronary artery, and ovarian artery [26].
+
+Based on a MEDLINE search of the English language
+literature from 1963 to 2014, to the best of our know-
+ledge, only 25 cases of spontaneous rupture of an ovar-
+ian artery aneurysm have been reported [1-24]. Of these
+reported cases, 18 cases (72%) were associated with
+pregnancy (Table 1), and seven cases (28%) were not dir-
+ectly related to pregnancy (Table 2). The patients whose
+pregnancy and delivery history were available were all
+multigravida. The ages of the patients with pregnancy-
+related ruptured ovarian aneurysm ranged from 23 to 39
+years (mean 33.6 and median 35 years), and the ages of
+the other patients ranged from 45 to 69 years (mean
+51.5 and median 49.5 years). There seemed to be no dif-
+ference regarding the side of the body where the rup-
+tured aneurysm occurred. Among pregnancy-related
+patients, the aneurysm occurred on the left in eight and
+right in 10 cases; and among the other patients, on the
+left in five and right in three cases, including the present
+case. The majority of ruptures occurred during the post-
+partum period, which accounted for 14 out of 18 cases
+(78%). The onset of rupture occurred during the third
+trimester in two patients, who underwent cesarean sec-
+tion followed by ovarian artery ligation.
+
+Because a ruptured ovarian artery aneurysm mostly oc-
+curs in women of high parity, the repeated hemodynamic
+and endocrine changes during pregnancy are thought to
+
+Toyoshima et al. Journal of Medical Case Reports  (2015) 9:84 
+
+Page 4 of 6
+
+Table 1 Reported 18 cases of pregnancy-related spontaneous rupture of the ovarian artery
+Age (years)
+29
+
+Side Onset
+L
+
+Gravida/para
+G4P4
+
+Treatment
+Laparotomy
+
+2d postpartum
+
+35
+
+38
+
+32
+
+35
+
+26
+
+23
+
+31
+
+36
+
+38
+
+38
+
+38
+
+37
+
+30
+
+39
+
+32
+
+37
+
+31
+
+G6P3
+
+G6P6
+
+G3P3
+
+G3P3
+
+G5P4
+
+N/A
+
+G4P3
+
+G5P5
+
+G3P2
+
+G3P2
+
+G12P11
+
+P4
+
+G5P5
+
+G5P4
+
+P4
+
+G4P4
+
+G6P4
+
+L
+
+R
+
+L
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+L
+
+L
+
+R
+
+L
+
+L
+
+L
+
+4d postpartum
+
+Laparotomy
+
+During delivery
+
+Laparotomy
+
+4d postpartum
+
+Laparotomy
+
+4d postpartum
+
+Laparotomy
+
+1d postpartum
+
+Laparotomy
+
+1m postpartum
+
+Laparotomy
+
+39w of gestation
+
+Laparotomy (caesarean section, ovarian artery ligation)
+
+4d postpartum
+
+TAE
+
+During delivery
+
+4d postpartum
+
+3d postpartum
+
+Laparotomy
+TAE→ lomboscopic drainage
+Laparotomy
+
+39w of gestation
+
+Laparotomy (caesarean section, ovarian artery ligation)
+
+5h postpartum
+
+Laparotomy
+
+5d postpartum
+
+2d postpartum
+
+4d postpartum
+
+TAE
+Laparotomy→TAE
+TAE
+
+2d postpartum
+
+TAE
+
+Author, year
+Caillouette and Owen, 1963 [1]
+
+Tsoutsoplides, 1967 [2]
+
+Riley, 1975 [3]
+
+Burnett and Carfrae, 1976 [4]
+
+Same as above
+
+Jafari and Saleh, 1977 [5]
+
+Mojab and Rodriguez, 1977 [6]
+Høgdall et al., 1989 [8]
+King, 1990 [9]
+Belfort et al., 1993 [10]
+Guillem et al., 1999 [11]
+Blachar et al., 2000 [12]
+Panoskaltsis et al., 2000 [13]
+Kale et al., 2005 [15]
+Poilblanc et al., 2008 [17]
+Mohammed et al., 2011 [21]
+Wakimoto et al., 2014 [23]
+Sakaguchi et al., 2014 [24]
+
+Abbreviations: d, day(s); h, hour(s); L, left; m, month; N/A, not available; R, right; TAE, transcatheter arterial embolization; w, week(s).
+
+be the cause of arterial alterations that may lead to new
+aneurysm formation and/or weakening of pre-existing an-
+eurysms [4,26]. In addition to the physiologic changes of
+pregnancy, hypertension might be a risk factor for rupture
+of ovarian artery aneurysm [18].
+
+In earlier reported cases, the diagnosis was always ob-
+tained by exploratory laparotomy. Since Blachar et al.
+[12] first reported on the use of contrast-enhanced CT
+with reconstruction images, this imaging modality has
+been found highly effective for the preoperative diagno-
+sis of ruptured ovarian artery aneurysm.
+
+Of 17 cases published in 1990 or later, TAE was attempted
+as a treatment for ruptured ovarian artery aneurysm in 11
+cases (64.7%), and the procedure was successful in nine
+
+cases, including ours. Because these patients had good
+outcomes after a minimally invasive procedure, TAE is
+currently considered to be the treatment of choice. The
+following embolic agents have been used in the previous
+reports; microcoils in five cases [9,11,17,19,21], gelatin
+sponge particles (GSPs) in one case [24], a combination of
+microcoils and GSP in one case [16], and NBCA was re-
+cently used in one case [23]. Our patient is the second
+case whose ruptured ovarian artery aneurysm was suc-
+cessfully treated using NBCA.
+
+The mechanism of embolization by microcoil and GSP
+involves thrombin formation, which requires normal
+clotting function. However, NBCA occludes blood ves-
+sels because it polymerizes on contact with plasma, and
+
+Table 2 Present case and seven reported cases of pregnancy-unrelated spontaneous rupture of the ovarian artery
+Age (years)
+45
+
+Onset
+Follicular phase
+
+Gravida/Para
+G6P5
+
+Treatment
+Laparotomy
+
+Location
+L
+
+53
+
+55
+
+46
+
+69
+
+48
+
+51
+
+45
+
+G1P1
+
+G2P2
+
+G3P2
+
+G3P3
+
+G2P2
+
+G3P3
+
+G3P3
+
+L
+
+R
+
+L
+
+L
+
+L
+
+R
+
+R
+
+Postmenopause
+
+Postmenopause
+
+2d of menstruation
+
+Postmenopause
+
+2d of menstruation
+
+Postmenopause
+
+Laparotomy
+
+TAE
+TAE(failed)→ Laparotomy
+TAE
+TAE(failed)→ Laparotomy
+Laparotomy
+
+3d of menstruation
+
+TAE
+
+Abbreviations: d, day(s); L, left; R, right; TAE, transcatheter arterial embolization.
+
+Author, year
+Siu et al., 1986 [7]
+Manabe et al., 2002 [14]
+Nakajo et al., 2005 [16]
+Chao and Chen, 2009 [18]
+Kirk et al., 2009 [19]
+Tsai and Lien, 2009 [20]
+Kodaira et al., 2014 [22]
+Present case
+
+Toyoshima et al. Journal of Medical Case Reports  (2015) 9:84 
+
+Page 5 of 6
+
+2.
+
+3.
+
+4.
+
+5.
+
+7.
+
+8.
+
+9.
+
+therefore this method does not depend on the patient’s
+hemostatic capacity. Yonemitsu et al. evaluated the out-
+comes of TAE performed using microcoils, GSP, and
+NBCA in the setting of coagulopathy. They reported that
+the rate of primary hemostasis was significantly higher
+in patients undergoing NBCA compared to GSP, and the
+mean treatment time was significantly shorter for the
+NBCA procedure compared to the microcoil procedure
+[27]. Therefore, it is reasonable to consider NBCA as the
+embolic agent of choice for ruptured ovarian artery
+aneurysm, especially for critical patients in shock, who
+tend to have clotting problems due to coagulopathy. Be-
+cause most patients with ovarian artery aneurysm are
+asymptomatic and rupture is an uncommon event, this
+condition may be underdiagnosed, and the risk factors for
+rupture have not yet been studied in depth. Additional
+case reports may help clarify the nature of ovarian artery
+aneurysms.
+
+Conclusions
+We presented a very rare case of a patient who had a
+retroperitoneal hemorrhage that originated from an
+ovarian artery aneurysm. Contrast-enhanced CT with re-
+construction images has been found to be an excellent
+imaging tool. Diagnostic angiography combined with
+subsequent TAE during the same imaging session is
+thought to be a useful and highly effective alternative
+therapeutic procedure for this condition. Because ovarian
+arteries are potential sources of pelvic hemorrhage, these
+vessels should be routinely studied when imaging demon-
+strates the presence of a retroperitoneal hematoma, espe-
+cially in multiparous women, whether or not they are
+pregnant.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying im-
+ages. A copy of the written consent is available for re-
+view by the Editor-in-Chief of this journal.
+
+Abbreviations
+CT: Computed tomography; GSP: Gelatin sponge particle; NBCA:
+N-butyl-2-cyanoacrylate; TAE: Transcatheter arterial embolization.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+MT analyzed and interpreted the patient data, drafted the manuscript, and
+created the figures. TK, SI, HM, YM, TS, RM, NI, KA, YT, and HI performed the
+physical examinations and medical care. HR and AS performed the TAE procedure.
+TK, KA, HI, HR and AS provided valuable insight during manuscript preparation.
+KY supervised the entire case. All authors read and approved the final manuscript.
+
+Author details
+1Department of Obstetrics and Gynecology, Sendai Medical Center, National
+Hospital Organization, 2-8-8, Miyagino, Miyagino-ku, Sendai, Miyagi 983-8520,
+Japan. 2Department of Radiology, Sendai Medical Center, National Hospital
+Organization, Sendai, Japan. 3Department of Obstetrics and Gynecology,
+Self-Defense Force Sendai Hospital, Sendai, Japan.
+
+Received: 24 December 2014 Accepted: 21 February 2015
+
+References
+1.
+
+Caillouette JC, Owen HW. Postpartum spontaneous rupture of an ovarian-artery
+aneurysm. Obstet Gynecol. 1963;21:510–1.
+Tsoutsoplides GC. Post-partum spontaneous rupture of a branch of the ovarian
+artery. Scott Med J. 1967;12:289–90.
+Riley PM. Letter: Rupture of right ovarian artery aneurysm during delivery.
+S Afr Med J. 1975;49:729.
+Burnett RA, Carfrae DC. Spontaneous rupture of ovarian artery aneurysm in
+the puerperium. Two case reports and a review of the literature. Br J Obstet
+Gynaecol. 1976;83:744–50.
+Jafari K, Saleh I. Postpartum spontaneous rupture of ovarian artery aneurysm.
+Obstet Gynecol. 1977;49:493–5.
+
+6. Mojab K, Rodriguez J. Postpartum ovarian artery rupture with retroperitoneal
+
+hemorrhage. AJR Am J Roentgenol. 1977;128:695–6.
+Siu KF, Luk SL, Kung TM. Spontaneous rupture of the ovarian artery. J R Coll
+Surg Edinb. 1986;31:237–40.
+Høgdall CK, Pedersen SJ, Ovlisen BO, Helgestrand UJ. Spontaneous rupture
+of an ovarian-artery aneurysm in the third trimester of pregnancy. Acta Obstet
+Gynecol Scand. 1989;68:651–2.
+King WL. Ruptured ovarian artery aneurysm: a case report. J Vasc Surg.
+1990;12:190–3.
+
+10. Belfort MA, Simon T, Kirshon B, Howell JF. Ruptured ovarian artery aneurysm
+
+complicating a term vaginal delivery. South Med J. 1993;86:1073–4.
+
+11. Guillem P, Bondue X, Chambon JP, Lemaitre L, Bounoua F. Spontaneous
+retroperitoneal hematoma from rupture of an aneurysm of the ovarian
+artery following delivery. Ann Vasc Surg. 1999;13:445–8.
+
+12. Blachar A, Bloom AI, Golan G, Venturero M, Bar-Ziv J. Case reports. Spiral CT
+
+imaging of a ruptured post-partum ovarian artery aneurysm. Clin Radiol.
+2000;55:718–20.
+
+13. Panoskaltsis T, Padwick M, Thomas JM, el Sayed T. Spontaneous rupture of
+ovarian arterial aneurysm in the antenatal period. Acta Obstet Gynecol Scand.
+2000;79:718–9.
+
+14. Manabe Y, Yoshioka K, Yanada J. Spontaneous rupture of a dissection of the
+
+left ovarian artery. J Med Invest. 2002;49:182–5.
+Kale A, Akdeniz N, Erdemoglu M, Ozcan Y, Yalinkaya A. Spontaneous rupture
+of the ovarian artery following spontaneous vaginal birth. Saudi Med J.
+2005;26:1826–7.
+
+15.
+
+16. Nakajo M, Ohkubo K, Fukukura Y, Nandate T. Embolization of spontaneous
+
+rupture of an aneurysm of the ovarian artery supplying the uterus with
+fibroids. Acta Radiol. 2005;46:887–90.
+
+17. Poilblanc M, Winer N, Bouvier A, Gillard P, Boussion F, Aubé C, et al. Rupture
+
+of an aneurysm of the ovarian artery following delivery and endovascular
+treatment. Am J Obstet Gynecol. 2008;199:e7–8.
+
+18. Chao L-W, Chen C-H. Spontaneous rupture of an ovarian artery aneurysm:
+
+case report and review of the literature. Gynecol Obstet Invest.
+2009;68:104–7.
+Kirk JS, Deitch JS, Robinson HR, Haveson SP. Staged endovascular treatment
+of bilateral ruptured and intact ovarian artery aneurysms in a postmenopausal
+woman. J Vasc Surg. 2009;49:208–10.
+Tsai M-T, Lien W-C. Spontaneous rupture of an ovarian artery aneurysm. Am
+J Obstet Gynecol. 2009;200:e7–9.
+
+19.
+
+20.
+
+21. Mohammed N, Rai H, Koo B, Hoveyda F. Postpartum rupture of ovarian
+
+artery. J Obstet Gynaecol. 2011;31:548–9.
+Kodaira Y, Iwamura T, Hoshino H, Takahashi K, Kawahigashi Y, Matsumoto K.
+Spontaneous rupture of aneurysms of the ovarian artery at times remote from
+pregnancy. J Nippon Med Sch. 2014;81:101–5.
+
+22.
+
+Acknowledgements
+The authors thank Dr Hideki Ota (Tohoku University) and Dr Tomonori
+Matsuura (Tohoku University) for their critical review of the manuscript.
+
+23. Wakimoto S, Hidaka N, Fukushima K, Kato K. Spontaneous post-partum rupture
+of an ovarian artery aneurysm: A case report of successful embolization and a
+review of the published work. J Obstet Gynaecol Res. 2014.
+doi:10.1111/jog.12535
+
+Toyoshima et al. Journal of Medical Case Reports  (2015) 9:84 
+
+Page 6 of 6
+
+24.
+
+Sakaguchi I, Ohba T, Ikeda O, Yamashita Y, Katabuchi H. Embolization for
+post-partum rupture of ovarian artery aneurysm: Case report and review.
+J Obstet Gynaecol Res. 2014. doi:10.1111/jog.12561
+
+25. Phillips CK, Lepor H. Spontaneous retroperitoneal hemorrhage caused by
+
+segmental arterial mediolysis. Rev Urol. 2006;8:36–40.
+
+26. Barrett JM, Van Hooydonk JE, Boehm FH. Pregnancy-related rupture of arter-
+
+ial aneurysms. Obstet Gynecol Surv. 1982;37:557–66.
+
+27. Yonemitsu T, Kawai N, Sato M, Tanihata H, Takasaka I, Nakai M, et al.
+Evaluation of transcatheter arterial embolization with gelatin sponge
+particles, microcoils, and n-butyl cyanoacrylate for acute arterial bleeding in
+a coagulopathic condition. J Vasc Interv Radiol. 2009;20:1176–87.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

@@ -1,0 +1,276 @@
+Nakahira et al. Journal of Medical Case Reports  (2015) 9:53 
+DOI 10.1186/s13256-014-0512-5
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Fibrin glue on an aortic cusp detected by
+transesophageal echocardiography after valve-
+sparing aortic valve replacement: a case report
+Junko Nakahira1*, Hisanari Ishii2, Toshiyuki Sawai1 and Toshiaki Minami1
+
+Open Access
+
+Abstract
+
+Introduction: Fibrin glue is used commonly during cardiac surgery but can behave as an intracardiac abnormal
+foreign body following surgery. There have been few such cases reported, and they were typically noticed only
+because of the resulting catastrophic cardiac conditions, such as valvular malfunction. We report a case where, for
+the first time, transesophageal echocardiography was used to detected fibrin glue that was adherent to the
+ventricular side of a patient’s aortic valve immediately after aortic declamping.
+Case presentation: A 45-year-old Japanese man with Marfan syndrome underwent an aortic valve-sparing operation
+to treat moderate aortic valve regurgitation resulting from enlargement of his right coronary cusp. Fibrin glue was
+lightly applied to the suture line between the previous and new grafts. Transesophageal echocardiography performed
+prior to weaning from the cardiopulmonary bypass revealed mild aortic valve regurgitation in addition to a mobile
+membranous structure attached to the ventricular side of his aortic valve. It was identified as fibrin glue. We resolved
+the regurgitation by removing the fibrin glue and repeating the aortic cusp plication. The patient had no complications
+during recovery.
+Conclusions: Fibrin glue can act as an intracardiac foreign body and lead to a potentially fatal embolism. We
+demonstrated the use of transesophageal echocardiography to detect a fibrin glue-derived intracardiac abnormal
+foreign body and to confirm its removal. To the best of our knowledge, this is the first case where fibrin glue adherent
+to the aortic valve was detected by transesophageal echocardiography. These findings demonstrate the importance of
+using transesophageal echocardiography during cardiac surgery that involves using biological glues.
+Keywords: Biological glue, Fibrin glue, Transesophageal echocardiography
+
+Introduction
+Various intracardiac abnormal bodies have been re-
+ported,
+including air masses, gauze threads [1,2], and
+mitral valve chordae entrapped in prosthetic valves [3].
+Postoperative valvular malfunction and embolization of
+the coronary arteries because of biological glue have also
+been reported and appeared as catastrophic cardiac con-
+ditions [4-6]. To the best of our knowledge, ours is the
+first report of biological glue on an aortic valve fluttering
+in the cardiac chamber. The biological glue was removed
+from the aortic valve to avoid it becoming an embolus
+
+* Correspondence: ane052@poh.osaka-med.ac.jp
+1Department of Anesthesiology, Osaka Medical College, 2-7 Daigaku-machi,
+Takatsuki, Osaka 569-8686, Japan
+Full list of author information is available at the end of the article
+
+and transesophageal echocardiography (TEE) was the
+only approach able to detect the silent abnormality.
+
+Case presentation
+A 45-year-old Japanese man with Marfan syndrome was
+scheduled for an aortic valve-sparing operation because
+of moderate aortic valve regurgitation resulting from en-
+largement of his right coronary cusp. He had previously
+undergone aortic arch replacement and valvuloplasty of
+a non-coronary cusp with a patch to correct aortic dis-
+section and moderate aortic valve regurgitation through
+a tear in the non-coronary cusp.
+
+After induction of anesthesia, an inflow duct for car-
+diopulmonary bypass (CPB) was placed in his right sub-
+clavian artery. Outflow ducts were placed in his superior
+vena cava and inferior vena cava. An aortic root cannula
+
+© 2015 Nakahira et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Nakahira et al. Journal of Medical Case Reports  (2015) 9:53 
+
+Page 2 of 3
+
+Figure 1 Two-dimensional transesophageal echocardiography
+image. This long-axis view of the aortic valve shows a mobile
+membranous structure attached to the aortic valve (yellow arrow).
+Ao, aorta; LA, left atrium; LV, left ventricle.
+
+was inserted into the ascending aortic graft, and the as-
+cending aorta was then clamped. Aortic valve-sparing for
+root replacement was performed during CPB at 34°C.
+Mattress sutures with 2–0 Ethibond® (Ethicon, Somerville,
+NJ, USA) and 4–0 Prolene® (Ethicon) were used for plica-
+tion of the commissures of the aortic cusps. For central
+plication of the cusps 6–0 Prolene was used. Mattress su-
+tures with 4–0 Prolene were used for the edge of the artifi-
+cial aortic graft. The anastomoses between the patient’s
+sinuses of Valsalva and the graft as well as the coronary ar-
+teries and the graft were closed with over-and-over 4–0
+Prolene sutures (the latter with felt). Biological glue was
+applied for hemostasis at the anastomosis sites. It was
+lightly rubbed and sprayed on the suture line between the
+previous and new grafts (Vascutek® Gelweave Valsalva™;
+Terumo, Scotland). Approximately 5mL of Bolheal®
+(Chemo-Sero-Therapeutic Research Institute, Kumamoto,
+Japan) was used. Fibrinogen solution (5mL) and thrombin
+solution (5mL), components of fibrin glue, were also
+applied. Because of difficulty achieving hemostasis,
+
+Figure 2 Three-dimensional transesophageal echocardiography
+image. This short-axis view of the aorta shows a mobile structure
+fluttering in the sinus of Valsalva of the left coronary cusp (yellow
+arrow). LCC, left coronary cusp; NCC, non-coronary cusp; RCC, right
+coronary cusp.
+
+approximately 5mL of BioGlue® (CryoLife Inc., Kennesaw,
+GA, USA) was also used. A leak test of the aortic valve
+with water revealed no leakage on TEE. However, immedi-
+ately after aortic declamping and before weaning from
+CPB, TEE detected mild aortic valve regurgitation and a
+mobile membranous structure attached to the aortic valve
+on the ventricular side of the valve (Figure 1). A short-axis
+view of the aortic valve showed that the structure was
+
+Figure 3 Photograph of the biological glue. The arrowheads designate the biological glue that was attached to the ventricular side of the left
+coronary cusp (A) and after easy removal (B).
+
+Nakahira et al. Journal of Medical Case Reports  (2015) 9:53 
+
+Page 3 of 3
+
+attached to the left coronary cusp (Figure 2). Two videos
+show this in more detail (Additional files 1 and 2). We
+considered the possibility that the abnormal structure was
+fibrin glue, so the aorta was immediately clamped to avoid
+arterial embolization of the structure. Following induced
+cardiac arrest, surgeons opened the anastomoses between
+the grafts and found a small fibrin clot on the ventricular
+side of the left coronary cusp (Figure 3). After the fibrin
+clot was removed, aortic cusp plication was repeated with
+slight adjustment of the effective heights of the cusps.
+When weaning from the CPB, we found no further abnor-
+mal structures or aortic valve regurgitation. The operating
+time was 9.5 hours, anesthesia time was 11 hours, and
+CPB time was 5.5 hours. During the operation we trans-
+fused 400mL of autologous blood that had been stored
+preoperatively, 4 units (560mL) of packed red blood cells,
+8 units (960mL) of fresh frozen plasma, 20 units (400mL)
+of platelets, and 500mL of 5% albumin.
+
+The postoperative course was uneventful. The patient
+was extubated on the first postoperative day (POD) and
+was discharged on POD 17. At his 3-month follow-up,
+echocardiography and computed tomography scans were
+obtained. He showed neither inflammation nor a pseu-
+doaneurysm at the anastomotic site.
+
+Discussion
+Surgical glue is commonly used during cardiac surgery,
+especially for surgery of the aorta and aortic valve [7]. In
+our case, biological glues were not applied for the intra-
+cardiac structures but were rubbed and sprayed along
+the suture lines outside the aortic grafts. We have specu-
+lated that the biological glue leaked into the sinuses of
+Valsalva through the needle holes and attached to the
+left coronary cusp of the aortic valve.
+
+Postoperative TEE detected the biological glue as an
+abnormal foreign body. The glue could have embolized a
+peripheral artery as a left atrial embolus [8-10]. Emboli
+of limb arteries [11] have been reported previously. Our
+patient remained stable, and we assumed that weaning
+from CPB would be uneventful. Being cautious, however,
+we used TEE to determine if there was an aortic valve
+leak before weaning. We detected leakage and the bio-
+logical glue.
+
+Our case illustrates the importance of a comprehen-
+sive TEE study during aorta and aortic valve surgery and
+before weaning from CPB. It is able not only to evaluate
+the results of the procedure but also to detect foreign
+bodies and other abnormalities, thereby avoiding postop-
+erative complications.
+
+Conclusions
+Biological glue can become a foreign body in cardiac
+chambers. Intraoperative TEE is the only approach to
+detecting this abnormality in a stable situation.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+8.
+
+9.
+
+10.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and any accompanying
+images. A copy of the written consent is available for re-
+view by the Editor-in-Chief of this journal.
+
+Additional files
+
+Additional file 1: Two-dimensional long-axis view of the aortic
+valve. A mobile membranous structure was attached to the aortic valve.
+Ao, aorta; LA, left atrium; LV, left ventricle.
+Additional file 2: Three-dimensional short-axis view of the aortic
+valve. A mobile structure flutters in the sinus of Valsalva of the left
+coronary cusp. Ao, aorta; left coronary cusp; LV, left ventricle; NCC,
+non-coronary cusp; RCC, right coronary cusp.
+
+Abbreviations
+CPB: Cardiopulmonary bypass; POD: Postoperative day; TEE: Transesophageal
+echocardiography.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+JN collected the data and wrote the case report. HI helped in the
+echocardiographic interpretation and writing the manuscript. TS assisted in
+the literature review. TM revised and approved the manuscript. All authors
+read and approved the final manuscript.
+
+Author details
+1Department of Anesthesiology, Osaka Medical College, 2-7 Daigaku-machi,
+Takatsuki, Osaka 569-8686, Japan. 2Department of Anesthesia, Tenri Hospital,
+200 Mishima-cho, Tenri, Nara 632-8555, Japan.
+
+Received: 13 September 2014 Accepted: 30 December 2014
+
+References
+1.
+
+Adams MS, Alston TA, Walker JD. Detection of an ill-poised thread of lint by
+transesophageal echocardiography after aortic valve replacement. Anesth
+Analg. 2006;103:40.
+Fischi M, Narins CR. Coronary embolization of a gauze fragment: a
+cautionary case report. Catheter Cardiovasc Interv. 2005;66:570–2.
+Sawai T, Nakahira J, Shimoyama Y, Oka M, Imanaka H, Minami T. Prosthetic
+valve malfunction caused by chordal entrapment detected by transesophageal
+echocardiography. J Cardiothorac Vasc Anesth. 2011;25:495–7.
+Gillham MJ, Tousignant CP. Diagnosis by intraoperative transesophageal
+echocardiography of acute thrombosis of mechanical aortic valve prosthesis
+associated with the use of biological glue. Anesth Analg. 2001;92:1123–5.
+Birmingham B. TEE diagnosis of mechanical AVR dysfunction associated
+with biological glue. Anesth Analg. 2001;93:1627–8.
+Trivi M, Albertal J, Vaccarino G, Albertal M, Navia D. Ostial stenosis after
+Bentall technique using glue: percutaneous stenting may be ineffective.
+Interact Cardiovasc Thorac Surg. 2007;6:511–3.
+
+7. McCarthy PM. Fibrin glue in cardiothoracic surgery. Transfus Med Rev.
+
+1993;7:173–9.
+Sidhu S, Goyer C, Hatzakorzian R, Olivier JF, Devarennes B, Cote AV, et al.
+Transesophageal echocardiographic detection of intracardiac BioGlue
+postmitral valve replacement. Anesth Analg. 2007;105:1572–3.
+Alvarez RJ, Quiroga SJ, de Alegria MA, Dominguez DC. Pulmonary embolism
+due to biological glue after repair of type A aortic dissection. Interact
+Cardiovasc Thorac Surg. 2011;12:650–1.
+Fletcher NS, Mandal K, Jahangiri M. Surgical glue resembling left atrial
+thrombus. Interact Cardiovasc Thorac Surg. 2004;3:409–10.
+
+11. Bernabeu E, Castellá M, Barriuso C, Mulet J. Acute limb ischemia due to
+embolization of biological glue after repair of type A aortic dissection.
+Interact Cardiovasc Thorac Surg. 2005;4:329–31.
+
+

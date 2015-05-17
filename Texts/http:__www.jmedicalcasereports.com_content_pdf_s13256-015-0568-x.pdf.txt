@@ -1,0 +1,422 @@
+Osaku et al. Journal of Medical Case Reports  (2015) 9:88 
+DOI 10.1186/s13256-015-0568-x
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Metastatic nonpalpable invasive lobular breast
+carcinoma presenting as rectal stenosis:
+a case report
+Tadatoshi Osaku, Hideaki Ogata*, Shunsuke Magoshi, Yorichika Kubota, Fumi Saito, Shinsaku Kanazawa
+and Hironori Kaneko
+
+Open Access
+
+Abstract
+
+Introduction: Invasive lobular carcinomas have an increased propensity for distant metastases, particularly to the
+peritoneum, ovaries, and uterus. In contrast, distant metastases of nonpalpable lobular carcinomas are extremely
+rare, and the causes of underlying symptoms of primary carcinomas remain unclear. We report a case of an
+asymptomatic invasive lobular carcinoma with a primary mammary lesion in a patient with rectal stenosis.
+Case presentation: A 69-year-old Japanese woman presented to our hospital for treatment of constipation. Although
+rectal stenosis was confirmed, thorough testing of her lower digestive tract did not identify its cause. Thus, an exploratory
+laparotomy and tissue biopsy was performed, and the presence of an invasive lobular carcinoma was confirmed.
+Subsequent breast examinations showed that the invasive lobular carcinoma that led to the rectal stenosis was a
+metastatic lesion from a primary lesion of the breast duct. As the present breast lobular carcinoma was asymptomatic
+and nonpalpable, we did not initially consider metastatic breast cancer as a cause of her symptoms, and the final
+diagnosis was delayed.
+Conclusions: Peritoneal metastasis from nonpalpable invasive lobular carcinomas is very rare. However, breast
+cancer metastasis should be considered when carcinomatous peritonitis is present in a patient with an unknown
+primary cancer.
+Keywords: Invasive lobular carcinoma, Carcinomatous peritonitis, Breast cancer
+
+Introduction
+Compared with invasive ductal carcinomas,
+invasive
+lobular carcinomas have an increased propensity for dis-
+tant metastases, particularly in the peritoneum, ovaries,
+and uterus [1-4]. However, although such metastases are
+rare for small asymptomatic lesions, the presence of a
+distant metastatic invasive lobular carcinoma may reflect
+a detectable primary breast lesion, as shown for invasive
+carcinomas [4-6]. Therefore, such metastases can be
+traced back to their primary lesions with relative ease.
+However, if unnoticed, primary carcinomas are not easily
+identified as the cause of underlying symptoms.
+
+* Correspondence: ogatah@med.toho-u.ac.jp
+Department of Surgery, Division of Breast and Endocrine Surgery (Omori),
+Toho University School of Medicine, 6-11-1 Omori-Nishi, Ota-ku, Tokyo
+143-8451, Japan
+
+In our case report, asymptomatic, nonpalpable invasive
+lobular carcinoma from a primary breast lesion was dis-
+covered, following assessments of the symptoms caused
+by rectal stenosis. Prior to suspicion of a primary breast
+lesion, investigations were primarily focused on our pa-
+tient’s lower digestive tract, and a final diagnosis was
+made only after an exploratory laparotomy. Herein, we
+describe diagnostic strategies and suggest practices that
+may avoid diagnostic pitfalls during initial evaluations of
+symptoms.
+
+Case presentation
+A 69-year-old Japanese woman with unremarkable per-
+sonal and family medical histories presented to the general
+surgery department of our hospital with constipation for
+approximately one month. Her rectal examination re-
+vealed rectal stenosis and possible rectal cancer. Her
+
+© 2015 Osaku et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Osaku et al. Journal of Medical Case Reports  (2015) 9:88 
+
+Page 2 of 5
+
+subsequent barium enema examination showed rectosig-
+moid stenosis (Figure 1), but no irregularities in her mu-
+cosa. Accordingly, a biopsy specimen was taken from her
+mucosa by lower abdominal gastrointestinal endoscopy,
+and showed no evidence of cancer cells in the area of the
+stenosis. Her blood tests revealed slightly elevated levels of
+the cancer antigens carbohydrate antigen 15-3 (CA15-3)
+and cancer antigen 125 (CA12-5), but all other values
+were within normal ranges.
+
+Apart from thickening of her rectosigmoid wall in the
+stenotic region (Figure 2), no other abnormalities were
+detectable in her abdominal and chest computed tomo-
+graphy (CT) scans. Full-length positron emission tomo-
+graphy (PET) was suggested as a non-invasive procedure
+for detecting the primary lesion, but she declined for
+financial reasons. Hence, an exploratory laparotomy was
+performed to identify the cause of her rectosigmoid
+stenosis.
+
+Her surgical examinations revealed nodules dispersed
+throughout her abdominal cavity, and additional stenosis
+in her rectum and ileocecum, suggesting peritoneal metas-
+tasis. Histopathological findings from a biopsy specimen
+of the peritoneal material from around the rectosigmoid
+region were consistent with a diagnosis of peritoneal me-
+tastasis of an invasive lobular carcinoma, likely from the
+breast (Figure 3). However, subsequent breast exami-
+nations by the breast oncology department revealed no
+
+Figure 1 A barium enema image showing rectosigmoid stenosis
+but no mucosal abnormalities. Arrows show locations of stenosis.
+
+visible or palpable abnormalities or secretions in either of
+her breasts.
+
+Subsequent mammogram images showed a spiculated
+lactiferous ducts in area C of her right
+structure of
+breast (Figure 4). Moreover, a ductal ultrasonography re-
+vealed a lesion of approximately 5 × 6mm in the same
+area (Figure 5). A subsequent biopsy specimen of the
+duct showed cells with histopathological characteristics
+similar to those in her peritoneal nodules.
+
+Therefore, the final diagnosis was of rectal stenosis
+caused by carcinomatous peritonitis arising from a meta-
+static invasive lobular breast cancer.
+
+After her diagnosis, courses of hormone therapy and
+taxane- and anthracycline-based drugs were administered.
+Her rectal stenosis symptoms improved immediately after
+completion of two courses of weekly paclitaxel, and she
+was able to start ingestion. After discharge, a sequential
+regimen of paclitaxel, docetaxel, and anthracycline was
+administered in the out-patient department of our insti-
+tution for one year, followed by hormone therapy for three
+years. However, the disease gradually progressed and she
+died four years after the initial diagnosis.
+
+Discussion
+Distant metastases occur more frequently from lobular
+carcinomas than from more common invasive breast can-
+cers. Furthermore, invasive lobular carcinomas metastasize
+to the peritoneum and retroperitoneum in 93% of cases
+(including autopsies), the ovaries in 36% of cases, and the
+uterus in 43% of cases [1], and can metastasize to other
+areas and organs of the digestive tract [2-4]. However, such
+distant metastases are rare in the absence of palpable pri-
+mary lesions.
+
+Although it is well known that invasive lobular carci-
+noma tends to metastasize to the peritoneum, patients
+with initial symptoms that are exclusively abdominal
+are rare. We performed PubMed searches using the
+search terms ‘invasive lobular carcinoma’, ‘peritoneum’,
+‘metastatic’, ‘unknown origin’, and ‘occult breast cancer’.
+The resulting studies showed only a few cases in which
+initial symptoms in the retroperitoneum and digestive
+tract were caused by metastasis of palpable invasive lobu-
+lar carcinomas [5,6], and some recurrent cases had re-
+ported involvement of symptoms in digestive organs more
+than 10 years postoperatively [7,8]. However, only two
+case studies reported the appearance of initial symptoms
+in the digestive tract due to metastasis of nonpalpable in-
+vasive lobular carcinomas [9,10]. One of these cancers
+metastasized to the stomach and the other metastasized
+to the colon, and both cases were diagnosed preopera-
+tively, following identification of adenocarcinoma in endo-
+scopic specimens from mucosal lesions with invasions of
+lobular carcinoma.
+
+Osaku et al. Journal of Medical Case Reports  (2015) 9:88 
+
+Page 3 of 5
+
+Figure 2 An abdominal computed tomography image showing rectal stenosis with thickening of the rectosigmoid wall.
+
+solid nest or occasionally a signet-ring shape, but rarely
+a glandular structure. Intercellular mucus is also fre-
+quently present. Estrogen receptor (ER) and proges-
+terone receptor (PgR) expression are more frequent in
+lobular carcinomas than in other invasive carcinomas
+
+In our case report, a biopsy specimen of our patient’s
+associated mucosa showed no evidence of cancer cells in
+the area of her stenosis. This negative result reflected
+the presence of a specific metastatic form of invasive
+lobular carcinoma known as a peritoneal metastasis,
+which reportedly invades perirectal areas and causes rec-
+tal stenosis, but does not reach the mucosal layer. More-
+over, pathological analyses of perirectal tissue specimens
+from her laparotomy showed invasive lobular carcinoma,
+as indicated by lobular carcinoma histology showing a
+non-polarized, even distribution of small cancer cells
+that had diffusely invaded her interstitial tissue. These
+cells typically appear in a single row, which is often re-
+ferred to as an Indian file [11,12], and usually form a
+
+Figure 3 Histopathological findings of a peritoneal sample. The
+Indian file pattern of small cells (hematoxylin and eosin, ×400
+magnification) suggests peritoneal metastasis from an invasive
+lobular carcinoma of the breast.
+
+Figure 4 Mammogram showing abnormal tissue in the right breast
+(category four). Arrows indicate abnormal tissue.
+
+Osaku et al. Journal of Medical Case Reports  (2015) 9:88 
+
+Page 4 of 5
+
+Figure 5 A ductal ultrasonogram showing an irregularly shaped mass of approximately 5 × 6mm with unclear boundaries in area C of our
+patient’s right breast. The internal echogenicity was uneven and the posterior echo was dissipated.
+
+invasive lobular carcinomas,
+
+[13], although human epidermal growth factor receptor
+2 (HER2) overexpression is rare [11]. Furthermore,
+E-cadherin gene mutations are present in more than
+85% of
+likely reflecting
+characteristically low protein expression of E-cadherin
+[14,15]. Our patient’s pathological examination revealed
+characteristics of an invasive lobular carcinoma, inclu-
+ding a row of small cells (Indian file), negative staining
+for E-cadherin and HER2, and positive staining for both
+ER and PgR. However, the clinicopathological mecha-
+nisms that induced this metastasis from a non-palpable
+cancer are unclear.
+
+In our case report, extensive initial assessments failed
+to reveal the cause of our patient’s intestinal stenosis,
+and a conclusive diagnosis was only made after a biopsy
+during an exploratory laparotomy. PET/CT imaging has
+proven utility as an imaging modality for visceral metas-
+tases, and it might have been effective in this case. How-
+ever, despite its high accuracy in breast cancer staging,
+PET/CT was not deemed cost-effective for this initial
+evaluation of breast cancer [16], according to the ab-
+sence of financial support for the procedure from the
+national health care system in Japan.
+
+In retrospect, a tentative diagnosis could have been
+made according to the guidelines for unknown primary
+neoplasms. Specifically, the 2012 National Comprehensive
+Cancer Network (NCCN) Guidelines for Diagnosis of
+Unknown Primary Cancers recommend a comprehen-
+sive review of medical histories for patients in whom
+such cancers are suspected,
+including careful exami-
+nation of mammary, urinary, and reproductive tissues.
+Following identification of the potential location of the
+
+primary lesion by biopsy, further testing using mam-
+mography should be performed to confirm tentative
+findings [17].
+
+As the present breast tumor was non-palpable, visual or
+palpable confirmation of abnormalities in our patient’s
+breast tissue was not immediately possible. However, a
+mammography or ultrasonography upon admission may
+have limited the physical trauma of the laparotomy, and
+would have warranted treatment earlier. Thus, primary
+breast lesions should be considered as possible under-
+lying sources of invasive lobular carcinomas in cases of
+unknown primary cancer. Subsequently, noninvasive
+tests for breast cancers are warranted as a part of rou-
+tine clinical assessments to determine the presence of
+such lesions.
+
+Conclusions
+We report a case of nonpalpable invasive lobular carci-
+noma presenting with symptoms that were suggestive of
+carcinomatous peritonitis. Although peritoneal metasta-
+sis from a nonpalpable breast lesion is rare, breast can-
+cer metastasis should be considered as a potential cause
+of carcinomatous peritonitis in patients with unknown
+primary cancers.
+
+Consent
+Written informed consent was obtained from the pa-
+tient’s next of kin for publication of this case report
+and all accompanying images. A copy of the written
+consent is available for review by the Editor-in-Chief
+of this journal.
+
+Osaku et al. Journal of Medical Case Reports  (2015) 9:88 
+
+Page 5 of 5
+
+14. Pai K, Baliga P, Shrestha BL. E-cadherin expression: a diagnostic utility for
+differentiating breast carcinomas with ductal and lobular morphologies.
+J Clin Diagn Res. 2013;7:840–4. Epub 2013 Mar 18. doi:10.7860/JCDR/2013/
+5755.2954.
+Fernandes GS, Corrêa TS, Carvalho EP, Katz A, Hoff PM. Gastric and
+endobronchial metastases in a case of lobular breast cancer. Case Rep
+Oncol. 2013;6:555–60.
+
+15.
+
+16. Gallamini A, Zwarthoed C, Borra A. Positron Emission Tomography (PET) in
+oncology. Cancers (Basel). 2014;6(4):1821–89. doi:10.3390/cancers6041821.
+
+17. National Comprehensive Cancer Network Oncological Clinical Diagnosis and
+
+Treatment Guidelines. Occult Primary (Cancer of Unknown Primary [CUP]).
+1st ed. 2012. http://www.tri-kobe.org/nccn/guideline/archive/occult2012/
+japanese/occult.html
+
+Abbreviations
+CA12-5: Cancer antigen 125; CA15-3: Carbohydrate antigen 15-3; CT: Computed
+tomography; PET: Positron emission tomography; ER: Estrogen receptor;
+PgR: Progesterone receptor; HER2: Human epidermal growth factor receptor 2;
+NCCN: National Comprehensive Cancer Network.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+TO analyzed the data and drafted the manuscript. HO analyzed and
+interpreted the patient data, drafted the manuscript, supervised TO, and
+revised the manuscript. SM made the figures. YK, FS, and SK provided
+valuable insights during manuscript preparation. HK supervised the entire
+case. All authors read and approved the final manuscript.
+
+Acknowledgments
+We wish to thank Dr Tetsuya Maeda in the Department of Surgery, Toho
+University School of Medicine, Japan, for advice on the diagnosis of peritoneal
+metastasis of invasive lobular carcinoma. No funding was received by any of
+the authors.
+
+Received: 7 October 2014 Accepted: 5 March 2015
+
+References
+1.
+
+Harris M, Howell A, Chrissohou M, Swindell RI, Hudson M, Sellwood RA.
+A comparison of the metastatic pattern of infiltrating lobular carcinoma
+and infiltrating duct carcinoma of the breast. Br J Cancer. 1984;50:23–30.
+
+5.
+
+6.
+
+4.
+
+3.
+
+2. McLemore EC, Pockaj BA, Reynolds C, Gray RJ, Hernandez JL, Grant CS, et al.
+Breast cancer: presentation and intervention in women with gastrointestinal
+metastasis and carcinomatosis. Ann Surg Oncol. 2005;12:886–94.
+doi:10.1245/ASO.2005.03.030.
+Sobinsky JD, Willson TD, Podbielski FJ, Connolly MM. Unusual metastatic
+patterns of invasive lobular carcinoma of the breast. Case Rep Oncol Med.
+2013;2013:986517. Epub 2013 Nov 10. doi:10.1155/2013/986517.
+Saranovic D, Kovac JD, Knezevic S, Susnjar S, Stefanovic AD, Saranovic DS,
+et al. Invasive lobular breast cancer presenting an unusual metastatic
+pattern in the form of peritoneal and rectal metastases: a case report.
+J Breast Cancer. 2011;14:247–50. doi:10.4048/jbc.2011.14.3.247.
+Arrangoiz R, Papavasiliou P, Dushkin H, Farma JM. Case report and literature
+review: Metastatic lobular carcinoma of the breast an unusual presentation. Int J
+Surg Case Rep. 2011;2:301–5. Epub 2011 Oct 12. doi:10.1016/j.ijscr.2011.06.010.
+Yousef GM, Gabril MY, Al-Haddad S, Mulligan AM, Honey RJ. Invasive lobular
+carcinoma of the breast presenting as retroperitoneal fibrosis: a case report.
+J Med Case Rep. 2010;4:175. doi:10.1186/1752-1947-4-175.
+Franceschini G, Manno A, Mulè A, Verbo A, Rizzo G, Sermoneta D, et al. Gastro-
+intestinal symptoms as clinical manifestation of peritoneal and retroperitoneal
+spread of an invasive lobular breast cancer: report of a case and review of the
+literature. BMC Cancer. 2006;6:193. doi:10.1186/1471-2407-6-193.
+Nikkar-Esfahani A, Kumar BG, Aitken D, Wilson RG. Metastatic breast carcinoma
+presenting as a sigmoid stricture: report of a case and review of the literature.
+Case Rep Gastroenterol. 2013;7:106–11. doi:10.1159/000348760.
+Ciulla A, Castronovo G, Tomasello G, Maiorana AM, Russo L, Daniele E, et al.
+Gastric metastases originating from occult breast lobular carcinoma:
+diagnostic and therapeutic problems. World J Surg Oncol. 2008;6:78.
+doi:10.1186/1477-7819-6-78.
+
+10. Razzetta F, Tassara E, Saro F, Sironi M, D’Ambrosio G. Rare abdominal
+
+7.
+
+8.
+
+9.
+
+metastases from occult lobular breast cancer: report of two cases. Updates
+Surg. 2011;63(2):129–33. doi:10.1007/s13304-011-0047-x.
+
+11. Arpino G, Bardou VJ, Clark GM, Elledge RM. Infiltrating lobular carcinoma of
+
+the breast: tumor characteristics and clinical outcome. Breast Cancer Res.
+2004;6:R149–56. doi:10.1186/bcr767.
+
+12. Gamallo C, Palacios J, Suarez A, Pizarro A, Navarro P, Quintanilla M, et al.
+
+13.
+
+Correlation of E-cadherin expression with differentiation grade and
+histological type in breast carcinoma. Am J Pathol. 1993;142:987–93.
+Korhonen T, Huhtala H, Holli K. A comparison of the biological and clinical
+features of invasive lobular and ductal carcinomas of the breast. Breast
+Cancer Res Treat. 2004;85:23–9.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

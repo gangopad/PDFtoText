@@ -1,0 +1,859 @@
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+DOI 10.1186/s13256-015-0516-9
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Adult Kawasaki disease in a European patient: a
+case report and review of the literature
+Theano Kontopoulou1*†, Dimitrios Georgios Kontopoulos2†, Emmanouel Vaidakis3 and George P Mousoulis1
+
+Open Access
+
+Abstract
+
+Introduction: Kawasaki disease is an acute necrotising vasculitis of the medium- and small-sized vessels, occurring
+mainly in Japanese and Korean babies and children, aged 6 months to 5 years. Its main complication is damage of
+coronary arteries, which has the potential to be fatal. Here we report a rare case of Kawasaki disease that occurred
+in a 20-year-old Greek adult.
+Case presentation: A 20-year-old Greek man presented with high fever, appetite loss, nausea and vomiting, headache
+and significant malaise. He had an erythema of the palms and strikingly red lips and conjunctiva. As he did not respond
+to broad-spectrum antibiotics and after having excluded other possible diagnoses, the diagnosis of Kawasaki disease
+was set. He was treated with intravenous immunoglobulin and oral aspirin on the 10th day since the onset of the
+illness. His clinico-laboratory response was excellent and no coronary artery aneurysms were detected in coronary
+artery computed tomography performed 1 month later.
+Conclusions: This report of an adult case of European Kawasaki disease may be of benefit to physicians of various
+specialties, including primary care doctors, hospital internists, intensivists and cardiologists. It demonstrates that a
+case of prolonged fever, unresponsive to antibiotics, in the absence of other diagnoses may be an incident of
+Kawasaki disease. It is worth stressing that such a diagnosis should be considered, even if the patient is adult and
+not of Asian lineage.
+Keywords: Kawasaki disease, Mucocutaneous lymph node syndrome, Vasculitis
+
+Introduction
+Kawasaki disease (KD), also known as mucocutaneous
+lymph node syndrome, is an acute necrotising vasculitis
+of the medium- and small-sized vessels. It was first de-
+scribed by Tomisaki Kawasaki in 1967. It occurs most
+often in babies and children, aged 6 months to 5 years
+and the male-to-female ratio ranges from 1.5–1.8 to 1.
+KD is most prevalent in Japan, while Korea holds the
+second place as to the number of patients. Its incidence
+in Japanese and Korean children living in the USA and
+following a Western lifestyle is higher than in Caucasian
+children. Since the disease is not common in adults, es-
+pecially in Europe, it is very often misdiagnosed [1-4].
+According to a review in 2011, 91 cases of adult KD had
+been described until that time [5]. Eight more cases have
+
+* Correspondence: tkontopoulou@yahoo.gr
+†Equal contributors
+13rd Department of Internal Medicine, Evangelismos Hospital, Ipsilantou
+45-47, 10676 Athens, Greece
+Full list of author information is available at the end of the article
+
+been added to the medical literature since then [6-13].
+To the best of our knowledge, our case is the 100th one.
+It is the first described adult Kawasaki case not only in
+Greece, but also in South-Eastern Europe (Figure 1).
+
+Pathogenesis and genetics
+The pathogenesis of KD is to a very large extent un-
+known. A passive protection by maternal antibodies
+could possibly explain the rarity of the illness during the
+first months of life of an individual. An infectious cause
+might be possible, since seasonal outbreaks, national epi-
+demics, associations with tropospheric wind patterns
+[14] and a self-limited course of the disease have been
+observed [15]. Some studies point out that the trigger
+for KD could be a bacterial superantigen [2,3] or a fun-
+gal toxin [16]. The immune character is suggested by B
+and T cells activation and cytokines production. More-
+over, the severity of KD symptoms has been correlated
+with the expression of THRIL, a long noncoding ribo-
+nucleic acid involved in tumour necrosis factor (TNF) α
+
+© 2015 Kontopoulou et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+
+Page 2 of 7
+
+Figure 1 A global map of reported adult Kawasaki disease cases, including the present one. The size of the circles is proportional to the
+number of published cases in each country, ranging from 1 to 36.
+
+regulation [17]. Also of interest, a murine model of KD
+develops a similar coronary arteritis after a single intra-
+peritoneal injection of group B Lactobacillus casei cell
+wall extract [18].
+
+A genetic predisposition hypothesis is supported by:
+i) noticeable differences in incidence rates among people
+of various ethnic groups along with ii) a higher incidence
+of KD among siblings of a patient compared to the gen-
+eral population. Nevertheless, the genetic background of
+KD remains mostly unclear. A series of polymorphisms
+in a number of genes have been linked with increased
+susceptibility for KD, with the most notable ones being
+in ITPKC [19] and CASP3 [20]. Finally, the genetic loci
+of FCGR2A, HLA, BLK and CD40 have also been sug-
+gested as susceptibility candidates by means of genome-
+wide association studies [21-23].
+
+Diagnosis and complications
+KD diagnosis is absolutely clinical since no specific diag-
+nostic tests are available [5], although the proteins
+meprin A and filamin C were recently shown to possess
+potential as KD biomarkers [24]. The diagnosis is pos-
+sible if an individual has persistent fever for more than 5
+days, is unresponsive to broad-spectrum antibiotics, has
+no proof of infection and four out of the five following
+criteria:
+iii)
+cervical
+iv) oral changes including
+injected pharynx or lips, cracked or fissured lips, straw-
+berry tongue; v) extremity changes starting with oedema
+or erythema and then progressing to desquamation of
+feet and hands, starting periungually [1,2,12,15]. Unfortu-
+nately, these diagnostic criteria are valid for the diagnosis
+
+i) polymorphous rash;
+lymphadenopathy;
+
+ii) conjunctivitis;
+
+of KD in children, but have not yet been validated in
+adults [5].
+
+Coronary artery damage is the main and sometimes
+fatal complication of the disease, being expressed as
+aneurysm, calcification or stenosis [25,26]. Coronary ar-
+tery aneurysms (CAA) can change with time: they may
+regress, stay unchanged, progress to obstruction and,
+rarely, rupture or expand [3]. If coronary abnormalities
+are present, the diagnosis of KD can be set even when
+less than four of the aforementioned criteria are met
+[5,27]. Susceptibility to coronary artery lesions formation
+has been associated in various populations with specific
+single nucleotide polymorphisms in a wide range of
+genes, such as ITPKC [19], IL-10 [28], TGFBR2 [29],
+DC-SIGN [30] and KCNN2 [31]. Arteries other than the
+coronary ones are also affected by the disease: a hepatic
+artery aneurysm [32], a left humeral artery aneurysm,
+with absence of flow in the antebrachial arteries causing
+a peripheral gangrene [33], a proximal gastroduodenal
+artery occlusion, and a mildly irregular splenic artery
+associated with obstruction of
+intrasplenic
+the distal
+branches [34] are described in the literature.
+
+Systemic inflammation of many organs can occur. In-
+flammation of the central nervous system would cause
+typical meningitis [35] or just headache [2,8,32,36-43].
+As to the myocardium and pericardium, KD may be the
+cause of tricuspid regurgitation with vegetations [44], mi-
+tral valve regurgitation with thickened mitral leaflets [45],
+pericardial effusion [45], myocarditis [12,36] or heart
+failure [12,46,47].
+
+Clinical and laboratory findings concerning liver inflam-
+mation are jaundice [32,40,48,49], hepatomegaly [15,32,50],
+
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+
+Page 3 of 7
+
+right upper quadrant pain [32,39], cholestatic hepatitis
+[6,44,46-49,51], hepatic artery aneurysm [32], elevated
+aspartate and alanine aminotransferase levels [2,8,11,13,
+33,34,40,41,43,52,53] and low albumin levels [11,40,53].
+Mild renal failure, dysuria [6], as well as sterile leuco-
+cytosis in urine analysis [11,15] can be manifestations of
+renal involvement in KD.
+
+The upper and lower respiratory system may also be
+affected. Reddened pharynx [35,38-43,47-49,54], sore throat
+[2,36,39,41,43,44,51,55-58], rhinorrhoea [43], mild non-
+productive cough [39,43,44], dyspnoea [46],
+laboured
+respirations [32,48], rales [47], and acute respiratory dis-
+tress [47] are symptoms often encountered.
+
+The upper and lower intestinal tract are involved in
+KD as well. Nausea [2,6,32,37,39,41,43,48,49,55,56,58],
+vomiting [6,35,37,39-41,43,44,55], stomach cramps [48],
+epigastric pain [47,49], dysphagia [34,40,51], abdominal
+pain [39,40,51,58], abdominal tenderness [49], abdom-
+inal distension [47], and diarrhoea [32,39-41,47-49] are
+the main symptoms and signs.
+
+The musculoskeletal system participates in the inflam-
+matory process with various clinical representations: arth-
+ralgia of the big joints [2,34,40-43,46,48,49,51,55,58] or of
+the small ones [57], arthritis of the big joints [42], back
+pain [39], hand and foot pain [39,41], painful synovial
+thickening without effusion [32], joint effusion [2], joint
+pain with or without motion [2,44], joints tender to palpa-
+tion [51], and myalgia [27,36,43,49,51,53].
+
+Lymphadenopathy is often observed in KD. It may be
+mainly cervical [2,6,8,10,12,13,32-34,36,37,39,40,42,44,
+46-52,55-58], but also axillary [33,36,40], inguinal [40,59]
+or diffuse [38,41,43,45,54].
+
+Skin and mucous membranes express a variety of abnor-
+malities: skin rash [2,8,12,13,15,33-36,38-50,52-56,58]; skin
+eruptions [12,36,41,51]; polymorphic erythema [6,10]; ery-
+thema of palms and soles [15,34,40-42,45,48,51,54,55];
+perineal erythema [12,35,36,40,52]; induration and swell-
+ing of hands and feet [6,8,12,13,34,36,39-43,46,51,56,58];
+desquamation of palms and soles [2,10,11,13,32-35,37,38,
+40-47,49,57,59]; strawberry [10,13,32,35-37,40,41,44-48,
+50-52,55,57,59], fissured [2] or coated tongue [15,48];
+angular stomatitis [12,35,40,44,52]; mucosal ulcers [51,56];
+erythematous [36,42,45,50,51,57], fissured [40-42,48,49] or
+oedematous [8,11] lips; erythematous mucous membranes
+[32,38]; mucositis of the urethra without discharge [41];
+and icterus [47,49].
+
+Eye problems are frequent and of great variety: con-
+junctivitis [2,8,10-13,32-34,36-52,54,55,57-59]; iritis [37];
+keratitis [34,52]; icteric sclera [32,47]; painful eyes [37];
+palpebral oedema of the eyes [40]; and reduction of
+vision [52]. As to the ear, tinnitus and mild bilateral
+hearing loss have been reported [34].
+
+Adult KD seems to occur more frequently in patients
+with human immunodeficiency virus [5,37-40,42,50,58].
+
+Diseases to be differentiated from Kawasaki are viral and
+bacterial
+infections, drug hypersensitivity syndromes,
+toxic shock syndrome and autoimmune diseases with
+idiopathic juvenile arthritis being a representative ex-
+ample [2,5,25,27,60].
+
+Treatment and long-term outcome
+Ideal treatment for KD should be immediate administra-
+tion, no later than on the 10th day of the disease onset,
+of both immunoglobulin at 2g/kg once and aspirin at 50
+to 100mg/kg for as long as the inflammation is present
+[6,8,39,40,45,49,52,56]. Unfortunately, diagnosis within
+10 days since the disease onset is set only in very few
+cases [6,8,13,36,45,49,52], whereas treatment is given late
+in others [2,15,37,44,50,51,55-57]. In a review in 2011,
+only 15 out of 91 patients with KD were administered
+treatment with both intravenous immunoglobulin (IVIG)
+and aspirin within the first 10 days of the disease onset [5].
+Some patients received only aspirin [15,35,36,43,44,46-48,
+51,55,57], while others were treated with IVIG only
+[37,40,50,51].
+
+Individuals who do not respond to the dual treatment
+[2,3,6,12,42,61] have refractory KD and should be treated
+with a second dose of immunoglobulin (2g/kg) [39,42]
+and in non-responsiveness with high doses of corticoste-
+roids,
+tapered progressively until C-reactive protein
+(CRP) regresses to normal levels [62]. A third [42] and
+fourth [34] dose of immunoglobulin have also been re-
+ported for relapses. Immunosuppressive factors, such as
+anti-TNF, could be a potentially beneficial treatment
+[3,26,27,63,64]. Treatment choices
+in refractory KD
+could also be plasmapheresis and thalidomide [42].
+
+The long-term outcome of adults with a history of KD
+without CAA is excellent
+[2,5,13,15,34,36,39,40,43,44,
+46-49,55,56]. Anticoagulation treatment should be dis-
+continued after 6 to 8 weeks and a healthy lifestyle
+should be adopted [26]. By contrast, patients with large
+aneurysms (>6mm), regressed large ones or persistent
+small ones are at high risk for developing stenosis or is-
+chemia. They should be put on strong anticoagulation
+therapy and lifelong follow-up [2,3,7,9,10,33,53,65].
+These individuals have to be periodically tested with
+echocardiography, stress tests, computed tomography
+angiography or magnetic resonance imaging. Catheter-
+based angiography, although invasive, may sometimes
+prove useful [5].
+
+Case presentation
+A 20-year-old Greek man presented to our hospital
+in late May of 2010 because of high fever (up to
+40°C, unresponsive to anti-inflammatory drugs), ap-
+petite loss, nausea and vomiting, persistent headache
+and a feeling of significant malaise for 5 days. He
+was diagnosed at a provincial hospital with an atypical
+
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+
+Page 4 of 7
+
+infection and had received azithromycin for 3 days, with-
+out any improvement.
+
+He had not travelled recently either within the country
+or abroad. He denied intravenous drug use, new sexual
+partners or tattoos. He had no animal exposure. He did
+not use tobacco products or alcohol and had not taken
+any medication. He was previously healthy. According to
+his medical history, he reported allergic rhinitis and con-
+junctivitis for his first 5 years of life, chickenpox at the
+age of 5 years, a streptococcal pneumonia at the age of 6
+years, several episodes of tonsillitis until the age of 12
+years and a tonsillar abscess at the age of 11 years. He
+reported no drug allergies. No contacts with similar
+symptoms were identified. He had no antecedents of
+Asian origin. The family history was non-contributory
+and no family members had rheumatic diseases.
+
+On admission, his temperature was 38.3°C, blood pres-
+sure at 80/50mmHg, pulse was measured at 100 beats
+per minute and blood oxygen saturation at 92%. A phys-
+ical examination revealed bilateral conjunctival chemo-
+sis, strawberry lips and tongue, dry mucus membranes, a
+mild skin rash of his trunk, erythema of his thenar and
+opisthenar regions of both palms, an oedema of palms
+and soles and tachycardia with S3 and S4 gallop. Results
+of examinations of his lungs, abdomen, neurological and
+musculoskeletal systems were normal.
+
+Laboratory findings (Figure 2A-F; see also the support-
+ing data set [66]) revealed leucocytosis (13.2×103 per
+cubic millimetre) with neutrophilia (91%) and left shift
+with segmented neutrophils, anaemia (haematocrit 33%)
+and normal platelets upon admission, which were later
+elevated (Figure 2B). Acute phase reactants were ele-
+vated: erythrocyte sedimentation rate (ESR), 127mm 1st
+hour; CRP, 30mg/dL and fibrinogen 761 seconds. Serum
+creatinine levels and serum glutamic oxaloacetic trans-
+aminase rates were normal, serum glutamic-pyruvic trans-
+aminase at 80IU/L, alkaline phosphatase at 147IU/L,
+gamma-glutamyl transpeptidase at 67IU/L,
+lactate de-
+hydrogenase at 263IU/L, creatine kinase at 254IU/L,
+bilirubin was normal, albumin at 3.1g/dL and sodium at
+132mmol/L. Urine analysis was normal. Results of blood
+and urine bacterial cultures and serological tests for bac-
+teria and viruses were negative. Alpha 2 and gamma
+immunoglobulin levels were elevated. All blood tests for
+autoimmune diseases were negative. Immunophenotype
+examination revealed reduced cardinal number of CD3
++CD8+ T lymphocytes. The results of a chest X-ray, an
+electrocardiogram and a transthoracic echocardiogram
+were normal.
+
+The patient did not respond to broad-spectrum anti-
+biotic treatment. Desquamation of his fingers and toes
+began on the seventh day since the disease onset.
+
+Figure 2 Evolution of clinico-laboratory data before and after intravenous immunoglobulin administration (A-F). Open circles correspond to
+the measured values of the patient. The general time trend for each variable is depicted via fitted Loess curves (in blue), with grey areas showing the
+95% confidence interval. The black vertical line indicates the intravenous immunoglobulin treatment event. CRP, C-reactive protein; FCT, Fibrinogen
+clotting time; PLT, Platelets; WBC, White blood cell count.
+
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+
+Page 5 of 7
+
+Autoimmune diseases and juvenile idiopathic arthritis
+were excluded, as he did not fulfil diagnostic criteria for
+any of these diseases. Drug hypersensitivity reactions
+could explain his clinical appearance; however, he was
+previously healthy and there was no need for him to take
+medication. Immediately after the suspicion of KD (on
+the 10th day after the onset of symptoms), he was given
+IVIG at 2000mg/kg once and aspirin at 50mg/kg orally
+for the first 3 days, and at 100mg per day for another 3
+months. His treatment was based on the diagnostic cri-
+teria developed for KD in children because there had
+been no validated criteria for adult cases of KD. Anti-
+biotic treatment was discontinued at this time.
+
+Immunoglobulin and aspirin had a striking result,
+since the patient was afebrile and in better condition on
+the very next day after the initiation of treatment. Dur-
+ing the following days, all clinico-laboratory findings
+gradually improved and only a reactive thrombocytosis
+remained. In total, he remained hospitalised for 10 days.
+A computed tomography coronary angiography performed
+1 month later showed no coronary aneurysms. Today,
+about 5 years later, our patient remains healthy.
+
+Discussion
+Our patient developed the disease in late May. Thor-
+ough investigation for many infectious agents did not
+prove an infectious source of the disease [2]. Neverthe-
+less, he was administered broad-spectrum antibiotics for
+7 days. This treatment was not successful and revealed
+once more that an infection was absent, at least during
+the patient's hospitalisation. Our differential diagnosis
+covered a wide range of diseases, mainly infective and
+autoimmune; none of them could be proved. Given that
+his condition deteriorated and having no obvious diag-
+nosis available, we performed an extensive review of the
+current literature, focusing on his symptoms. KD, al-
+though rare in adults, could explain the entirety of
+symptoms and represent a diagnosis of exclusion. Treat-
+ment began immediately on the 10th day of the illness,
+due to suspicion of KD. This was fortunately in contrast
+to the vast majority of reported adult cases of KD who
+received treatment long after the 10-day period [5]. In
+any case, the treatment that was administered would
+have caused no harm to the patient, even if KD was not
+present. It is worth noting that even with adequate and
+timely administration – within ten days – of IVIG and
+acetylsalicylic acid (ASA), 5% of patients develop coron-
+ary abnormalities [26,62]. The therapeutic result of IVIG
+supported the diagnosis of KD, since our patient’s condi-
+tion improved considerably within hours.
+
+Our patient did not have some signs and symptoms
+that are more usual in adult KD, compared to that in
+children, such as lymphadenopathy and articular in-
+volvement. Lymphadenopathy is present in 93% of adult
+
+cases of KD, compared to 75% of child cases. Joint prob-
+lems are observed in 63% of adults with KD, versus 24
+to 38% of children with the disease according to a review
+in 2011 [9].
+
+In contrast, our adult patient had persistent headache
+that subsided only after the administration of IVIG and
+ASA. Involvement of the central nervous system takes
+place more often in children with KD (34%) than in
+adults (10%) [5].
+
+Our patient’s response to the treatment was astonish-
+ing and extremely quick: fever resolved and his general
+condition ameliorated within hours. Such a response is
+not usual in the KD literature [54,39,40,56]. Most of the
+patients become afebrile and feel better after 2 days
+[6,8,33,44,45,51,52]; some others after 1 [13,35,39,59] or
+3 days [11,50,58].
+
+Laboratory findings consistent with KD were leucocyt-
+osis with neutrophilia, anaemia, late thrombocytosis, ele-
+vated ESR and CRP, hypoalbuminemia, hyponatremia,
+elevated serum transaminases and gamma-glutamyl trans-
+peptidase [27].
+
+Other than a single IVIG administration and high
+doses of ASA during the acute phase, no supplementary
+IVIG or even corticosteroids or immunosuppressive agents
+were given, since no symptoms persisted or relapsed [5,62].
+ASA was continued for 3 months after the acute phase as
+an antiplatelet agent [26]. However, some studies suggest
+immediate discontinuation of all medications after the
+acute phase, in the absence of CAA [62]. Finally, long-term
+follow-up was not needed, as no CAA were developed,
+classifying the patient as risk level I [62]. He was only
+advised of counselling every 5 years [26].
+
+Conclusions
+This case makes the point that a prolonged fever without
+response to antibiotics should raise the physician's suspi-
+cion of a possible KD incident, considering though its rare
+occurrences in European adults. Prompt diagnosis and
+timely treatment of this potentially fatal disease are the
+keys that can save lives, preventing CAA formation.
+
+Physicians of various specialties are involved either in
+recognition or treatment of KD. Primary care doctors,
+being the first to come across the patients, should trans-
+fer them to hospitals at once. Hospital internists should
+then set the diagnosis, according to the relevant criteria,
+having first excluded other possible diseases. It is vital that
+patients receive treatment with IVIG and ASA as soon as
+possible and no later than 10 days since the onset of
+symptoms. Cardiac complications and hemodynamic in-
+stability may bring the need for transfer to an intensive
+care unit, relegating treatment to intensive care practi-
+tioners. Finally, cardiologists have the responsibility of tra-
+cing long-term follow-ups, along with monitoring any
+arising cardiac issues.
+
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+
+Page 6 of 7
+
+Future studies will hopefully shed light on the origins
+and aetiology of the disease, allowing for more efficient
+and targeted treatment and follow-up.
+
+Availability of supporting data
+The data set supporting the results of this article is avail-
+able in the Figshare repository [66].
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying
+images. A copy of the written consent is available for
+review by the Editor-in-Chief of this journal.
+
+Abbreviations
+ASA: Acetylsalicylic acid; CAA: Coronary artery aneurysms; CRP: C-reactive
+protein; ESR: Erythrocyte sedimentation rate; IVIG: Intravenous immunoglobulin;
+KD: Kawasaki disease; THRIL: TNFα and heterogenous nuclear ribonucleoprotein
+L related immunoregulatory large intergenic noncoding ribonucleic acid;
+TNF: Tumour necrosis factor.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+TK and EV were primarily involved in the care of the patient, collected,
+analysed and interpreted the data and wrote the major part of the
+manuscript. DGK analysed and reorganised the data, prepared the figures
+and wrote mainly the sections of the manuscript concerning the genetics of
+the disease. GPM contributed to the writing of the manuscript. All authors
+read and approved the final manuscript.
+
+Acknowledgements
+We are grateful to Emmanouil Ioannis Kapetanakis for providing useful
+comments as a referee.
+DGK was financially supported by a postgraduate scholarship from the Greek
+State Scholarships Foundation (IKY).
+
+Author details
+13rd Department of Internal Medicine, Evangelismos Hospital, Ipsilantou
+45-47, 10676 Athens, Greece. 2Department of Life Sciences, Imperial College
+London, Silwood Park Campus, Buckhurst Road, Ascot SL5 7PY, UK.
+3Department of Internal Medicine, Metropolitan Hospital, Ethnarchou
+Makariou 9 & El. Venizelou 1, 18547 N. Faliro, Athens, Greece.
+
+Received: 24 June 2014 Accepted: 7 January 2015
+
+References
+1.
+
+Cai Z, Zuo R, Liu Y. Characteristics of Kawasaki disease in older children. Clin
+Pediatr (Phila). 2011;50(10):952–6.
+
+2. Wolf AE, Hansen KE, Zakowski L. Acute Kawasaki disease: not just for kids.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+J Gen Intern Med. 2007;22(5):681–4.
+Senzaki H. Long-term outcome of Kawasaki disease. Circulation.
+2008;118(25):2763–72.
+Uehara R, Belay ED. Epidemiology of Kawasaki disease in Asia, Europe, and
+the United States. J Epidemiol. 2012;22(2):79–85.
+Sève P, Lega JC. Maladie de Kawasaki de l’adulte. Rev Med Interne.
+2011;32(1):17–25.
+Campos-Franco J, Lopez R, Alende R, Gonzalez-Quintela A. Adult Kawasaki
+disease. Intern Med. 2011;50(13):1443–4.
+Ataya A, Alraiyes AH, Auron M, Alraies MC. Adult Kawasaki disease. QJM.
+2013;106:687–8.
+Kanno K, Sakai H, Nakajima M, Satake A, Konishi T, Iizuka H. An adult case of
+Kawasaki disease in a pregnant Japanese woman: a case report. Case Rep
+Dermatol. 2011;3(1):98–102.
+
+9.
+
+10.
+
+11.
+
+Kim JS, Chun KJ, Park YH, Kim JH, Kim J. Characteristic findings of coronary
+artery disease in Kawasaki disease. J Am Coll Cardiol. 2011;57(7):884.
+Inokuchi R, Kurata H, Harada M, Aoki Y, Matsubara T, Doi K, et al. Coronary
+artery aneurysms after adult-onset Kawasaki disease. Circulation.
+2013;127(15):1636. 7.
+Safa G, Saillard C, Darrieux L. Incomplete Kawasaki disease in an elderly
+man. Case Rep Dermatol. 2013;5(1):1–3.
+
+12. Bresson V, Bonello B, Rousset-Rouvière C, Serratrice J, Chabrol B, Dubus JC,
+
+13.
+
+et al. Maladie de Kawasaki chez le grand enfant et l'adulte jeune: expérience
+marseillaise sur 10 ans. Arch Pediatr. 2011;18(7):731–6.
+Fujimoto N, Teramura K, Toshihiro T. Adult Kawasaki disease: evaluating the
+fluctuation of circulating lymphocytes associated with i.v. immunoglobulin
+treatment. J Dermatol. 2012;39(11):957–8.
+
+14. Rodó X, Ballester J, Cayan D, Melish ME, Nakamura Y, Uehara R, et al. Association
+
+of Kawasaki disease with tropospheric wind patterns. Sci Rep. 2011;1:152.
+
+15. Hattori T, Matsukawa Y, Takei M, Yamaguchi K, Yamazaki T, Sawada U, et al.
+
+Adult Kawasaki disease unrelated to Epstein-Barr virus and group A
+Streptococcus. Intern Med. 2005;44(11):1182–4.
+
+16. Rodó X, Curcoll R, Robinson M, Ballester J, Burns JC, Cayan DR, et al.
+
+17.
+
+18.
+
+Tropospheric winds from northeastern China carry the etiologic agent of
+Kawasaki disease from its source to Japan. Proc Natl Acad Sci U S A.
+2014;111(22):7952–7.
+Li Z, Chao TC, Chang KY, Lin N, Patil VS, Shimizu C, et al. The long
+noncoding RNA THRIL regulates TNFα expression through its interaction
+with hnRNPL. Proc Natl Acad Sci U S A. 2014;111(3):1002–7.
+Lehman TJ, Warren R, Gietl D, Mahnovski V, Prescott M. Variable expression
+of Lactobacillus casei cell wall-induced coronary arteritis: an animal model of
+Kawasaki's disease in selected inbred mouse strains. Clin Immunol
+Immunopathol. 1988;48(1):108–18.
+
+19. Onouchi Y, Gunji T, Burns JC, Shimizu C, Newburger JW, Yashiro M, et al.
+
+ITPKC functional polymorphism associated with Kawasaki Disease
+susceptibility and formation of coronary artery aneurysms. Nat Genet.
+2008;40(1):35–42.
+
+20. Onouchi Y, Ozaki K, Buns JC, Shimizu C, Hamada H, Honda T, et al.
+
+Common variants in CASP3 confer susceptibility to Kawasaki Disease. Hum
+Mol Genet. 2010;19(14):2898–906.
+Khor CC, Davila S, Breunis WB, Lee YC, Shimizu C, Wright VJ, et al. Genome-wide
+association study identifies FCGR2A as a susceptibility locus for Kawasaki Disease.
+Nat Genet. 2011;43(12):1241–6.
+
+22. Onouchi Y, Ozaki K, Burns JC, Shimizu C, Terai M, Hamada H, et al. A
+
+genome-wide association study identifies three new risk loci for Kawasaki
+Disease. Nat Genet. 2012;44(5):517–21.
+Lee YC, Kuo HC, Chang JS, Chang LY, Huang LM, Chen MR, et al. Two new
+susceptibility loci for Kawasaki Disease identified through genome-wide
+association analysis. Nat Genet. 2012;44(5):522–5.
+Kentsis A, Shulman A, Ahmed S, Brennan E, Monuteaux MC, Lee YH, et al.
+Urine proteomics for discovery of improved diagnostic markers of Kawasaki
+Disease. EMBO Mol Med. 2013;5(2):210–20.
+
+21.
+
+23.
+
+24.
+
+25. Gziut AI, Gil RJ. Coronary aneurysms. Pol Arch Med Wewn. 2008;118(12):741–6.
+Falcini F, Capannini S, Rigante D. Kawasaki syndrome: an intriguing disease
+26.
+with numerous unsolved dilemmas. Pediatr Rheumatol Online J. 2011;9:17.
+
+27. Newburger JW, Takahashi M, Gerber MA, Gewitz MH, Tani LY, Burns JC, et al.
+
+Diagnosis, treatment, and long-term management of Kawasaki disease: a
+statement for health professionals from the Committee on Rheumatic Fever,
+Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in
+the Young. American Heart Association Circulation. 2004;110(17):2747–71.
+
+28. Weng KP, Hsieh KS, Hwang YT, Huang SH, Lai TJ, Yuh YS, et al. IL-10
+
+polymorphisms are associated with coronary artery lesions in acute stage of
+Kawasaki disease. Circ J. 2010;74(5):983–9.
+
+29. Choi YM, Shim KS, Yoon KL, Han MY, Cha SH, Kim SK, et al. Transforming
+
+growth factor beta receptor II polymorphisms are associated with Kawasaki
+Disease. Korean J Pediatr. 2012;55(1):18–23.
+
+30. Yu HR, Chang WP, Wang L, Lin YJ, Liang CD, Yang KD, et al. DC-SIGN
+
+31.
+
+(CD209) promoter −336 A/G (rs4804803) polymorphism associated with
+susceptibility of Kawasaki disease. ScientificWorldJournal. 2012;2012:634835.
+Kim JJ, Park YM, Yoon D, Lee KY, Seob Song M, Doo Lee H, et al.
+Identification of KCNN2 as a susceptibility locus for coronary artery
+aneurysms in Kawasaki Disease using genome-wide association analysis.
+J Hum Genet. 2013;58(8):521–5.
+
+32. Caputo AE, Roberts WN, San Yee Y, Posner MP. Hepatic artery aneurysm in
+corticosteroid-treated adult Kawasaki’s Disease. Ann Vasc Surg. 1991;5(6):533–7.
+
+Kontopoulou et al. Journal of Medical Case Reports  (2015) 9:75 
+
+Page 7 of 7
+
+33. Bonté I, Mahr A, Laroche L, Guillevin L, Robineau M. Peripheral gangrene in
+
+adult-onset Kawasaki disease. Scand J Rheumatol. 2005;34(1):71–3.
+34. Huong DL, Gatfosse M, Papo T, Barjonet G, Lacombe P, Godeau P.
+
+Symptomatic splenic infarction complicating adult Kawasaki disease. Br J
+Rheumatol. 1995;34(6):579–80.
+
+35. Galempoix JM, Kaeppler E, Lanoux P, Belaïda A, Aboutara M, Penalba C.
+
+Maladie de Kawasaki de l’adulte: à propos d’un cas. Rev Med Interne.
+2006;27(8):646–9.
+
+36. Machet L, Vaillant L, Goutal H, Lanternier G, Khallouf R, Chagnon JL, et al.
+
+Kawasaki disease in a young adult with a perineal rash. Br J Dermatol.
+1990;123(3):413–4.
+
+37. Wolf II CV, Wolf JR, Parker JS. Kawasaki’s syndrome in a man with the
+human immunodeficiency virus. Am J Ophthalmol. 1995;120(1):117–8.
+
+38. Yoganathan K, Goodman F, Pozniak A. Kawasaki-like syndrome in an HIV
+
+39.
+
+40.
+
+positive adult. J Infect. 1995;30(2):165–6.
+Johnson RM, Little JR, Storch GA. Kawasaki-like syndromes associated with
+human immunodeficiency virus infection. Clin Infect Dis. 2001;32(11):1628–34.
+Stankovic K, Miailhes P, Bessis D, Ferry T, Broussolle C, Sève P. Kawasaki-like
+syndromes in HIV infected adults. J Infect. 2007;55(6):488–94.
+
+41. Michels TC. Mucocutaneous lymph node syndrome in adults – differentiation
+
+from toxic shock syndrome. Am J Med. 1986;80(4):724–8.
+
+42. Blanchard JN, Powell HC, Freeman WR, Letendre S, Blanchard D, Shimizu C,
+et al. Recurrent Kawasaki disease-like syndrome in a patient with acquired
+immunodeficiency syndrome. Clin Infect Dis. 2003;36(1):105–11.
+
+43. McIlroy MA, Fisher EJ, Saravolatz LD, Hardwicke MB, Wilson FM. Aseptic
+
+meningitis complicating adult Kawasaki disease: case report and review of
+the literature. Am J Med. 1989;87(1):106–10.
+Shelleh HH, Khan SA, Khan LA, Al-Hateeti H, Iqbal S, Saleh AF. Adult Kawasaki
+disease. Saudi Med J. 2000;21(11):1078–80.
+Fajon JT, Fry YW, Smith D. Kawasaki disease in a postpartum patient. J Natl
+Med Assoc. 2004;96(11):1499–502.
+Leclerc G, Bégin P, Laramée P, Genest P. Transient heart failure in an adult
+with Kawasaki disease. Clin Cardiol. 1986;9(3):128–30.
+
+44.
+
+45.
+
+46.
+
+47. Marcella JJ, Ursell PC, Goldberger M, Lovejoy W, Fenoglio JJ, Weiss MB.
+
+Kawasaki syndrome in an adult: endomyocardial histology and ventricular
+function during acute and recovery phases of illness. J Am Coll Cardiol.
+1983;2(2):374–8.
+
+48. Gomberg R, Hamm P, Martin A. Mucocutaneous lymph node syndrome
+
+(Kawasaki Disease) in an adult. West J Med. 1981;135(5):406–8.
+
+49. Granel B, Serratrice J, Ene N, Igual JP, Habib G, Disdier P, et al. Painful
+jaundice revealing Kawasaki disease in a young man. J Gastroenterol
+Hepatol. 2004;19(6):713–5.
+
+50. Muniain-Ezcurra M, Bueno-Mariscal C, Rodríguez-Baño J, Domínguez-Castellano A,
+
+Balonga-Tomás B, Ríos-Villegas MJ, et al. Kawasaki disease and parvovirus B19
+infection in an adult HIV-1-infected patient. Clin Microbiol Infect.
+1998;4(10):609–10.
+Sève P, Stankovic K, Smail A, Durand DV, Marchand G, Broussolle C. Adult
+Kawasaki disease: report of two cases and literature review. Semin Arthritis
+Rheum. 2005;34(6):785–92.
+
+51.
+
+52. Bachmeyer C, Turc Y, Curan D, Duval-Arnould M. Anterior uveitis as the
+
+initial sign of adult Kawasaki syndrome (mucocutaneous lymph node
+syndrome). Am J Ophthalmol. 2000;129(1):101–2.
+
+53. Pérez-Rodon J, Aboal J, Morales M, Masià R. Kawasaki disease with coronary
+
+54.
+
+55.
+
+57.
+
+60.
+
+involvement in adults. Rev Esp Cardiol (Engl Ed). 2006;59(11):1203–4.
+Takamoto T, Niwa A, Taniguchi K, Takeuchi J. Acute febrile mucocutaneous
+lymph node syndrome (Kawasaki Disease) in an adult. Clin Cardiol.
+1982;5(10):555–9.
+Tomiyama J, Hasegawa Y, Kumagai Y, Adachi Y, Karasawa K. Acute febrile
+mucocutaneous lymph node syndrome (Kawasaki Disease) in adults: case
+report and review of the literature. Jpn J Med. 1991;30(3):285–9.
+
+56. Phillips WG, Marsden JR. Adult Kawasaki syndrome. Br J Dermatol.
+
+1993;129(3):330–3.
+Thompson AC, Lamey PJ. Kawasaki syndrome in an adult. J Laryngol Otol.
+1990;104(1):37–8.
+
+58. Barbaro G, Di Lorenzo G, Barbarini G. Kawasaki-like syndrome in an HIV-infected
+
+adult. Rheumatology (Oxford). 2003;42(11):1427–9.
+
+59. Chang C, Wood JC, Strickling WA, Walsh DS. Kawasaki disease in a US army
+
+soldier highlights surveillance. Int J Rheumatol. 2006;45(1):83–4.
+El Karoui K, Servais A, Fadel F, Jablonski M, Fakhouri F, Lesavre P, et al. Acute
+renal failure and febrile rash – infectious or not? Nephrol Dial Transplant.
+2007;22(3):949–51.
+
+61. Alves NR, Magalhães CM, Almeida RF, Santos RC, Gandolfi L, Pratesi R.
+
+Prospective study of Kawasaki disease complications: review of 115 cases.
+Rev Assoc Med Bras. 2011;57(3):295–300.
+
+62. Athappan G, Gale S, Ponniah T. Corticosteroid therapy for primary treatment
+
+of Kawasaki disease – weight of evidence: a meta-analysis and systematic
+review of the literature. Cardiovasc J Afr. 2009;20(4):233–6.
+
+63. Alexoudi I, Kanakis M, Kapsimali V, Vaiopoulos G. Kawasaki disease: current
+aspects on aetiopathogenesis and therapeutic management. Autoimmun
+Rev. 2011;10(9):544–7.
+Takahashi K, Oharaseki T, Yokouchi Y. Pathogenesis of Kawasaki disease. Clin
+Exp Immunol. 2011;164 Suppl 1:20–2.
+
+64.
+
+65. Gordon JB, Kahn AM, Burns JC. When children with Kawasaki disease grow
+up: myocardial and vascular complications in adulthood. J Am Coll Cardiol.
+2009;54(21):1911–20.
+Kontopoulos DG, Kontopoulou T, Vaidakis E, Mousoulis GP. Clinico-laboratory
+values of an adult patient with Kawasaki disease in Europe. Figshare. 2014.
+http://dx.doi.org/10.6084/m9.figshare.1080767.
+
+66.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

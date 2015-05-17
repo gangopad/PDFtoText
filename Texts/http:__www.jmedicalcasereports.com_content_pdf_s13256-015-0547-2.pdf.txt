@@ -1,0 +1,530 @@
+Cadeddu et al. Journal of Medical Case Reports  (2015) 9:77 
+DOI 10.1186/s13256-015-0547-2
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Clozapine toxicity due to a multiple drug
+interaction: a case report
+Giovanna Cadeddu1, Arianna Deidda2, Maria Erminia Stochino2, Nicola Velluti3, Caterina Burrai4
+and Maria Del Zompo1,2*
+
+Open Access
+
+Abstract
+
+Introduction: We report the case of a multiple drug interaction involving clozapine, antifungals and oral
+contraceptives, which resulted in an increased clozapine plasma level, pericarditis with pericardial effusion and
+eosinophilia in a young Caucasian woman. These symptoms and signs disappeared a few days after discontinuation
+of clozapine. At present, we are not aware of reports of clozapine–antifungals interaction, whereas there is only one
+other case report on the interaction between oral contraceptives and clozapine. The purpose of this case report is
+to show the risk of potentially serious adverse effects stemming from drug interactions involving medications
+routinely used in clinical practice.
+Case presentation: A 29-year-old Caucasian woman diagnosed with a schizoaffective disorder was admitted to a
+psychiatric unit for acute psychosis (hallucinations, delusions and catatonic behavior). She denied smoking tobacco
+products and was on long-term oral contraceptives. During the first month of hospitalization she was treated with
+antipsychotics and for 1 week she took simultaneously fluconazole and miconazole gel, after being diagnosed
+with oral candidiasis. On the last day of antifungals treatment, 29 days after admission, clozapine was started with
+resolution of psychotic symptoms. After 3 weeks, her clozapine plasma level had increased to 542ng/mL and
+eosinophilia was observed. She complained of nausea, vomiting and palpitations; echocardiography showed
+echocardiographic abnormalities and pericardial effusion. Oral contraceptives were discontinued and after 1 week
+clozapine was interrupted, with a complete resolution of side effects and pericardial effusion within 4 days.
+Conclusions: Clozapine is metabolized by cytochrome P450. The use of inhibitors or other substrates of cytochrome
+P450, such as antifungals and oral contraceptives, can cause long-lasting interactions and clozapine toxicity. The
+Naranjo algorithm shows clozapine is a definite cause of pericarditis (score 9) and both clozapine–antifungals
+and clozapine–contraceptives interactions resulted probable (score 5) in Drug Interaction Probability Scale. A good
+knowledge on drugs that act as substrates, inhibitors or inducers of cytochrome P450 is mandatory. When those
+drugs are used in patients taking clozapine, blood level monitoring of clozapine should be recommended, since a
+lower dose of clozapine might be required to prevent clozapine toxicity.
+Keywords: Clozapine, Drugs interaction, Pericarditis
+
+* Correspondence: delzompo@unica.it
+1Section of Neuroscience and Clinical Pharmacology, Department of
+Biomedical Sciences, University of Cagliari, SP8, Km. 0,700, 09042 Monserrato,
+CA, Italy
+2Sardinian Regional Center of Pharmacovigilance, Unit of Clinical
+Pharmacology, AOUCA, “San Giovanni di Dio Hospital”, Via Ospedale 54,
+09124 Cagliari, Italy
+Full list of author information is available at the end of the article
+
+© 2015 Cadeddu et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Cadeddu et al. Journal of Medical Case Reports  (2015) 9:77 
+
+Page 2 of 6
+
+Introduction
+Clozapine is an atypical antipsychotic, known for life-
+threatening side effects, such as agranulocytosis and car-
+diac complications, but also for its role in the treatment of
+resistant psychoses when other therapies have failed [1].
+
+The most serious cardiac complications caused by clo-
+zapine, such as cardiomyopathy, myocarditis and peri-
+carditis, are characterized by shortness of breath, heart
+palpitations/pains and thoracic pain. In most cases, elec-
+trocardiographic changes, pericardial effusion, and non-
+specific signs of inflammation are observed. However,
+only a few cases of pericarditis and pericardial effusion
+induced by clozapine, even when used at low dosage, are
+reported in the literature [2].
+
+A review by Wehmeier et al. reported 65 cases of
+myocarditis, 52 cases of cardiomyopathy and only six
+cases of pericarditis occurring during clozapine treat-
+ment [3]. The dose used is a poor predictor of clinical
+response, and there is little correlation between dose
+and plasma level, due to individual differences in metab-
+olism, pharmacokinetic differences, gender, age, drug in-
+teractions and the smoking of tobacco products.
+
+Antifungal drugs, including fluconazole and micona-
+zole, are widely used in the treatment of systemic candi-
+dal infections and mycoses. Multiple drug therapy is a
+common therapeutic practice and many drug–drug in-
+teractions involving metabolic inhibition are reported in
+the literature. Clozapine is metabolized by the hepatic
+cytochrome P450 (CYP) microsomal system. The contri-
+bution of these isoenzymes to clozapine metabolism dif-
+fers between individuals, leading to the wide inter-patient
+variability found in clozapine plasma concentration. The
+drug is converted to norclozapine by CYP3A4 and 1A2
+and to clozapine N-oxide by CYP3A4 [4,5]. However,
+CYP2C19 is also important at clozapine therapeutic con-
+centration (24%) whereas the contributions of CYP2C9
+(12%) and 2D6 (6%) are more modest. CYP1A2 is the
+most important form at therapeutic concentration (30%),
+while CYP3A4 plays a more important role at a high
+concentration (37%) than at therapeutic concentration
+(22%) [6].
+
+The use of inhibitors or other substrates of P450, such
+as oral contraceptive (OCs) and antifungals, can cause
+unfavorable and long-lasting interactions and clozapine
+in vitro, miconazole and ketoconazole may
+toxicity:
+cause an inhibition of more than 50% of clozapine me-
+tabolism [7].
+
+It has been reported that fluconazole and miconazole
+
+competitively inhibit CYP3A4 activities.
+
+In particular, CYP3A4, CYP2C9, CYP2C19 and CYP1A2
+are more strongly inhibited by miconazole than flucona-
+zole [8], and this inhibition may last several days, due to
+antifungals long half-life and wash-out, allowing clozapine
+accumulation and toxicity. In this way, miconazole and
+
+fluconazole may inhibit clozapine metabolism determining
+an increase and/or prolongation of both therapeutic and
+adverse effects. At present, we are not aware of reports of
+clozapine–antifungals interaction; however, drug–drug in-
+teractions involving other classes of antipsychotics and an-
+tifungals are reported in the literature [9], whereas there is
+only one other case report on the interaction between
+OCs and clozapine [10]. The purpose of this case report
+is to show the risk of potentially serious adverse effects
+stemming from drug interactions involving medications
+routinely used in clinical practice. Learning how to predict
+and monitor drug–drug interactions may help reduce the
+incidence of clinically significant adverse drug events.
+
+Case presentation
+A 29-year-old Caucasian woman affected by a schizoaf-
+fective disorder, treated with haloperidol 2mg per day
+and olanzapine 10mg per day, was admitted at a Psychi-
+atric Unit for a reacutization of her psychotic symptoms
+(hallucinations, delusions and catatonic behavior), due to
+a lack of medications adherence. Her past medical history
+was characterized by a previous hospitalization for acute
+psychosis 1 year earlier, incomplete right bundle branch
+block (RBBB) and ovarian cysts. Her family medical his-
+tory revealed that her mother had an anxiety disorder and
+her grandmother had a major depression. She was on
+long-term OCs, ethinyl estradiol/drospirenone 0.03mg/
+3mg per day and denied smoking tobacco products and
+any substance use.
+
+A physical examination showed a temperature of 37.2°C
+and blood pressure of 150/100mmHg, whereas all the
+other parameters were within normal range. The results of
+blood tests and electrocardiography (ECG) were normal,
+except for RBBB. Her hospitalization lasted 3 months and
+during the first month she was treated orally with olanza-
+pine 20mg per day and haloperidol 9mg per day for 23
+days. On the 23rd day of hospitalization, since a poor
+response to treatment was observed, antipsychotics were
+interrupted and aripiprazole 30mg per day was adminis-
+tered for 6 days. In addition, on the same day, she was di-
+agnosed with oral candidiasis and treated simultaneously
+for a week orally with fluconazole 100mg per day and mi-
+conazole oral gel 2% 20mg, two times per day. Since her
+psychotic symptoms did not seem to improve, 29 days
+after admission and on the last day of antifungal treat-
+ment, aripiprazole was replaced by clozapine.
+
+Clozapine was started at 25mg per day orally and was
+gradually increased, within 16 days, to 225mg per day with
+the resolution of psychotic symptoms. After 3 weeks the
+plasma level of clozapine was 542ng/mL (range 350 to
+450ng/mL) and the level of its active metabolite norcloza-
+pine was 216ng/mL. Blood tests showed eosinophilia and
+an increase of C-reactive protein (5.73mg/L). She experi-
+enced the first symptoms (nausea, vomiting, palpitations)
+
+Cadeddu et al. Journal of Medical Case Reports  (2015) 9:77 
+
+Page 3 of 6
+
+5 days before the plasma level of clozapine was measured,
+while she was being treated with clozapine and OCs. At
+that point,
+long-term OCs treatment was discontinued
+and no other form of contraception was administered to
+her. She was referred to a cardiologist.
+
+A physical examination showed tachycardia and gallop
+rhythm and she complained of nausea and vomiting. An
+ECG revealed sinus tachycardia (135 beats/minute), QTc
+0.43 seconds, and S-T segment depression and inversion
+of T-waves in inferior and lateral leads. An echocardiog-
+raphy showed a small pericardial effusion suggestive of
+iatrogenic pericarditis.
+
+Due to those findings, 1 week after discontinuing OCs,
+clozapine was also interrupted and she was not rechal-
+lenged. Within 4 days, she showed resolution of clozapine
+side effects, normalization of ECG and complete recovery
+of pericardial effusion. Her symptoms continued to im-
+prove and 6 days after discontinuing clozapine she was dis-
+charged. The plasma level of clozapine, measured 1 week
+after discontinuing clozapine (2 weeks after interruption of
+
+OCs) was undetectable. At 1 month follow-up, transtho-
+racic echocardiography and inflammatory markers were
+normal (Figure 1).
+
+Discussion
+We report the case of a multiple drug interaction involv-
+ing clozapine, OCs and antifungals, which resulted in an
+increased clozapine plasma level, pericarditis and eosino-
+philia. Although clozapine toxicity is usually linked with
+clozapine serum levels higher than 1000ng/mL, at the
+moment there is no evidence of a clear toxicity range in
+the literature [11] and we cannot exclude that the patient
+might have experienced an adverse reaction at a lower
+serum level of clozapine (542ng/mL). Pericarditis is an in-
+sidious disease which may debut with nonspecific symp-
+toms, therefore a high level of diagnostic suspicion is
+always needed when clozapine is being used. In this case,
+the most common causes of pericardial illness were ruled
+out with the possible exception of a viral pericarditis,
+since cardiac symptoms began 1 month after clozapine
+
+Figure 1 Clinical case timeline. The figure reports the most important clinical aspects, interventions, diagnosis and follow up with the
+outcomes. Abbreviations: ECG, electrocardiography; min, minutes; OCs, oral contraceptives.
+
+Cadeddu et al. Journal of Medical Case Reports  (2015) 9:77 
+
+Page 4 of 6
+
+Table 1 Drugs’ metabolism
+Medication
+Clozapine
+
+Metabolism
+CYP1A2, 3A4, 2C19,
+2C9, 2D6
+
+Inducers Inhibitors
+–
+
+–
+
+Fluconazole
+
+Hepatic
+
+Miconazole
+
+Hepatic
+
+Ethinyl
+estradiol
+
+CYP3A4, 1A2
+
+Drospirenone CYP3A4
+
+–
+
+–
+
+–
+
+–
+
+CYP3A4, 2C9
+
+CYP3A4, 2C9, 2C19, 1A2
+
+CYP1A2, 2B6, 2C19, 3A4
+
+CYP1A1, 2C9, 2C19
+
+was started, quickly resolved after discontinuation and
+did not return again. Clozapine-induced myocarditis was
+also excluded since echocardiography, cardiac necrosis
+markers and brain natriuretic peptide were all negative.
+
+Clozapine was a definite causative agent (score of 9)
+according to the Naranjo probability scale [12], which
+evaluates single-drug adverse events, and according to
+the Drug Interaction Probability Scale (DIPS) [13], a
+probable causative agent, since both clozapine–antifun-
+gals and clozapine–OCs interactions scored 5.
+
+The ranking differences between these two assessment
+tools involve the questions used in DIPS to evaluate
+drug–drug interactions;
+in multiple drug interactions
+DIPS is the most accurate tool. A positive rechallenge with
+the precipitant drug is a strong indicator of causation.
+
+Unfortunately, the patient was not rechallenged with clo-
+zapine, and previous plasma levels of the drug were not
+measured, so we are not able to rule out the presence of
+clozapine toxicity prior to the first measurement.
+
+At present, we are not aware of reports of clozapine–
+antifungals interaction, but drug–drug interactions in-
+volving other classes of antipsychotics and antifungals
+are reported in the literature [9]. 17α-Ethinyl estradiol
+(EE) is a CYP3A4 substrate and an inhibitor of CYP1A1
+in vitro; moreover, there is evidence of a time-dependent
+inhibition of CYP3A4 and CYP3A5 by OCs [14]. Drospir-
+enone is partially metabolized by CYP3A4 and is also an
+inhibitor of CYP2C19 and CY2C9. Therefore, both OCs’
+components can inhibit different CYPs, although at higher
+clozapine concentrations CYP3A4 is the most active; thus
+the greater inhibition is more probably determined by EE.
+There is less information about the effect of OCs on
+other drugs, but clinically relevant pharmacokinetic
+interactions are known to occur. A possible OCs–cloza-
+pine interaction mechanism could be a competitive en-
+zyme inhibition, as both drugs are partially metabolized
+by CYP3A4, and OCs are considered mild inhibitors of
+CYP3A4. Moreover, several studies have shown that
+OCs impair the metabolism of CYP1A2 substrates in vivo
+[15], which might represent another possible mechanism
+(Table 1).
+
+Figure 2 Drugs’ interaction timeline and pharmacokinetics. The figure reports the four drugs administered to the patient at the same time
+(ethinyl estradiol/drospirenone, clozapine, fluconazole, miconazole) and the onset and duration of the adverse drug reactions. The peak of
+clozapine plasma level (542ng/mL) was observed after 18 days. Adverse drug reactions were observed 2 days after clozapine peak and lasted
+14 days. Abbreviation: ADRs, adverse drug reactions.
+
+Cadeddu et al. Journal of Medical Case Reports  (2015) 9:77 
+
+Page 5 of 6
+
+To the best of our knowledge, there is only one report
+of a possible drug interaction between clozapine (at a
+dose of 550mg per day) and OCs,
+in a 47-year-old
+woman who was a heavy smoker of tobacco products,
+resulting in elevated clozapine plasma levels (736, 770,
+and 792ng/mL) and onset of adverse effects, after which
+OCs treatment was discontinued. Side effects disap-
+peared within a few days and normalization of clozapine
+blood levels was observed over the next 6 weeks [10].
+
+Finally, the inhibition of CYPs is compatible with the
+pharmacokinetics of antifungals and OCs, allowing the
+elevation of clozapine plasma levels which occurred 2
+weeks after antifungals interruption. Miconazole and flu-
+conazole half-life and wash-out are 24 hours and 10 days,
+and 28 hours and 12 days, respectively. In this case, we
+must take into account not only the single antifungals–
+clozapine interaction but also the contribution of OCs
+(half-life 20 hours, wash-out 8 days) which might have im-
+paired CYPs metabolism for 26 days, while the patient
+was simultaneously treated with clozapine (Figure 2).
+Since OCs were administered for a longer time, compared
+to antifungals, we think that they might have contributed
+more significantly to the increase of the blood concentra-
+tion of clozapine.
+
+Conclusions
+To conclude, this report suggests a possible multiple drug
+interaction between clozapine, antifungals and OCs, which
+resulted in an elevated clozapine blood level, eosinophilia
+and pericarditis with pericardial effusion.
+
+Based on the case report described here, we can make
+
+the following recommendations:
+
+1. In patients taking clozapine, detecting ECG and
+
+echocardiography abnormalities is highly
+recommended, and clozapine must be stopped if
+patients develop pericardial involvement.
+
+2. Blood level monitoring of clozapine is essential when
+
+inhibitors or substrates of CYP3A4 and CYP1A2,
+such as antifungals or OCs, are being used, since a
+lower dose of clozapine might be required to
+prevent adverse effects.
+
+3. A good knowledge of drugs that act as substrates,
+
+inhibitors or inducers of P450 is essential for doctors
+to take appropriate cautions, and a close monitoring
+for potential drug interactions when using drugs
+with a narrow therapeutic range such as clozapine
+is always recommendable.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying im-
+ages. A copy of the written consent is available for re-
+view by the Editor-in-Chief of this journal.
+
+Abbreviations
+CYP: Cytochrome P450; DIPS: Drug Interaction Probability Scale;
+ECG: Electrocardiography; EE: 17α-Ethinyl estradiol; OCs: Oral contraceptives;
+RBBB: Right bundle branch block.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+GC analyzed and interpreted the patient data, and drafted the manuscript.
+AD and MES participated in data collection and data interpretation and
+performed the literature search. NV is the specialist who was following the
+patient. CB signaled the case. MDZ supervised and contributed in writing the
+manuscript. All authors read and approved the final manuscript.
+
+Acknowledgements
+This work was partly supported by the Sardinian Regional Councillorship of
+Health with a grant dedicated to “The development of a Pharmacovigilance
+Network in Sardinia”, 2011. The authors wish to acknowledge Ms Enrica
+Mosca for drafting and editing the manuscript.
+
+Author details
+1Section of Neuroscience and Clinical Pharmacology, Department of
+Biomedical Sciences, University of Cagliari, SP8, Km. 0,700, 09042 Monserrato,
+CA, Italy. 2Sardinian Regional Center of Pharmacovigilance, Unit of Clinical
+Pharmacology, AOUCA, “San Giovanni di Dio Hospital”, Via Ospedale 54,
+09124 Cagliari, Italy. 3Center of Mental Health, ASL8, Via Raffaello 5, 09032
+Assemini, CA, Italy. 4Psychiatric Unit, ASL 8, “SS. Trinità” Hospital, Via Is
+Mirrionis 92, 09121 Cagliari, Italy.
+
+Received: 31 July 2014 Accepted: 18 February 2015
+
+References
+1.
+
+2.
+
+Baldessarini RJ, Frankenburg FR. Clozapine. A novel antipsychotic agent.
+N Engl J Med. 1991;324:746–54.
+Rathore S, Masani ND, Callaghan PO. Clozapine-induced effuso-constrictive
+pericarditis. Case report and review of the literature. Cardiology.
+2007;108:183–5.
+
+3. Wehmeier PM, Heiser P, Remschmidt H. Myocarditis, pericarditis and
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+cardiomyopathy in patients treated with clozapine. J Clin Pharm Ther.
+2005;30:91–6.
+Buur-Rasmussen B, Brosen K. Cytochrome P450 and therapeutic drug
+monitoring with respect to clozapine. Eur Neuropsychopharmacol.
+1999;9:453–9.
+Eiermann B, Engel G, Johansson I, Zanger UM, Bertilsson L. The involvement
+of CYP1A2 and CYP3A4 in the metabolism of clozapine. Br J Clin Pharmacol.
+1997;44:439–46.
+Olesen OV, Linnet K. Contribution of five human cytochrome P450 isoforms
+to the N-demethylation of clozapine in vitro at low and high concentration.
+J Clin Pharmacol. 2001;41:823–32.
+Bun H, Disdier B, Aubert C, Catalin J. Interspecies variability and drug
+interactions of clozapine metabolism by microsomes. Fundam Clin
+Pharmacol. 1999;13:577–8.
+Niwa T, Shiraga T, Takagi A. Effect of antifungal drugs on cytochrome P450
+(CYP) 2C9, CYP2C19, and CYP3A4 activities in human liver microsomes. Biol
+Pharm Bull. 2005;28:1805–8.
+
+9. Mahatthanatrakul W, Sriwiriyajan S, Ridtitid W, Boonleang J, Wongnawa M,
+
+Rujimamahasan N, et al. Effect of cytochrome P450 3A4 inhibitor
+ketoconazole on risperidone pharmacokinetics in healthy volunteers. J Clin
+Pharm Ther. 2012;37:221–5.
+
+10. Gabbay V, O’Dowd MA, Mamamtavrishvili M, Asnis GM. Clozapine and oral
+
+contraceptives: a possible drug interaction. J Clin Psychopharmacol.
+2002;22:621–2.
+
+11. Greenwood-Smith C, Lubman DI, Castle DJ. Serum clozapine levels: a review
+
+of their clinical utility. J Psychopharmacol. 2003;17:234–8.
+
+12. Naranjo CA, Busto U, Sellers EM, Sandor P, Ruiz I, Roberts EA, et al. A
+method for estimating the probability of adverse drug reactions. Clin
+Pharmacol Ther. 1981;30:239–45.
+
+13. Horn JR, Hansten PD, Chan LN. Proposal for a new tool to evaluate drug
+
+interaction cases. Ann Pharmacother. 2007;41:674–80.
+
+Cadeddu et al. Journal of Medical Case Reports  (2015) 9:77 
+
+Page 6 of 6
+
+14. Chang SY, Chen C, Yang Z, Rodrigues AD. Further assessment of
+
+15.
+
+17alpha-ethinyl estradiol as an inhibitor of different human cytochrome
+P450 forms in vitro. Drug Metab Dispos. 2009;37:1667–75.
+Karjalainen MJ, Neuvonen PJ, Backman JT. In vitro inhibition of CYP1A2 by
+model inhibitors, anti-inflammatory analgesics and female sex steroids:
+predictability of in vivo interactions. Basic Clin Pharmacol Toxicol.
+2008;103:157–65.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

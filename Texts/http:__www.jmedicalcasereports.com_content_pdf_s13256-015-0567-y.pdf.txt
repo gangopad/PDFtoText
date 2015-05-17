@@ -1,0 +1,352 @@
+Akagawa et al. Journal of Medical Case Reports  (2015) 9:81 
+DOI 10.1186/s13256-015-0567-y
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Vertebral osteomyelitis and epidural abscess
+caused by gas gangrene presenting with
+complete paraplegia: a case report
+Manabu Akagawa1*, Takashi Kobayashi1, Naohisa Miyakoshi2, Eiji Abe1, Toshiki Abe1, Kazuma Kikuchi1
+and Yoichi Shimada2
+
+Open Access
+
+Abstract
+
+Introduction: Gas gangrene is most often caused by Clostridium perfringens infection. Gas gangrene is a medical
+emergency that develops suddenly. The mortality rate is higher with trunk involvement than with involvement of
+the extremities, which carries a better prognosis. With respect to vertebral involvement, there are few reports in the
+literature. The purpose of this paper is to report a very rare case of vertebral osteomyelitis caused by gas gangrene.
+Case presentation: A 78-year-old Japanese woman with diabetes mellitus was admitted to our hospital with the
+chief complaints of back pain, dysuria, and complete paralysis of both legs. A computed tomography scan showed
+soft tissue swelling anterolaterally at intervertebral disc level T11/12 and a gas-containing epidural abscess that
+compressed her spinal cord. Cultures later grew Clostridium perfringens and Escherichia coli. Hemilaminectomy was
+done from T10 to T12, and an epidural abscess was removed. She went on to have fusion surgery 6 weeks after the
+initial operation and subsequently experienced complete pain relief. She was discharged 2 months later, at which
+time she was able to walk with a cane. Examination 18 months after surgery showed normal gait without a cane.
+Conclusions: Discitis caused by gas gangrene infection was successfully treated by immediate debridement and
+subsequent fusion surgery.
+Keywords: Clostridium perfringens, Debridement, Epidural abscess, Fusion surgery, Gas gangrene, Vertebral osteomyelitis
+
+Introduction
+Spontaneous gas gangrene is most often caused by a
+bacterium called Clostridium perfringens [1]. Gas gan-
+grene is one of the most fulminant infectious diseases; it
+can cause myonecrosis, gas production, and sepsis. Pro-
+gression of toxemia and shock is often very rapid. The
+mortality rate is higher with trunk involvement than
+with involvement of the extremities, which carries a
+better prognosis [2]. Antibiotics alone are not effective
+because they do not penetrate ischemic muscles suffi-
+ciently [3]. With respect to vertebral involvement, there
+are few reports in the literature [4-10]. The purpose of
+this paper is to report a very rare case of vertebral
+osteomyelitis caused by gas gangrene.
+
+* Correspondence: akagawamanabu@yahoo.co.jp
+1Department of Orthopedic Surgery, Akita Kousei Medical Center, 1-1-1
+Iijima-Nishifukuro, Akita 011-0948, Japan
+Full list of author information is available at the end of the article
+
+Case presentation
+A 78-year-old Japanese woman with diabetes mellitus
+was admitted to our institution with a 1-week history of
+back pain and a 1-day history of paralysis of both legs.
+She had been bedridden for a week prior to admission
+in another hospital. There was no history of trauma. No
+gastrointestinal symptoms were present. Her tempe-
+rature was 36.8°C, blood pressure was 100/70mmHg,
+and pulse was 103 beats per minute. On physical exa-
+mination, her patellar tendon reflexes were present, but
+Achilles tendon reflexes were absent. All sensory mo-
+dalities were absent below the inguinal level. Her leg
+muscles were completely paralyzed bilaterally. There
+was no anal wink. Anal tone was diminished, and there
+was no voluntary contraction of the external sphincter.
+
+Admission laboratory values included a white blood
+cell count (WBC) of 18,800 per mm3, her hemoglobin
+
+© 2015 Akagawa et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Akagawa et al. Journal of Medical Case Reports  (2015) 9:81 
+
+Page 2 of 5
+
+was 9.4g/dL, and her hematocrit was 30%. Her Westergren
+erythrocyte sedimentation rate was 80mm/hour, and
+C-reactive protein (CRP) was 30.02mg/dL. Initial radio-
+graphic examination of her lumbar spine at admission
+showed only spondylotic change. A computed tomo-
+graphy (CT) scan showed soft tissue swelling ante-
+rolaterally at intervertebral disc level T11/12 and a
+gas-containing epidural abscess that compressed her
+spinal cord (Figure 1). Magnetic resonance imaging
+showed involvement of the T11/12 disc space and adja-
+cent vertebral body with decreased signal intensity on
+T1-weighted images and increased signal intensity on
+T2-weighted images with a gas-containing epidural ab-
+scess (Figure 2).
+
+The patient was urgently admitted to our hospital and
+taken to the operating room for decompression and disc
+debridement. Hemilaminectomy was done from T10 to
+T12, and the epidural abscess was removed, followed by
+T11/12 disc debridement. The epidural abscess was
+yellow and turbid. Cultures later grew C. perfringens and
+Escherichia coli. The wound was closed over subfascial
+drains.
+
+On the second postoperative day, she was confused,
+and hydrothorax appeared. Thoracic drainage was
+then performed by a surgeon. Intravenous antibiotic
+
+treatment was begun with imipenem/cilastatin at 0.5g
+every 8 hours for 2 weeks, followed by piperacillin/
+tazobactam at 1.0g every 8 hours for 2 weeks, and
+then ampicillin-sulbactam at 1.0g every 8 hours for
+2 weeks.
+
+Postoperatively, she experienced some sensory and
+motor return in her legs, but back pain and left chest
+pain in the sitting position continued. A CT scan 6
+weeks after the operation showed T12 vertebral bone
+destruction (Figure 3); her WBC count and CRP were
+8800 per mm3 and 0.26mg/dL, respectively. She went
+on to have fusion surgery with instrumentation and
+subsequently experienced complete relief of her pain.
+She was discharged 2 months later, at which time she
+was able to walk with a cane. Examination 18 months
+after surgery showed normal gait without a cane.
+Plain radiograph at 18 months after operation showed
+complete union between the T11 and T12 vertebral
+bodies (Figure 4).
+
+Discussion
+Gas gangrene is divided into the following three types:
+posttraumatic, postoperative, and spontaneous [11]. A
+literature review reported that the spontaneous type ac-
+counts for 16% of cases [11]. Spontaneous clostridial
+
+Figure 1 Computed tomography sagittal and axial images on initial admission. (a) Soft tissue swelling anterolaterally at intervertebral disc level
+T11/12 (b) and a gas-containing epidural abscess are seen.
+
+Akagawa et al. Journal of Medical Case Reports  (2015) 9:81 
+
+Page 3 of 5
+
+Figure 2 Magnetic resonance imaging sagittal and axial images on initial admission. Involvement of the T11/12 disc space and adjacent vertebral
+body with decreased signal intensity on the T1-weighted images (a and c) and increased signal intensity on the T2-weighted images (b and d)
+with a gas-containing epidural abscess are seen.
+
+myonecrosis is caused by C. perfringens and Clostridium
+septicum in 60% and 30% of cases, respectively [12,13].
+Clostridial species are commonly found in soil, dust,
+water, and the intestines of humans and various animals
+[2,14,15]. Without treatment, there is a 100% mortality
+rate within 24 hours of onset of systemic symptoms [14].
+If properly treated, the overall mortality rate is 20 to
+30% [2,3,16]. The mortality rate is higher with trunk in-
+volvement (50%) than with involvement of the extrem-
+ities (24%), which carries a better prognosis [2].
+
+With respect to vertebral involvement, favorable out-
+comes after discitis caused by C. perfringens are obtained
+
+if the infection occurs only within the disc [5,6,8,10].
+However, with surgical site infection (SSI) after lumbar
+spine surgery, one patient died, and one needed multiple
+operations [4,7]. The differences in outcomes may be re-
+lated to the amount of ischemic tissue. Although the
+disc itself has a small amount of ischemic tissue and a
+favorable outcome, the amount of ischemic tissue with
+SSI is larger and is associated with a terrible outcome.
+The present case with discitis and an epidural abscess
+survived because the amount of
+ischemic tissue was
+small, and emergency debridement and antibiotic ther-
+apy were effective.
+
+Akagawa et al. Journal of Medical Case Reports  (2015) 9:81 
+
+Page 4 of 5
+
+Figure 4 Plain radiograph at 18 months after operation. Complete
+union between the T11 and T12 vertebral bodies is seen. Open arrow
+shows bone bridge between T11 and T12 vertebra. (a) Anteroposterior
+radiograph, (b) Lateral radiograph.
+
+tory and showed complete bone union on X-ray at
+18-month follow-up.
+
+Conclusions
+A very rare case of vertebral osteomyelitis caused by gas
+gangrene that was successfully treated by immediate de-
+bridement and subsequent fusion surgery combined with
+antibiotics was described.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying
+images. A copy of the written consent is available for
+review by the Editor-in-Chief of this journal.
+
+Abbreviations
+CRP: C-reactive protein; CT: computed tomography; SSI: surgical site
+infection; WBC: white blood cell count.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+Surgery was performed by TK. MA, TK, and NM were the major contributors
+in writing the manuscript. EA, TA, KK, and YS supervised the whole work.
+All authors read and approved the final manuscript.
+
+Acknowledgements
+The authors would like to thank Mamiko Kondo and Sachie Miura for their
+valuable assistance with the editing of this manuscript.
+
+Author details
+1Department of Orthopedic Surgery, Akita Kousei Medical Center, 1-1-1
+Iijima-Nishifukuro, Akita 011-0948, Japan. 2Department of Orthopedic Surgery,
+Akita University Graduate School of Medicine, 1-1-1 Hondo, Akita 010-8543,
+Japan.
+
+Figure 3 Computed tomography at 6 weeks after operation.
+T12 vertebral bone destruction is seen.
+
+Fusion surgery is needed if instability remains [17].
+Stabilization with instrumentation is a safe and effec-
+tive treatment for pyogenic osteomyelitis [18-21]. In
+this case, even after her CRP level decreased,
+the
+patient could not sit because of her left lateral chest
+pain. On CT, vertebral bone destruction had ap-
+peared, and instability was considered the main rea-
+son for her
+lateral chest pain. We managed this
+patient with posterior fixation with instrumentation.
+She was treated successfully, and she was ambula-
+
+Akagawa et al. Journal of Medical Case Reports  (2015) 9:81 
+
+Page 5 of 5
+
+Received: 22 October 2014 Accepted: 4 March 2015
+
+References
+1. MacLennan JD. The histotoxic clostridial infections of man. Bacteriol Rev.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+1962;26:177–276.
+Caplan ES, Kluge RM. Gas gangrene: review of 34 cases. Arch Intern Med.
+1976;136:788–91.
+Darke SG, King AM, Slack WK. Gas gangrene and related infection:
+classification, clinical features and aetiology, management and mortality.
+A report of 88 cases. Br J Surg. 1977;64:104–12.
+Bednar DA. Postoperative Clostridium perfringens lumbar discitis with
+septicemia: report of a case with survival. J Spinal Disord Tech. 2002;15:172–4.
+Beguiristain JL, de Pablos J, Llombart R, Gómez A. Discitis due to Clostridium
+perfringens. Spine. 1986;11:170–2.
+Caudron A, Grados F, Boubrit Y, Coullet JM, Merrien D, Domart Y. Discitis
+due to Clostridium perfringens. Joint Bone Spine. 2008;75:232–4.
+Kristopaitis T, Jensen R, Gujrati M. Clostridium perfringens: a rare cause of
+postoperative spinal surgery meningitis. Surg Neurol. 1999;51:448–50.
+Pate D, Katz A. Clostridia discitis: a case report. Arthritis Rheum.
+1979;22:1039–40.
+Thompson 3rd GR, Crawford GE. Pneumorachis caused by metastatic gas
+gangrene. Diagn Microbiol Infect Dis. 2009;63:108–10.
+Torda AJ, Gottlieb T, Bradbury R. Pyogenic vertebral osteomyelitis: analysis
+of 20 cases and review. Clin Infect Dis. 1995;20:320–8.
+
+11. Hart GB, Lamb RC, Strauss MB. Gas gangrene. J Trauma. 1983;23:991–1000.
+12. Burke MP, Opeskin K. Nontraumatic clostridial myonecrosis. Am J Forensic
+
+Med Pathol. 1999;20:158–62.
+
+13. Hiew CY, Silberstein M, Hennessy OF. Fatal Clostridium septicum
+
+myonecrosis. Australas Radiol. 1993;37:399–400.
+
+14. Marty AT, Filler RM. Recovery from non-traumatic localised gas gangrene
+
+and clostridial septicaemia. Lancet. 1969;12:79–81.
+
+15. Nandyala SV, Schwend RM. Prevalence of intraoperative tissue bacterial
+
+contamination in posterior pediatric spinal deformity surgery. Spine
+(Phila Pa 1976). 2013;15:E482–6.
+
+16. Altemeier WA, Fullen WD. Prevention and treatment of gas gangrene.
+
+JAMA. 1971;217:806–13.
+
+17. Busche M, Bastian L, Riedemann NC, Brachvogel P, Rosenthal H, Krettek C.
+
+Complete osteolysis of the dens with atlantoaxial luxation caused by
+infection with Staphylococcus aureus: a case report and review of the
+literature. Spine (Phila Pa 1976). 2005;30:E369–74.
+
+18. Abe E, Yan K, Okada K. Pyogenic vertebral osteomyelitis presenting as single
+
+spinal compression fracture: a case report and review of the literature.
+Spinal Cord. 2000;38:639–44.
+
+19. Menon VK, Kumar KM, Al GK. One-stage biopsy, debridement, reconstruction,
+
+and stabilization of pyogenic vertebral osteomyelitis. Global Spine J.
+2014;4:93–100.
+
+20. Mohamed AS, Yoo J, Hart R, Ragel BT, Hiratzka J, Hamilton DK, et al.
+
+21.
+
+Posterior fixation without debridement for vertebral body osteomyelitis and
+discitis. Neurosurg Focus. 2014;37:E6.
+Suchomel P, Buchvald P, Barsa P, Lukas R, Soukup T. Pyogenic osteomyelitis
+of the odontoid process: single stage decompression and fusion. Spine
+(Phila Pa 1976). 2003;28:E239–44.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

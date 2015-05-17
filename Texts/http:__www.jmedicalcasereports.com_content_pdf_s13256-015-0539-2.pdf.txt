@@ -1,0 +1,345 @@
+Chen et al. Journal of Medical Case Reports  (2015) 9:66 
+DOI 10.1186/s13256-015-0539-2
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Pathology characteristics of ocular von
+Hippel-Lindau disease with neovascularization of
+the iris and cornea: a case report
+Shida Chen1,2, Emily Y Chew3 and Chi-Chao Chan1*
+
+Open Access
+
+Abstract
+
+Introduction: Retinal hemangioblastoma is one of the most common tumors in von Hippel-Lindau disease. In
+addition to the classical pathological characteristics of von Hippel-Lindau disease, we report, for what we believe to
+be the first time, a severe and rare ocular complication characterized by neovascularization in the cornea and iris.
+Case presentation: A 41-year-old white man with a long history of retinal hemangioblastoma presented with
+neovascularization of his iris and cornea as well as corneal perforation. His right eye was blind and painful,
+leading to a decision of enucleation. On microscopy, the enucleated eye showed neovascularization of the
+cornea and iris. The cornea was perforated with an expulsive hemorrhage and extruding intraocular contents,
+including the retina. A large retinal hemangioblastoma was located at the posterior pole adjacent to the optic
+nerve head. The tumor was mainly composed of large cells with foamy cytoplasm. Bone formation was also present.
+Conclusion: Our pathology findings were consistent with previously described features of retinal hemangioblastoma.
+The present case is unusual because of the co-existing neovascularization in the iris and cornea, which may have led to
+corneal perforation and vision loss.
+Keywords: Cornea, Iris, Neovascularization, Retinal hemangioblastoma, von Hippel-Lindau disease
+
+Introduction
+Von Hippel-Lindau disease (VHL) is an autosomal dom-
+inant systemic syndrome that results from a mutation in
+the VHL gene on chromosome 3 (3p25-26) [1]. Disrup-
+tion of VHL protein function leads to an accumulation
+of hypoxia-inducible transcription factor 1α (HIF-1α),
+which induces overproduction of its target genes, includ-
+ing vascular endothelial growth factor (VEGF), platelet-
+derived growth factor - beta (PDGFB), and transforming
+growth factor alpha (TGFA). The growth factors are also
+shown to contribute to the formation of tumors [1,2].
+Retinal hemangioblastoma is seen in more than 60% of
+patients with VHL disease [3]. Approximately half of pa-
+tients with retinal hemangioblastoma have bilateral involve-
+ment. The prominent ocular complications of retinal
+hemangioblastoma are retinal exudate and tractional retinal
+detachment [4]. On pathology, retinal hemangioblastoma
+
+* Correspondence: chanc@nei.nih.gov
+1Immunopathology Section, Laboratory of Immunology, National Eye
+Institute, National Institutes of Health, Bethesda, MD, USA
+Full list of author information is available at the end of the article
+
+appears as a network of thin vascular capillary-like channels
+lined by endothelial cells and pericytes. These vascular
+channels are separated by foamy VHL-associated tumor
+cells, also known as stromal cells [5,6]. Complications out-
+side the retina are uncommon in VHL disease.
+
+We report, for what we believe to be the first time, the
+pathological characteristics of a case of retinal heman-
+gioblastoma with neovascularization involving the iris
+and cornea. The study was approved by the National Eye
+Institute Institutional Review Board for human subjects,
+and our patient signed an informed consent.
+
+Case presentation
+A 41-year-old white man was diagnosed with VHL with
+multiple retinal hemangioblastomas in 1987 at the age
+of 17 years. He received thermal laser and cryotherapy
+treatment for a retinal hemangioblastoma in his right
+eye in 1992. The tumor progressed and upon examin-
+ation in June 2007 he had no light perception in his right
+eye, with a completely obscured fundus. On examination
+in April 2011, there was still no light perception in his
+
+© 2015 Chen et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Chen et al. Journal of Medical Case Reports  (2015) 9:66 
+
+Page 2 of 4
+
+Figure 1 Clinical photographs of the eye from the patient with von Hippel-Lindau disease. (A) The right eye shows neovascularization of
+the cornea and iris (rubeosis iridis) and matured cataract. (B) The left eye shows a hemangioblastoma involving the optic nerve.
+
+right eye; his intraocular pressure was 52mmHg; and
+band keratopathy, rubeosis iridis, and dense cataracts
+were present (Figure 1A). On examination in July 2012,
+his right eye was blind and painful with an intraocular
+pressure of 48mmHg and a corneal ulcer. The vision in
+his left eye was 20/20, and the fundus showed evidence
+of a retinal hemangioblastoma involving the optic nerve
+and the presence of retinal exudates (Figure 1B). He
+underwent enucleation of the blind and painful right eye
+in November 2013.
+
+The enucleated eye was sent to the National Eye Institute
+for pathological examination. Routine histopathology and
+immunohistochemistry were performed on the enucleated
+right globe. Macroscopically, the cornea was perforated by
+an expulsive hemorrhage. The anterior chamber was com-
+pletely occluded by a pupillary membrane admixed with
+intraocular contents and extensive hemorrhaging. The vit-
+reous cavity was filled with hemorrhage, and the retina
+was poorly identified. There was bone tissue admixed with
+hemorrhages in the posterior pole. The optic nerve also
+contained hemorrhage. On microscopy, the cornea was
+perforated centrally, where the hemorrhage was mixed
+with the exposed intraocular contents including the uvea
+and retina. Most of the remaining corneal epithelium
+showed changes in epidermalization, and there was
+
+extensive neovascularization with small hemorrhages
+at the anterior corneal surface (Figure 2A). Consequently,
+immunostaining for VEGF was positive at the corneal sur-
+face (Figure 2C). The atrophic iris was disorganized and
+adhered to the Descemet’s membrane. Additionally, the
+surface of the iris showed neovascularization (Figure 2B).
+The retina was totally detached, disorganized, and showed
+marked gliosis.
+
+A large retinal hemangioblastoma was noted at the
+optic nerve head (Figure 3A). The tumor was mainly com-
+posed of large cells with foamy cytoplasm (Figure 3A).
+Within the retinal hemangioblastoma, there were focal
+areas of cystic degeneration, gliosis, and hemorrhage.
+There was osseous transformation beneath the hemangio-
+blastoma, mixed with gliofibrous tissues in some areas
+(Figure 3A). Expression of VEGF and HIF-1α was strongly
+positive within the hemangioblastoma and in the optic
+nerve (Figure 3B,C). Large hemorrhages beneath the chor-
+oid were observed.
+
+Discussion
+Ocular complications of retinal hemangioblastoma are
+predominantly exudative (25%) or involve tractional ret-
+inal detachment (9%) [7]. Retinal or vitreous hemorrhages
+are rare and only occur in fewer than 3% of cases; anterior
+
+Figure 2 Photomicrographs of neovascularization in the cornea and iris. (A) The corneal epithelium shows epidermalization. Many small
+vascular lumina (arrows) are located in the corneal subepithelial region. (B) Small vascular lumina (arrows) are present superficially and in the
+surface of the iris. (C) The anterior cornea shows high expression of vascular endothelial growth factor (VEGF). (A and B, hematoxylin and eosin,
+original magnification, ×200; C, avidin-biotin complex immunohistochemistry, original magnification, ×200).
+
+Chen et al. Journal of Medical Case Reports  (2015) 9:66 
+
+Page 3 of 4
+
+Figure 3 Photomicrographs of retinal hemangioblastoma. (A) The retinal hemangioblastoma was composed of classical foamy (tumor) cells
+admixed with small capillaries. Osseous tissues (asterisks) are adjacent to the retinal hemangioblastoma. (B) The hemangioblastoma shows
+high expression of vascular endothelial growth factor (VEGF). (C) Hypoxia-inducible transcription factor 1α (HIF-1α) is expressed in the
+retinal hemangioblastoma. (A, hematoxylin and eosin, original magnification, ×200; B and C, avidin-biotin complex immunohistochemistry,
+original magnification, ×200).
+
+segment complications such as cataract and neovascular
+glaucoma are also rare but have been found to occur dur-
+ing the end-stage of the disease [4,7]. Though ocular VHL
+disease can sometimes manifest as retinal neovasculariza-
+tion characterized by fine, superficial vascular proliferation
+[8], neovascularization in non-retinal tissues is rare. It has
+been found that only 2% of eyes with retinal hemangio-
+blastomas also show neovascularization in the iris [4]. To
+the best of our knowledge, no cases of severe corneal neo-
+vascularization and perforation associated with retinal
+hemangioblastoma have been reported. Although retinal
+capillary hemangioblastomas are slow growing and benign
+in nature, they can sometimes result in vision loss and dis-
+ruption of the structural integrity of the globe through
+exudative and tractional effects on the retina [4]. This type
+of severe visual impairment is more likely to be associated
+with increased age, the presence of juxtapapillary lesions,
+and the increased number and extent of peripheral lesions
+[3]. In our case, his right eye developed total retinal
+detachment, hemorrhage in the vitreous and subretinal
+space, neovascularization of the iris and cornea, and cor-
+neal perforation; the combination of these symptoms led
+to the painful blind eye.
+
+Typically, retinal hemangioblastomas comprise capillary-
+like vascular channels surrounded by large vacuolated stro-
+mal cells [9,10]. In our case, we found similar pathological
+features in the retinal hemangioblastoma as well as osse-
+ous bone formation around the tumor, correlating with
+the prolonged history of the disease.
+
+High levels of VEGF are believed to contribute to heman-
+gioblastoma formation; in animal models where VEGF is
+overexpressed or where VHL is inactive, visceral lesions
+resembling hemangioblastomas form [11,12]. High levels
+of VEGF have also been reported in the ocular fluid and
+tumors of patients with VHL [6,13]. We detected high ex-
+pression of VEGF at the site of corneal neovascularization
+and within the retinal hemangioblastoma of our patient.
+Further, HIF-1α expression was increased within the ret-
+inal hemangioblastoma, which is consistent with previous
+findings that there are many HIF transcripts in retinal
+
+hemangioblastomas [14]. This information suggests there
+may be potential therapeutic implications of targeting
+HIF-1α in VHL disease [15].
+
+Conclusion
+Co-existing ocular complications of the retinal heman-
+gioblastoma occur relatively infrequently. We present a
+case with these clinicopathological
+including
+neovascularization of the iris and cornea.
+
+features,
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and the accompanying
+images. A copy of the written consent is available for
+review by the Editor-in-Chief of this journal.
+
+Abbreviation
+HIF-1α: hypoxia-inducible transcription factor α; VEGF: vascular endothelial
+growth factor; VHL: von Hippel-Lindau disease.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+SC performed the pathological examination and wrote the manuscript. EC
+provided patient care and clinical information, obtained the specimen, and
+reviewed the manuscript. CCC designed and supervised the study,
+interpreted pathological findings, and critically reviewed the manuscript. All
+authors read and approved the final manuscript.
+
+Acknowledgements
+The National Eye Institute Intramural Research program supported the study.
+We thank Mr Nicholas Popp for editing the manuscript and Ms Michelle Roof
+for performing the immunohistochemistry.
+
+Author details
+1Immunopathology Section, Laboratory of Immunology, National Eye
+Institute, National Institutes of Health, Bethesda, MD, USA. 2Zhongshan
+Ophthalmic Center, Sun Yat-sen University, Guangzhou, China. 3Division of
+Epidemiology and Clinical Research, National Eye Institute, National Institutes
+of Health, Bethesda, MD, USA.
+
+Received: 19 August 2014 Accepted: 30 January 2015
+
+References
+1.
+
+Kaelin Jr WG. Molecular basis of the VHL hereditary cancer syndrome. Nat
+Rev Cancer. 2002;2:673–82.
+
+Chen et al. Journal of Medical Case Reports  (2015) 9:66 
+
+Page 4 of 4
+
+2.
+
+Lonser RR, Glenn GM, Walther M, Chew EY, Libutti SK, Linehan WM, et al.
+von Hippel-Lindau disease. Lancet. 2003;361:2059–67.
+
+3. Wong WT, Agron E, Coleman HR, Tran T, Reed GF, Csaky K, et al. Clinical
+
+characterization of retinal capillary hemangioblastomas in a large
+population of patients with von Hippel-Lindau disease. Ophthalmology.
+2008;115:181–8.
+
+4. Webster AR, Maher ER, Moore AT. Clinical characteristics of ocular
+
+angiomatosis in von Hippel-Lindau disease and correlation with germline
+mutation. Arch Ophthalmol. 1999;117:371–8.
+
+5. Mottow-Lippa L, Tso MO, Peyman GA, Chejfec G. von Hippel angiomatosis.
+
+A light, electron microscopic, and immunoperoxidase characterization.
+Ophthalmology. 1983;90:848–55.
+Chan CC, Vortmeyer AO, Chew EY, Green WR, Matteson DM, Shen DF, et al.
+VHL gene deletion and enhanced VEGF gene expression detected in the
+stromal cells of retinal angioma. Arch Ophthalmol. 1999;117:625–30.
+Singh AD, Shields CL, Shields JA. von Hippel-Lindau disease. Surv Ophthalmol.
+2001;46:117–42.
+
+6.
+
+7.
+
+8. Wong WT, Yeh S, Chan CC, Kalina RE, Kinyoun JL, Folk JC, et al. Retinal
+
+vascular proliferation as an ocular manifestation of von Hippel-Lindau
+disease. Arch Ophthalmol. 2008;126:637–43.
+Chan CC, Collins AB, Chew EY. Molecular pathology of eyes with von
+Hippel-Lindau (VHL) Disease: a review. Retina. 2007;27:1–7.
+
+9.
+
+10. Grossniklaus HE, Thomas JW, Vigneswaran N, Jarrett 3rd WH. Retinal
+
+hemangioblastoma. A histologic, immunohistochemical, and ultrastructural
+evaluation. Ophthalmology. 1992;99:140–5.
+
+11. Benjamin LE, Keshet E. Conditional switching of vascular endothelial growth
+
+factor (VEGF) expression in tumors: induction of endothelial cell shedding
+and regression of hemangioblastoma-like vessels by VEGF withdrawal. Proc
+Natl Acad Sci U S A. 1997;94:8761–6.
+
+12. Haase VH, Glickman JN, Socolovsky M, Jaenisch R. Vascular tumors in livers
+with targeted inactivation of the von Hippel-Lindau tumor suppressor. Proc
+Natl Acad Sci U S A. 2001;98:1583–8.
+Los M, Aarsman CJ, Terpstra L, Wittebol-Post D, Lips CJ, Blijham GH, et al.
+Elevated ocular levels of vascular endothelial growth factor in patients with
+von Hippel-Lindau disease. Ann Oncol. 1997;8:1015–22.
+
+13.
+
+14. Chan CC, Lee YS, Zhuang Z, Hackett J, Chew EY. Von Hippel-Lindau gene
+deletion and expression of hypoxia-inducible factor and ubiquitin in optic
+nerve hemangioma. Trans Am Ophthalmol Soc. 2004;102:75–9. discussion
+79–81.
+
+15. Wang Y, Abu-Asab MS, Shen D, Zhuang Z, Chew EY, Chan CC. Upregulation
+of hypoxia-inducible factors and autophagy in von Hippel-Lindau-associated
+retinal hemangioblastoma. Graefes Arch Clin Exp Ophthalmol. 2014;252:1319–27.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

@@ -1,0 +1,551 @@
+Beffermann et al. Journal of Medical Case Reports  (2015) 9:78 
+DOI 10.1186/s13256-015-0552-5
+
+JOURNAL OF MEDICAL
+CASE REPORTS
+
+CA SE R EP O R T
+Acquired hemophagocytic syndrome related to
+parainfluenza virus infection: case report
+Nicole Beffermann2, Javier Pilcante1 and Mauricio Sarmiento2*
+
+Open Access
+
+Abstract
+
+Introduction: We present the case of a patient with acquired hemophagocytic syndrome secondary to parainfluenza
+virus infection, a complication that has not, to the best of our knowledge, been previously reported.
+Case presentation: A 33-year-old Chilean man with fever secondary to parainfluenza 2 virus infection developed
+progressive cholestasis, hepatosplenomegaly, cytopenia and an increased ferritin level (>2000IU/L). A bone marrow
+analysis showed hemophagocytosis. Our patient received HLH-94 chemotherapy, and he achieved complete and
+sustained remission after a two-year follow-up, without the need for hematopoietic stem cell transplantation.
+Conclusion: Hemophagocytic syndrome is a severe disease with high mortality. A high index of suspicion is essential
+to improve survival. A viral etiology is frequent and although Epstein-Barr virus is the most frequently associated, other
+viruses like parainfluenza can cause this disease.
+Keywords: Etoposide, Hemophagocytic syndrome, Parainfluenza virus
+
+Introduction
+Hemophagocytic syndrome (HS) is a highly lethal dis-
+ease characterized by excessive activation of the immune
+system with increased levels of cytotoxic lymphocytes
+and macrophagic activity [1-4]. Characteristic features
+are the deregulation of critical pathways of the immune
+response control, an extreme inflammatory state, an in-
+crease in cytokine levels, and histiocytic cell hyperactiv-
+ity [2]. The disease mainly affects children, with an
+incidence of 1:100,000 live births in the US and 1:50,000
+live births in Sweden, with a male to female ratio of 1:1.
+There are no epidemiological studies in adults; therefore,
+the disease incidence is unknown [1]. HS is classified as
+primary if associated with genetic congenital alterations;
+and secondary if it presents as a consequence of several
+acquired diseases, such as hematologic malignancies
+(natural killer leukemia, diffuse large B cell lymphoma, T
+lymphoma and anaplastic large cell
+cell peripheral
+lymphoma), viral
+infections, rheumatoid arthritis, sys-
+temic lupus erythematosus and adult onset Still’s disease.
+There are cases described in which no specific cause
+could be identified [1] (Table 1). The most commonly
+
+* Correspondence: mauriciosarmiento@hotmail.com
+2Department of Internal Medicine and Hematology and Oncology, Pontificia
+Universidad Católica de Chile, Lira 85 4to Piso, Santiago, Chile
+Full list of author information is available at the end of the article
+
+associated viral
+infection is Epstein-Barr. Other virus
+that have been related to HS are cytomegalovirus, parvo-
+virus, herpes simplex, varicella zoster, rubella, human
+herpes virus 8 and human immunodeficiency virus
+[2-13]. Until now there have been no reports of an asso-
+ciation between HS and parainfluenza virus.
+
+A diagnosis of HS must be made according to the HLH-
+2004 trial diagnostic criteria [1,13,14] (Table 2). The most
+important and frequent features are acute onset of fever,
+rapidly progressive alteration in liver function tests, hepa-
+tosplenomegaly, lymphadenopathy, cytopenia and elevated
+ferritin levels. A finding of hemophagocytosis is helpful,
+but not absolutely necessary for diagnosis.
+
+Case presentation
+A 33-year-old Chilean man presented to our emergency
+room with a fever of one week’s duration associated with
+abdominal and back pain. On admission, fever was con-
+firmed (39°C) and findings from a physical examination
+were normal. Our patient’s daughters had also had a
+fever with virus-like upper respiratory symptoms one
+week prior to the onset of our patient’s symptoms.
+
+Initial laboratory tests showed elevated C-reactive pro-
+tein and a normal cell blood count. Blood and urine cul-
+tures showed no infection. There was no alteration in
+his biochemical serum values. A chest radiography and
+
+© 2015 Beffermann et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+
+Beffermann et al. Journal of Medical Case Reports  (2015) 9:78 
+
+Page 2 of 5
+
+Table 1 Acquired causes of hemophagocytic syndrome
+Autoimmunity
+Infections
+Systemic lupus
+Viral: Epstein-Barr,
+cytomegalovirus, herpes
+simplex, varicella, human
+immunodeficiency virus
+
+Bacterial: Brucellosis, Tuberculosis
+
+Still disease
+
+Parasites: Leishmaniasis
+
+Fungal
+
+Systemic sclerosis
+Sjögren’s
+Drug reaction (or rash) with eosinophilia
+and systemic symptoms syndrome
+
+Nodosum polyangiitis
+
+Others
+Common variable immunodeficiency
+
+Kawasaki disease
+
+Lymphoproliferative diseases
+
+Antiretroviral T therapy
+
+abdominopelvic computed tomography showed no anom-
+alies. A diagnosis of fever of unknown origin was made
+and empirical antibiotic therapy (ceftriaxone) was started.
+Respiratory and enteric viral polymerase chain reaction
+testing was performed, showing parainfluenza virus-2.
+
+Five days after admission, our patient developed painful
+bilateral cervical
+lymph nodes of 1.5cm, asymmetrical
+arthralgias in both hands, and an evanescent self-limited
+rash. Laboratory tests showed he had an elevated erythro-
+cyte sedimentation rate, anemia, and thrombocytopenia
+(Table 3). Clinical worsening was evident without any re-
+sponse to empirical antibiotic therapy. Noninfectious
+causes of fever were sought, and we ruled out immunologic
+diseases and vasculitis. Nine days after admission, we ob-
+served an alteration in his liver function test results, which
+showed a cholestatic pattern (Table 3) with very high
+ferritin levels (1776IU/L) that increased during the following
+24 hours (2352IU/L), and with evident hepatosplenomegaly.
+Viral hepatitis diagnostic tests were negative. Acquired HS
+associated with viral
+infection (parainfluenza 2) was sus-
+pected. We performed a bone marrow aspiration study:
+cytometric analysis showed increased inflammatory cells,
+concordant with an acute inflammatory process (Figure 1),
+
+whereas cytology and examination of a biopsy specimen
+showed signs of hemophagocytosis (Figure 2). We did not
+perform a genetic study of primary forms because it was
+very unlikely that our patient had a genetic disease of
+delayed presentation.
+
+Because of our patient’s rapid clinical progression with
+diagnostic elements compatible with HS, specific therapy
+was initiated.
+
+On the 11th day of our patient’s admission, chemother-
+apy protocol HLH-94 was initiated with intravenous
+etoposide (150mg/m2 twice weekly for two weeks, then
+once weekly for six weeks), intravenous dexamethasone
+(10mg/m2 daily during weeks one and two, then 5mg/m2
+daily during weeks three and four, 2.5mg/m2 daily during
+weeks five and six, and finally 1.25mg/m2 daily during
+weeks seven and eight), cyclosporine in doses needed to
+reach plasmatic levels between 200 and 400μg/dL, and
+standard prophylactic anti-fungal and antibiotic therapy.
+A couple of days after the initiation of chemotherapy, our
+patient showed an acute impairment of consciousness
+and respiratory failure without coagulopathy, requiring
+mechanical ventilation. Brain magnetic resonance im-
+aging showed a 45cm3 left thalamic hematoma, with
+
+Table 2 Diagnostic criteria for hemophagocytic syndrome according to trial HLH-2004
+Confirmed molecular disease:
+Five of eight clinical and laboratory criteria:
+
+PRF1 mutation, UNC13D, Munc 18-2, Rab27a, STX11, SH2D1A, BIRC4
+1. Fever
+
+2. Splenomegaly
+
+3. Cytopenia affecting two or more cell lines:
+(cid:129) Hemoglobin <9g/dL
+(cid:129) Platelets <100,000/mL
+(cid:129) Neutrophils <1000/mL
+4. Hypertriglyceridemia (fasting triglycerides >265mg/dL or 3mMol/L) and or hypofibrinogenemia
+(<150mg/dL)
+
+5. Hemophagocytosis in bone marrow, spleen, liver, lymph node, skin
+
+6. Decreased or absent natural killer cell activity
+7. Ferritin >500ng/mLa
+
+8. Soluble CD25 >2400U/mL
+
+aFerritin greater than 10,000ng/mL is almost confirmatory.
+
+Beffermann et al. Journal of Medical Case Reports  (2015) 9:78 
+
+Page 3 of 5
+
+Table 3 Patient’s laboratory findings
+
+Laboratory parameter (normal value)
+White blood cell count (4500 to 11,000/μL)
+Hemoglobin (12 to 16gr %)
+Platelets (140,000 to 400,000/μL)
+Alanine transaminase (10 to 40IU)
+
+Aspartate transaminase (10 to 55IU)
+
+Gamma-glutamyltransferase (4 to 50IU)
+
+Ferritin (20 to 390IU/L)
+
+Lactate dehydrogenase (135 to 225IU)
+
+Day 0: Hospital admission.
+
+Day of follow-up
+0
+6500
+
+15
+
+245,000
+
+22
+
+35
+
+30
+
+100
+
+5
+2200
+
+11
+
+102,000
+
+28
+
+50
+
+46
+
+350
+
+9
+1800
+
+10
+
+89,000
+
+93
+
+78
+
+115
+
+1776
+
+600
+
+14
+1100
+
+8
+
+9500
+
+102
+
+75
+
+150
+
+2352
+
+490
+
+28
+2000
+
+10
+
+365
+4900
+
+16
+
+130,000
+
+245,000
+
+60
+
+48
+
+64
+
+1200
+
+110
+
+18
+
+19
+
+22
+
+340
+
+100
+
+insular cortex involvement, mass effect and minimal
+midline displacement. After his respiratory failure was
+resolved, global aphasia, right-sided hemiparesis, and
+swallowing dysfunction were evident. Our patient re-
+ceived physiotherapy and speech therapy, resulting in
+progressive improvement.
+
+During the second week of chemotherapy, our patient
+had neutropenic fever, which was treated with broad
+spectrum antibiotics (cefepime plus vancomycin). Tests
+revealed a non-fungal
+lung infection, with a negative
+etiologic study. Complete resolution was achieved before
+our patient was discharged.
+
+After initiating the HLH-94 protocol, our patient’s ferritin
+levels declined gradually. Our patient’s brother was studied
+for the possibility of an allogeneic hematopoietic stem cell
+transplantation (HSCT), resulting in human leukocyte
+antigen full match compatibility. During hospitalization,
+
+our patient received two weeks of etoposide and dexa-
+methasone and was discharged to complete outpatient
+chemotherapy. Cyclosporine was gradually decreased
+until suspension one year after diagnosis. After two
+years of
+follow-up, our patient continues to be in
+complete remission without the need of a HSCT, with a
+good quality of life and ferritin levels in normal ranges.
+
+Discussion
+We describe the case of a patient with a common
+respiratory infection that progressed into acquired HS.
+Because it was highly unlikely that our patient had an
+autosomal recessive disorder, which, according to available
+evidence, would have presented earlier in life (childhood
+or adolescence), and because laboratory tests ruled out
+any other cause of macrophage hyperactivation, we believe
+
+Figure 1 Bone marrow multiparametric flow cytometry. Panel multicolor flow cytometry from patient with acquired hemophagocytic syndrome.
+The first line shows hematopoietic inmunophenotype with normal distribution of CD45, CD34 and CD15; the second line shows an inflammatory pattern
+of granulocytic population and the third line shows a normal lymphocytic population.
+
+Beffermann et al. Journal of Medical Case Reports  (2015) 9:78 
+
+Page 4 of 5
+
+had no relationship to his HS, especially considering that
+this syndrome manifests in the central nervous system pri-
+marily as encephalitis, seizures or lymphocytic meningitis.
+However, the association could not be ruled out with
+certainty.
+
+Conclusion
+HS is a very rare condition that requires a high index of
+suspicion, because there is a 90% early mortality without
+specific treatment. Hospitalists should have early suspicion
+of this lethal disease and achieve an early diagnosis,
+especially in patients with acquired disease with possible
+autoimmune or viral causes. Management should be in
+the hands of a specialist hematological
+team, with
+advanced life support in severe cases of HS. In our case,
+our patient progressed satisfactorily because of a rapid
+initiation of chemotherapy, optimal management of vital
+support, and appropriate treatment of his complications.
+HLH-94 protocol remains the mainstay of
+treatment
+[14,15] and has remarkably improved overall survival in
+acquired HS. In patients with hereditary or congenital
+forms of the disease, HSCT must be a priority.
+
+Consent
+Written informed consent was obtained from the patient
+for publication of this case report and accompanying
+images. A copy of the written consent is available for
+review by the Editor-in-Chief of this journal.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+JP and NB collected the clinical data. NB and MS were the main contributors
+in writing the manuscript. All authors read and approved the final
+manuscript.
+
+Author details
+1Universidad Católica de la Santísima Concepción de Chile, Concepción,
+Chile. 2Department of Internal Medicine and Hematology and Oncology,
+Pontificia Universidad Católica de Chile, Lira 85 4to Piso, Santiago, Chile.
+
+Received: 9 November 2014 Accepted: 20 February 2015
+
+References
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Jordan M, Allen C, Weitzman S, Filipovich A, McClain K. How I treat
+hemophagocytic lymphohistiocytosis. Blood. 2011;118(15):4041–52.
+Filipovich A. Hemophagocytic lymphohistiocytosis and other
+hemophagocytic syndromes. Immunol Allergy Clin N Am. 2008;28:293–313.
+Henter J, Elinder G, Söder O, Ost A. Incidence in Sweden and clinical
+features of familial hemophagocytic lymphohistiocytosis. Acta Paediatr
+Scand. 1991;80(4):428–35.
+Reiner A, Spivak J. Hematophagic histiocytosis. A report of 23 new patients
+and a review of the literature. Medicine (Baltimore). 1988;67(6):369–88.
+Okuda T, Sakamoto S, Deguchi T, Misawa S, Kashima K, Yoshihara T, et al.
+Hemophagocytic syndrome associated with aggressive natural killer cell
+leukemia. Am J Hematol. 1991;38(4):321–3.
+Fox C, Shannon-Lowe C, Gothard P, Kishore B, Neilson J, O’Connor N, et al.
+Epstein-Barr virus-associated hemophagocytic lymphohistiocytosis in adults
+characterized by high viral genome load within circulating natural killer
+cells. Clin Infect Dis. 2010;51(1):66–9.
+
+Figure 2 Bone marrow cytology. May-Grunwalds/Giemsa-stained
+bone marrow cytology. The pictures show increased bone marrow
+cellularity with an hemophagocytosed erythroblast (black arrow).
+
+that the presence of this virus had a pathogenic role in
+triggering the HS.
+
+Regardless of the cause or trigger, treatment of HS should
+be based on urgent commencement of chemotherapy and
+HSCT if necessary. The HLH-94 protocol has achieved an
+overall survival rate of 55% at 3.1 years in a pediatric popu-
+lation [14,15], and is particularly beneficial in the subgroup
+of patients without autosomal recessive abnormality of
+the genes responsible for the disease (heterozygous or
+homozygous) and with a clear association with viral disease,
+as in our case. HSCT is mainly performed in patients who
+are refractory to treatment and in primary forms of the
+disease, especially in children.
+
+Our patient’s response to HLH-94 was good, with
+normalization of his ferritin levels and blood cell
+counts, significant improvement in his neurological def-
+icit, and with no clinical or laboratory evidence of new
+macrophage hyperactivation. Intrathecal methotrexate
+was not used because our patient did not present with
+neurological compromise attributable to macrophage
+hyperactivation. Our patient’s intracerebral hemorrhage,
+although concomitant with the clinical course, apparently
+
+Beffermann et al. Journal of Medical Case Reports  (2015) 9:78 
+
+Page 5 of 5
+
+7.
+
+8.
+
+9.
+
+Shimizu Y, Tanae K, Takahashi N, Kohri M, Arai E, Bessho M, et al. Primary
+cutaneous anaplastic large-cell lymphoma presenting with hemophagocytic
+syndrome: a case report and review of the literature. Leuk Res. 2010;34(2):263–6.
+Karras A, Thervet E, Legendre C. Groupe Coopératif de transplantation d’Ile
+de France. Hemophagocytic syndrome in renal transplant recipients: report
+of 17 cases and review of literature. Transplantation. 2004;77(2):238–43.
+Lladó L, Figueras J, Comí S, Torras J, Serrano T, Castellote J, et al.
+Haemophagocytic syndrome after liver transplantation in adults. Transpl Int.
+2004;17(4):221–3.
+
+10. George TI, Jeng M, Berquist W, Cherry AM, Link MP, Arber DA. Epstein-Barr
+
+virus-associated peripheral T-cell lymphoma and hemophagocytic syndrome
+arising after liver transplantation: case report and review of the literature.
+Pediatr Blood Cancer. 2005;44(3):270–6.
+
+11. Chen T, Wong W, Chiou T. Hemophagocytic syndrome: an unusual
+
+12.
+
+manifestation of acute human immunodeficiency virus infection. Int J
+Hematol. 2003;78(5):450–2.
+Fardet L, Blum L, Kerob D, Agbalika F, Galicier L, Dupuy A, et al. Human
+herpes virus 8-associated hemophagocytic lymphohistiocytosis in human
+immunodeficiency virus-infected patients. Clin Infect Dis. 2003;37(2):285–91.
+
+13. Grossman J, Radhi M, Schauer D, Gerday E, Grose C, Goldman F.
+
+Development of hemophagocytic lymphohistiocytosis in triplets infected
+with HHV-8. Blood. 2005;106(4):1203–6.
+
+14. Henter J, Samuelsson-Horne A, Aricò M, Egeler R, Elinder G, Filipovich A,
+
+et al. Treatment of hemophagocytic lymphohistiocytosis with HLH-94
+immunochemotherapy and bone marrow transplantation. Blood.
+2002;100(7):2367–73.
+Trottestam H, Horne A, Aricò M, Egeler R, Filipovich A, Gadner H, et al.
+Chemoimmunotherapy for hemophagocytic lymphohistiocytosis: long-term
+results of the HLH-94 treatment protocol. Blood. 2011;118(17):4577–84.
+
+15.
+
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+
+• Convenient online submission
+
+• Thorough peer review
+
+• No space constraints or color ﬁgure charges
+
+• Immediate publication on acceptance
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+
+• Research which is freely available for redistribution
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+
+

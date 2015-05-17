@@ -1,0 +1,331 @@
+Journal of Medical Case Reports
+Journal of Medical Case Reports
+
+This Provisional PDF corresponds to the article as it appeared upon acceptance. Fully formatted
+
+PDF and full text (HTML) versions will be made available soon.
+
+Marked improvement in autoimmune pulmonary alveolar proteinosis with severe
+
+hypoxemia in a patient treated with ambroxol: a case report
+
+Journal of Medical Case Reports Sample
+
+ (2015) 9:100 
+
+doi:10.1186/s13256-015-0588-6
+
+Nao Oda (nao.oda7221@gmail.com)
+Koji Tamai (koji.tamai@gmail.com)
+
+Yujiro Suzuki (ysuzuki1957@gmail.com)
+
+Harukazu Yoshimatsu (haru.yoshi815@gmail.com)
+Hirofumi Matsuoka (hiromtok@kuhp.kyoto-u.ac.jp)
+
+Yusuke Matsumoto (matsumotoyusuke1982@gmail.com)
+
+Nobuhiko Okada (nobuhiko8242002@yahoo.co.jp)
+
+Sample
+
+ 
+
+ISSN 1752-1947
+
+Article type
+
+Case report
+
+Submission date
+
+5 December 2014
+
+Acceptance date
+
+7 April 2015
+
+Article URL
+
+http://dx.doi.org/10.1186/s13256-015-0588-6
+
+ 
+
+ 
+
+For information about publishing your research in BioMed Central journals, go to
+
+http://www.biomedcentral.com/info/authors/
+
+ 
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+© 2015 Oda et al.; licensee BioMed Central.
+
+Marked improvement in autoimmune pulmonary 
+alveolar proteinosis with severe hypoxemia in a 
+patient treated with ambroxol: a case report 
+
+Nao Oda1* 
+* Corresponding author 
+Email: nao.oda7221@gmail.com 
+
+Koji Tamai1 
+Email: koji.tamai@gmail.com 
+
+Yujiro Suzuki1 
+Email: ysuzuki1957@gmail.com 
+
+Harukazu Yoshimatsu1 
+Email: haru.yoshi815@gmail.com 
+
+Hirofumi Matsuoka1 
+Email: hiromtok@kuhp.kyoto-u.ac.jp 
+
+Yusuke Matsumoto1 
+Email: matsumotoyusuke1982@gmail.com 
+
+Nobuhiko Okada1 
+Email: nobuhiko8242002@yahoo.co.jp 
+
+1 Department of Respiratory Medicine, Shinko Hospital, 1-4-47, Wakihama-cho, 
+Chuo-ku, Kobe 651-0072, Japan 
+
+Abstract 
+
+Introduction 
+
+Pulmonary  alveolar  proteinosis  is  characterized  by  accumulation  of  surfactant  and 
+phospholipids  in  the  pulmonary  alveoli.  Whole  lung  lavage  is  considered  the  first-line 
+therapy,  which  requires  special  techniques.  To  the  best  of  our  knowledge,  there  have  only 
+been limited reports that have demonstrated the effectiveness of ambroxol on a mild case of 
+pulmonary alveolar proteinosis. 
+
+Case presentation 
+
+A  72-year-old  Japanese  woman  presented  to  our  hospital  with  a  one-year  history  of 
+productive cough and progressive dyspnea. Her chest computed tomography scan showed a 
+bilateral  crazy-paving  pattern  in  both  of  her  lungs.  She  was  diagnosed  with  autoimmune 
+pulmonary alveolar proteinosis based on bronchoalveolar lavage findings and the presence of 
+serum  anti-granulocyte  macrophage  colony-stimulating  factor  antibodies.  She  was  severely 
+hypoxemic,  so  we  recommended  whole  lung  lavage  or  inhaled  granulocyte  macrophage 
+
+colony-stimulating factor treatment, which she refused. We initiated treatment with ambroxol 
+and her symptoms markedly improved. 
+
+Conclusions 
+
+Although whole lung lavage is the first-line therapy for pulmonary alveolar proteinosis, oral 
+ambroxol could be an  alternative  treatment  option,  even in  patients with severe  respiratory 
+compromise. 
+
+Keywords 
+
+Autoimmune pulmonary alveolar proteinosis, Ambroxol, Severe hypoxemia 
+
+Introduction 
+
+Pulmonary alveolar proteinosis (PAP) is a rare interstitial disease caused by accumulation of 
+surfactant and phospholipids in the pulmonary alveoli, resulting in dyspnea, cough, fatigue, 
+and  a  crazy-paving  pattern  on  chest  computed  tomography  (CT)  [1].  PAP  is  classified  as 
+autoimmune or non-autoimmune, including secondary and congenital PAP; more than 90% 
+of  cases  are  diagnosed  as  autoimmune  PAP  [2].  The  pathogenesis  of  autoimmune  PAP 
+involves  a  neutralizing  antibody  that  directly  binds  to  granulocyte-macrophage  colony-
+stimulating  factor  (GM-CSF)  and  blocks  its  binding  to  GM-CSF  receptors  on  cells,  which 
+leads to inhibition of signaling, thereby inhibiting surfactant maturation [3]. Although whole 
+lung lavage (WLL) remains the current standard of care for PAP, other therapies, including 
+inhaled  GM-CSF,  rituximab,  and  plasmapheresis  [4,5]  have  been  proposed.  A  few  studies 
+have reported that ambroxol, a commonly used expectorant, can relieve PAP [6,7]. Here, we 
+report a case of autoimmune PAP with chronic severe hypoxemia, which responded to oral 
+administration of ambroxol. 
+
+Case presentation 
+
+A  72-year-old  Japanese  woman  presented  to  our  hospital  with  a  one-year  history  of 
+productive  cough  and  progressive  dyspnea  on  exertion.  Her  past  medical  history  included 
+only  osteomyelitis  at  35-years-old  and  she  was  not  taking  any  medications.  She  had  never 
+smoked  or  inhaled  dust  as  an  occupational  hazard.  Her  vital  signs  were  as  follows:  body 
+temperature of 36.6°C, blood pressure of 130/80mmHg, heart rate of 67 beats/min, and SpO2 
+level of 80% (room air). Her arterial blood gas analysis revealed a pH of 7.44, PaO2 level of 
+−  level  of  26.4mEq/L  on  room  air.  Her 
+43.2mmHg,  PaCO2  level  of  39.2mmHg,  and  HCO3
+chest radiographs (CXR) showed bilateral infiltrates in her mid and lower lung zones (Figure 
+1A),  and  her  chest  CT  scan  showed  bilateral  ground  glass  opacities  with  thickened 
+interlobular septa, an appearance known as the ‘crazy-paving’ pattern (Figure 2A). 
+
+Her  laboratory  tests  revealed  a  normal  complete  blood  count,  high  lactate  dehydrogenase 
+(543/mL), and high  Krebs von den  Lungen-6 level (16,189U/mL). Her pulmonary function 
+tests  taken  on  admission  revealed  a  vital  capacity  (VC)  of  1.49L,  %VC  of  68.6%,  forced 
+expiratory  volume  in  one  second  (FEV1)  of  1.17L,  FEV1/forced  vital  capacity  (FVC) 
+predicted ratio of 76.0%, and FEV1/FVC actual ratio of 84.2%. We retrieved 26/100mL of 
+bronchoalveolar lavage fluid (BALF), which was milky in appearance. Her BALF total cell 
+
+count was 6.0×104/mL;  cell differentiation revealed 23% neutrophils, 1% eosinophils, 17% 
+lymphocytes,  and  59%  macrophages.  Her  BALF  contained  copious  eosinophilic,  periodic 
+acid  Schiff-positive  granular  material,  a  finding  that  supported  a  diagnosis  of  PAP.  In 
+addition,  a  high  level  of  anti  GM-CSF  antibody  was  detected  in  her  serum  (57.5µg/mL), 
+leading to a diagnosis of autoimmune PAP. Her disease severity score (DSS) was classified 
+as DSS 5, based on severe hypoxemia (PaO2 level of 43.2mmHg). 
+
+Figure 1 Chest radiographs before and after the treatment. (A) Chest radiographs (CXR) on 
+admission. (B) CXR findings improved after one month of treatment with ambroxol. 
+
+Figure 2 Chest computed tomography (CT) scan before and after the treatment. (A) Chest 
+CT scan on admission. (B) Chest CT scan after five months of treatment with ambroxol 
+showed almost no abnormal shadows. 
+
+Considering her severe DSS, we recommended treatment with WLL under general anesthesia 
+or inhaled GM-CSF therapy. However, she refused both treatments because of concern about 
+complications  and  medical  costs;  she  also  refused  hospitalization.  Therefore,  we  started 
+domiciliary oxygen therapy and an alternative treatment of 45mg/day of ambroxol (TEIJIN 
+PHARMA,  Tokyo,  Japan).  She  was  discharged,  with  frequent  scheduled  checkup 
+examinations  at  our  outpatient  clinic.  A  few  days  after  starting  ambroxol,  she  showed 
+loosened  phlegm  and  reduced  cough,  with  progressively  improving  dyspnea.  Her  oxygen 
+saturation level in room air rose to 95%, and her CXR results showed improvement after one 
+month  (Figure  1B).  Her  chest  CT  scan  after  five  months  of  treatment  showed  almost  no 
+abnormal shadows (Figure 2B), and her pulmonary function was improved (VC of 1.88L and 
+%VC  of  90.4%).  She  has  continued  ambroxol  treatment  for  17  months  without  disease 
+progression. 
+
+Discussion 
+
+PAP  is  a  rare  lung  disease  characterized  by  the  intra-alveolar  accumulation  of  surfactant 
+lipids  and  proteins,  which  impairs  gas  exchange  and  results  in  respiratory  failure  [3].  The 
+majority of PAP is autoimmune PAP. Dranoff et al. found that an absence of local GM-CSF-
+dependent  activation  of  macrophage  in  the  lungs  is  involved  in  surfactant  clearance  [8]. 
+Autoimmune  PAP  is  now  considered  to  occur  via  a  neutralizing  antibody,  which  inhibits 
+GM-CSF  binding  to  receptors  [3].  This  leads  to  a  defect  of  alveolar  macrophages  and 
+abnormal  surfactant  metabolism,  which results  in  intra-alveolar  accumulation  of  surfactant. 
+WLL,  the  standard  therapy  for  PAP,  has  beneficial  effects  in  approximately  two  thirds  of 
+patients,  however,  it  requires  special  techniques  and  carries  the  risk  of  complications, 
+including  hypoxemia,  hydropneumothorax,  acute  respiratory  distress  syndrome,  and  post-
+procedure  infections  [1].  Inhaled  GM-CSF  has  also  been  reported  as  effective  therapy; 
+Tazawa  et  al.  conducted  a  phase  II  trial  of  GM-CSF  therapy  for  PAP  [9].  Of  35  patients 
+completing GM-CSF therapy, 24 improved, resulting in an overall response rate of 62% (24 
+out  of  39;  intension-to-treat  analysis).  The  safety  and  efficacy  of  rituximab  and 
+plasmapheresis  in  PAP  patients  is  now  being  studied  [1].  Our  patient  was  a  candidate  for 
+WLL and inhaled GM-CSF treatment because she had severe hypoxemia and was classified 
+as DSS 5 [1]. However, she refused our recommendations because she feared complications 
+and medical costs, so we chose conservative treatment with ambroxol. 
+
+The  potential  effects  of  ambroxol  for  PAP  can  be  evaluated  based  only  on  limited  case 
+reports, because controlled trials have not been conducted. Diaz et al. first reported the use of 
+ambroxol in  a  PAP  patient  in 1984,  with  inhalation  of  30mg  of  ambroxol  every  six  hours, 
+leading  to  resolution  of  symptoms  and  improvement  in  CXR  findings  and  pulmonary 
+function  tests  [7].  However,  details  about  the  patient’s  characteristics  were  not  described. 
+Only  three  additional  articles  about  the  efficacy  of  ambroxol  for  PAP  are  available  in  the 
+PubMed database in English. Hashizume described improvement in a patient with mild PAP 
+(PaO2  level  of  61.3mmHg  versus  43.2mmHg  in  our  patient)  treated  with  45mg/day  of 
+ambroxol [6]. Mahut et al. described a pediatric patient who experienced a 10-year remission 
+from PAP with ambroxol treatment, but the report concluded that the remission might have 
+been spontaneous [10]. Garcia et al. reported the unsuccessful treatment of two PAP patients 
+with oral ambroxol [11]. It remains unclear which patients will benefit from ambroxol and 
+how  ambroxol  affects  the  pathophysiology  of  PAP.  Ambroxol  may  act  on  type  II 
+pneumocytes,  which 
+in  alveolar 
+macrophages,  probably  through  an  improvement  in  surfactant  secretion  and  uptake  system 
+[12]. We hypothesize that this may improve PAP. 
+
+to  chemicophysical  and  functional  changes 
+
+leads 
+
+Our patient was successfully treated with oral ambroxol, despite the severity of her disease. 
+Though  WLL  or  inhaled  GM-CSF  therapy  remains  the  first-line  therapy  for  PAP,  oral 
+ambroxol  could  be  an  alternative  treatment  option  for  patients  with  PAP  who  have  severe 
+respiratory compromise, especially if WLL and inhaled GM-CSF therapy is not feasible, as it 
+is a simple treatment and with few side effects. 
+
+Spontaneous  resolution  occurs  in  an  estimated  7.9%  of  PAP  patients  [13].  However, 
+spontaneous resolution in patients with a PaO2 level of less than 60mmHg is considered very 
+rare [6]. Our patient had a PaO2 level of 43.2mmHg and her symptoms had been worsening 
+for  more  than  a  year  leading  to  a  diagnosis  at  the  most  severe  stage  of  the  disease. 
+Furthermore,  her  symptoms  immediately  improved  after  initiating  ambroxol.  Hence,  we 
+reasonably  conclude  that  ambroxol,  not  spontaneous  resolution,  contributed  to  the  relief  of 
+her PAP. 
+
+Conclusions 
+
+Ambroxol can improve PAP, even in patients with severe respiratory compromise. Although 
+WLL  is  the  first-line  therapy  for  PAP,  oral  administration  of  ambroxol  should  also  be 
+considered. 
+
+Consent 
+
+Written  informed consent  was  obtained  from  the  patient  for  publication  of  this  case  report 
+and  accompanying  images.  A  copy  of  the  written  consent  is  available  for  review  by  the 
+Editor-in-Chief of this journal. 
+
+Abbreviations 
+
+BALF, Bronchoalveolar lavage fluid; CT, Computed tomography; CXR, Chest radiographs; 
+DSS, Disease severity score; FEV1, Forced expiratory volume in one second; GM-CSF, 
+
+Granulocyte-macrophage colony-stimulating factor; PAP, Pulmonary alveolar proteinosis; 
+VC, Vital capacity; WLL, Whole lung lavage. 
+
+Competing interests 
+
+The authors declare that they have no competing interests. 
+
+Authors’ contributions 
+
+NO  examined  the  patient  and  drafted  the  manuscript.  KT  was  involved  in  manuscript 
+preparation  and editing.  YS supervised  the  case report.  HY  was an attending  physician for 
+this patient and was involved in diagnostics and treatment of the patient. HM, YM, and NO 
+took part in discussions about the patient and provided special advice to NO. All authors read 
+and approved the final manuscript. 
+
+References 
+
+1.  Leth  S,  Bendstrup  E,  Vestergaard  H,  Hilberg  O.  Autoimmune  pulmonary  alveolar 
+proteinosis: treatment options in year 2013. Respirology. 2013;18:82–91. 
+
+2. Inoue Y, Trapnell BC, Tazawa R, Arai T, Takada T, Hizawa N, et al. Characteristics of a 
+large  cohort  of  patients  with  autoimmune  pulmonary  alveolar  proteinosis  in  Japan.  Am  J 
+Respir Crit Care Med. 2008;177:752–62. 
+
+3. Kitamura T, Tanaka N, Watanabe J, Uchida, Kanegasaki S, Yamada Y, et al. Idiopathic 
+pulmonary alveolar proteinosis as an autoimmune disease with neutralizing antibody against 
+granulocyte/macrophage colony-stimulating factor. J Exp Med. 1999;190:875–80. 
+
+4. Kavuru MS, Malur A, Marshall I, Barna BP, Meziane M, Huizar I, et al. An open-label 
+trial of rituximab therapy in pulmonary alveolar proteinosis. Eur Respir J. 2011;38:1361–7. 
+
+5.  Luisetti  M,  Rodi  G,  Perotti  C,  Campo  I,  Mariani  F,  Pozzi  E,  et  al.  Plasmapheresis  for 
+treatment of pulmonary alveolar proteinosis. Eur Respir J. 2009;33:1220–2. 
+
+6. Hashizume T. Pulmonary alveolar proteinosis successfully treated with ambroxol. Int Med. 
+2002;41:1175–8. 
+
+7. Diaz JP, Manresa Presas F, Benasco C, Guardiola J, Munoz L, Clariana A, et al. Response 
+to surfactant activator (ambroxol) in alveolar proteinosis. Lancet. 1984;1:1023. 
+
+8. Dranoff G, Crawford AD, Sadelain M, Ream B, Rashid A, Bronson RT, et al. Involvement 
+of  granulocyte-macrophage  colony-stimulating  factor  in  pulmonary  homeostasis.  Science. 
+1994;264:713–6. 
+
+9. Tazawa R, Inoue Y, Arai T, Takada T, Kasahara Y, Hojo M, et al. Duration of benefit in 
+patients  with  autoimmune  pulmonary  alveolar  proteinosis  after  inhaled  granulocyte-
+macrophage colony-stimulating factor therapy. Chest. 2014;145:729–37. 
+
+10. Mahut B, Delacourt C, Scheinmann P, de Blic J, Mani TM, Fournet JC, et al. Pulmonary 
+alveolar  proteinosis:  experience  with  eight  pediatric  cases  and  a  review.  Pediatrics. 
+1996;97:117–22. 
+
+11. Garcia Rio F, Alvarez-Sala R, Caballero P, Prados C, Pino JM, Villamor J. Six cases of 
+pulmonary  alveolar  proteinosis:  presentation  of  unusual  associations.  Monaldi  Arch  Chest 
+Dis. 1995;50:12–5. 
+
+12. Luisetti M, Salmona M, Pozzi E, Genghini M, Spialtini L, Masturzo P. In vivo studies of 
+rat  alveolar  macrophase  microviscosity:  influence  of  pulmonary  surfactant  synthesis 
+stimulation. Lung. 1987;165:333–40. 
+
+13. Seymour JF, Presneill JJ. Pulmonary alveolar proteinosis: progress in the first 44 years. 
+Am J Respir Crit Care Med. 2002;166:215–35. 
+
+
