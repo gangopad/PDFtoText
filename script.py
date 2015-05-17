@@ -35,8 +35,8 @@ def downloadPDF(url):
     response.close()  # best practice to close the file
 
     url = url.replace("/","_");
-    filename = "/Users/UMBC/MedicalJournals/PDFs/" + str(url);
-
+    #filename = "/Users/UMBC/MedicalJournals/PDFs/" + str(url);
+    filename = "/Users/gangopad/DownloadJournals/PDFs/" + str(url);
 
     f = open(filename, 'w');                                                                                             
     f.write(html);                                                                                                                  

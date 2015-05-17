@@ -1,13 +1,17 @@
 
 python script.py
-for file in /Users/UMBC/MedicalJournals/PDFs/*.pdf
+counter=0
+for file in /Users/gangopad/DownloadJournals/PDFs/*.pdf
 do
  # do something on "$file"
  #cat "$file" >> /var/www/cdn.example.com/cache/large.css
  newfile=${file:32}
- path=/Users/UMBC/MedicalJournals/Texts/
+ #path=/Users/UMBC/MedicalJournals/Texts/
+ path=/Users/gangopad/DownloadJournals/Texts
  extension=.txt
- outfile=$path$newfile$extension
+ #outfile=$path$newfile$extension
+ outfile=file$counter$extension
  echo $outfile
  python pdf2txt.py "$file" >> $outfile
+ counter=$((counter+1))
 done
